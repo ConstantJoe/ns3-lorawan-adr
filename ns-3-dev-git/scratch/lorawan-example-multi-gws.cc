@@ -72,9 +72,9 @@ SetupPacketReceive (Ptr<Node> node)
 
 int main (int argc, char *argv[])
 { 
-  LogComponentEnable ("LoRaWANGatewayApplication", LOG_INFO);
-   LogComponentEnable ("LoRaWANEndDeviceApplication", LOG_INFO);
-  LogComponentEnableAll (LOG_PREFIX_TIME);
+  //LogComponentEnable ("LoRaWANGatewayApplication", LOG_INFO);
+  // LogComponentEnable ("LoRaWANEndDeviceApplication", LOG_INFO);
+  //LogComponentEnableAll (LOG_PREFIX_TIME);
 
   uint32_t nNodes = 4;
   uint8_t  dr = 0;
