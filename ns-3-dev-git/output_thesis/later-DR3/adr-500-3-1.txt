@@ -1,0 +1,2958 @@
+Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
+Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.089s)
+LOCATIONS START
+100 1607.34 2206.81 0
+101 -831.101 -2065.59 0
+102 110.865 4028.56 0
+103 1470.48 -1700.22 0
+104 1030.87 -432.402 0
+105 1492.1 -1945.65 0
+106 1239.24 -1715.08 0
+107 -1883.55 -3278.49 0
+108 1634.99 2847.04 0
+109 1098.47 -4335.92 0
+110 -3225.78 -2948.5 0
+111 -1073.24 -3210.44 0
+112 2069.27 1888.41 0
+113 1647.61 -1677.66 0
+114 2811.29 -2619.07 0
+115 272.993 229.258 0
+116 3659.67 -130.117 0
+117 3029.16 2001.27 0
+118 3037.26 3227.98 0
+119 -483.875 -4848.78 0
+120 -3393.42 770.667 0
+121 -1801.81 1112.27 0
+122 -1864.12 -3225.72 0
+123 -338.12 2785.93 0
+124 -2341.53 -2099.03 0
+125 -361.445 -2958.12 0
+126 3.00216 -4043.6 0
+127 -442.769 -3812.01 0
+128 -92.4965 4226.91 0
+129 -4226.41 2105.19 0
+130 131.713 878.67 0
+131 -2872.85 -229.633 0
+132 -1868.07 -872.205 0
+133 4596.64 -207.833 0
+134 -3677.15 -22.8131 0
+135 -1948.36 209.607 0
+136 1269.9 929.484 0
+137 -836.859 2698.16 0
+138 3940.61 76.7084 0
+139 -2044.94 1485.35 0
+140 -723.843 1043.2 0
+141 -2564.83 1121.85 0
+142 2290.93 -3221.94 0
+143 2489.77 3311.55 0
+144 2207.22 -2204.16 0
+145 -485.724 -4544.25 0
+146 1556.25 422.397 0
+147 -1897.35 -614.223 0
+148 1319.34 -2290.61 0
+149 4750.03 174.979 0
+150 2361.85 -3055.98 0
+151 2274.5 -2209.51 0
+152 1411.95 -3422.33 0
+153 -4052.52 1587.09 0
+154 1027.64 1129.9 0
+155 -3059.48 2687.3 0
+156 -1234.05 1575.91 0
+157 427.097 -4518.39 0
+158 3202.35 -2953.6 0
+159 -1732.95 2808.85 0
+160 -670.858 -4098.79 0
+161 -611.873 264.178 0
+162 -473.152 -1149.11 0
+163 3935.92 3067.58 0
+164 -3078.08 -538.389 0
+165 -2807.83 -390.311 0
+166 3563.17 -1978.82 0
+167 2331.22 3811.11 0
+168 2213.77 -3585.82 0
+169 1248.62 -1056.98 0
+170 3576.17 207.07 0
+171 -2083.34 -226.801 0
+172 -4039.73 331.791 0
+173 3744.52 904.595 0
+174 732.816 -398.615 0
+175 -16.732 -477.444 0
+176 3382.65 -3660.26 0
+177 2443.04 -3803.27 0
+178 4198.64 -2231.08 0
+179 -2711.54 -1108.57 0
+180 4993.53 -82.5559 0
+181 1857.16 -1399.64 0
+182 2722.76 4108.85 0
+183 -4682.15 -665.706 0
+184 2178.89 4051.4 0
+185 -3074.16 2831.72 0
+186 -3385.99 3266 0
+187 2551.63 4168.55 0
+188 -1571.6 2268.02 0
+189 -3936.55 514.874 0
+190 1757.13 1085.18 0
+191 -1113.01 -774.415 0
+192 3540.75 -3266.65 0
+193 -756.593 -2366.66 0
+194 -2315.72 3894.47 0
+195 -1291.01 -2221.14 0
+196 -3583.2 -2054.54 0
+197 4352.29 1550.81 0
+198 3641.61 -1838.82 0
+199 -1670.78 -3882.25 0
+200 -4289.03 394.288 0
+201 -332.016 -1543.6 0
+202 -1007.13 4884.89 0
+203 -3480.57 -1139.14 0
+204 -4866.59 265.756 0
+205 -1849.35 -360.005 0
+206 -2770.5 -745.43 0
+207 848.532 3639.68 0
+208 -422.463 1781.45 0
+209 -2291.37 -2144.37 0
+210 2318.42 2685.01 0
+211 26.8295 1050.19 0
+212 -3759.76 -1993.3 0
+213 2909.41 1190.01 0
+214 -4679.03 -608.556 0
+215 -2241.68 3969.83 0
+216 2281.23 2075.84 0
+217 -2574.78 1125.45 0
+218 -2169.79 -3747.24 0
+219 -1587.04 -296.446 0
+220 -4234.38 940.737 0
+221 3374.72 664.194 0
+222 -226.271 -2378.69 0
+223 -1746.57 3600.1 0
+224 4370.16 -1176.5 0
+225 3721.78 -2734.67 0
+226 -3244.92 -1400.91 0
+227 -3332.66 2045.35 0
+228 -4273.06 1553.27 0
+229 -1255.49 -2884.71 0
+230 1181.73 -3076.1 0
+231 -3757.7 362.041 0
+232 -1349.46 1937.49 0
+233 -2710.27 560.277 0
+234 2275.48 2235.12 0
+235 -1626.12 -4704.75 0
+236 2037.5 -1114.01 0
+237 2421.56 -3191.88 0
+238 -1849.6 -3565.95 0
+239 -1470.7 3101.81 0
+240 3499.87 1904.82 0
+241 -3524.56 -3.19896 0
+242 4373.75 -1454.15 0
+243 -1469.14 -4119.2 0
+244 -2016.46 2915.56 0
+245 -3113.06 -356.339 0
+246 2328.12 -3611.73 0
+247 1436 342.519 0
+248 3307.67 -1637.36 0
+249 2988.58 2586.23 0
+250 221.436 -1341.95 0
+251 4274.24 -2114.49 0
+252 295.032 -279.432 0
+253 405.919 -3834.71 0
+254 -2148.02 424.846 0
+255 -3090.26 3576.05 0
+256 561.766 392.479 0
+257 952.412 587.594 0
+258 -3853.65 -1845.18 0
+259 3336.38 1045.2 0
+260 1977.88 -3088.31 0
+261 2762.78 763.091 0
+262 402.462 4168.28 0
+263 -3723.9 -1674.02 0
+264 2458.15 -3967.05 0
+265 -4043.75 195.839 0
+266 -2037.62 4037.39 0
+267 750.54 1501.24 0
+268 -1764.12 4305.6 0
+269 1623.11 3025.68 0
+270 -192.833 -4109.68 0
+271 -4299.19 -480.1 0
+272 -608.21 832.319 0
+273 927.29 -955.239 0
+274 -1665.09 -27.8871 0
+275 737.845 -3497.44 0
+276 -1464.65 1908.43 0
+277 3041.69 186.674 0
+278 2717.94 4158.9 0
+279 1157.04 4798.47 0
+280 1503.88 -2904.17 0
+281 412.053 2418.06 0
+282 -2261.09 1239.18 0
+283 -1063.52 -515.094 0
+284 1494.59 867.149 0
+285 827.935 1093.25 0
+286 208.072 1500.27 0
+287 1892.69 76.3579 0
+288 -3540.31 1931.13 0
+289 97.4034 341.159 0
+290 -2286.72 -1007.64 0
+291 3389.47 -3630.06 0
+292 -658.625 1683.22 0
+293 3767.98 2754.34 0
+294 3906.41 2711.38 0
+295 2067.68 -821.855 0
+296 1129.16 2960.81 0
+297 -125.781 -2165.98 0
+298 -3376.26 -2463.37 0
+299 -3120.45 2318.95 0
+300 3649.46 -6.44519 0
+301 -608.828 2538.81 0
+302 -4491.64 1289.41 0
+303 2407.19 1259.97 0
+304 277.379 1191.29 0
+305 868.166 3670.06 0
+306 657.902 3562.6 0
+307 -2255.96 -3335.91 0
+308 -2536.25 -4034.03 0
+309 -664.256 3947.66 0
+310 -2808.38 3374.45 0
+311 1306.1 -1464.66 0
+312 903.16 -668.207 0
+313 408.672 2079.3 0
+314 1455.13 -3627.09 0
+315 -3031.31 -2816.95 0
+316 -2173.48 2997.44 0
+317 2422.57 -4349.45 0
+318 -1098.62 -3079.91 0
+319 1641.41 -293.192 0
+320 -3613.41 -1069.39 0
+321 1162.66 -1905.99 0
+322 -3023.13 2048.86 0
+323 -3313.22 -2370.89 0
+324 -2893.09 -3984.25 0
+325 3679.6 1915.05 0
+326 -2717.35 2041.8 0
+327 -3745.62 -2305.86 0
+328 319.304 -3824.55 0
+329 -1967.04 3798.62 0
+330 -2179.06 2682.09 0
+331 -2650.02 -2416.21 0
+332 -1779.17 -3988.04 0
+333 -3703.76 450.962 0
+334 1260.26 4262.78 0
+335 -2257.77 -657.022 0
+336 -503.752 1982.57 0
+337 -1154.87 1930.23 0
+338 3827.52 237.507 0
+339 1902.27 3687.91 0
+340 3074.26 -2097.04 0
+341 -3520.86 621.951 0
+342 1133.49 -859.474 0
+343 4740.85 80.5069 0
+344 -1031.66 4702.95 0
+345 -324.116 -3202.22 0
+346 2293 3088.71 0
+347 -65.495 1053.47 0
+348 51.7289 -1097.29 0
+349 -2210.88 -805.934 0
+350 -2731.09 63.1646 0
+351 365.763 1144.88 0
+352 827.868 -3093.47 0
+353 304.611 -806.788 0
+354 1431.96 -4680.59 0
+355 2534 -3514.05 0
+356 2010.99 -3591.02 0
+357 335.254 4277.95 0
+358 1541.2 4387.09 0
+359 -304.962 3413.13 0
+360 -2447.89 3599.23 0
+361 -1310.89 -1255.26 0
+362 2162.72 3910.63 0
+363 3204.77 -3390.73 0
+364 1807.79 -1365.78 0
+365 -2101.34 -3650.89 0
+366 -2671.12 2824.9 0
+367 2110.88 4327.07 0
+368 -913.129 -4717.78 0
+369 3237.95 -1512.96 0
+370 -1692.57 2377.07 0
+371 -4048.93 288.336 0
+372 4679.18 1405.94 0
+373 -2074.5 2367.42 0
+374 4169.44 -90.6802 0
+375 -2111.68 -200.976 0
+376 -3916.11 -155.536 0
+377 -3239.51 -2929.1 0
+378 1777.1 -1230.07 0
+379 -3517.94 2769.46 0
+380 2824.11 -378.992 0
+381 3860.54 -1314.96 0
+382 1634.01 -868.926 0
+383 -4131.48 -1162.95 0
+384 -1144.37 -1787.94 0
+385 2747.89 -1932.56 0
+386 -2409.36 1490.95 0
+387 1769.4 -2996.95 0
+388 3582.08 2375.18 0
+389 -1400.39 1251.7 0
+390 -274.336 1976.87 0
+391 890.903 -3249.48 0
+392 908.9 510.784 0
+393 -1473.79 -597.849 0
+394 -680.138 -4547.8 0
+395 -2587.41 3603.23 0
+396 -34.4809 -1582.73 0
+397 4856.72 440.884 0
+398 -927.004 2959.27 0
+399 -1827.86 310.676 0
+400 788.305 3552.92 0
+401 -53.9241 2002.11 0
+402 153.91 -2355.43 0
+403 3983.93 688.971 0
+404 2420.62 424.133 0
+405 2311.7 -3393.25 0
+406 -3241.53 -1795.22 0
+407 1960.65 965.362 0
+408 660.221 -1179.1 0
+409 -3085.01 480.434 0
+410 2095.66 -993.145 0
+411 -918.08 1814.38 0
+412 2179.64 -1401.85 0
+413 -1665.04 3959.23 0
+414 -53.1968 -2672.46 0
+415 2518.32 -1199.76 0
+416 2723.48 -834.299 0
+417 2079.22 -3283.11 0
+418 -280.607 -324.732 0
+419 -863.895 2737.62 0
+420 -4826.88 -1203.06 0
+421 1233.17 -1964.36 0
+422 -2441.98 -2890.61 0
+423 3223.03 1596.41 0
+424 -131.245 1457.29 0
+425 -551.698 -3467.57 0
+426 2832.17 1480.53 0
+427 3217 -2133.78 0
+428 2014.73 -180.987 0
+429 3855.14 -2760.83 0
+430 3319.89 -2094.26 0
+431 1825.59 1497.53 0
+432 30.6597 1001.64 0
+433 536.802 3158.91 0
+434 -3958.93 -2051.47 0
+435 -3204.84 -1085.7 0
+436 1641.6 642.573 0
+437 -4016.86 2939.28 0
+438 2669.09 3554.33 0
+439 -2729.32 -630.67 0
+440 -3815.45 1518.76 0
+441 466.453 -183.179 0
+442 360.657 -2799.36 0
+443 1835.6 830.702 0
+444 1400.24 -3096.35 0
+445 -2906.08 309.318 0
+446 2310.62 563.356 0
+447 54.8866 -35.7759 0
+448 2697.44 748.438 0
+449 1384.39 2706.24 0
+450 449.924 -2022.58 0
+451 2488.89 2053.46 0
+452 -1977.31 85.4293 0
+453 2689.88 -2112.57 0
+454 1555.61 261.969 0
+455 2484.97 2920.32 0
+456 2738.59 720.328 0
+457 702.911 -1560.05 0
+458 1022.39 -2592.59 0
+459 -226.274 -4468.74 0
+460 -3250.54 -1420.32 0
+461 -3605.03 3419.26 0
+462 3065.94 714.875 0
+463 -3844.71 2210.82 0
+464 -759.111 -3555.08 0
+465 1152.09 -2124.77 0
+466 2396.31 502.958 0
+467 4253.85 -1125.25 0
+468 -834.489 -589.952 0
+469 9.0427 -1565.18 0
+470 -1248.85 3764.99 0
+471 1161.03 794.318 0
+472 -1403.49 3921.58 0
+473 1540.23 2120.86 0
+474 3930.95 738.621 0
+475 4203.5 -1251.26 0
+476 -194.484 4800.1 0
+477 -3962.85 2438.34 0
+478 -3160.01 312.032 0
+479 -882.724 1056.44 0
+480 -1391.67 3532.06 0
+481 3730.7 -1387.66 0
+482 3317.74 519.94 0
+483 -187.968 -4604.95 0
+484 -164.085 -339.268 0
+485 2261.86 2079.93 0
+486 172.67 1265.47 0
+487 1466.67 -2551.46 0
+488 4208.06 3.53388 0
+489 -4303.73 -987.172 0
+490 2040.86 -2448.44 0
+491 -4962.57 301.332 0
+492 -1214.49 3229.44 0
+493 3984.71 49.6454 0
+494 -2397.78 -306.85 0
+495 -2155.64 3204.57 0
+496 3210.34 -2067.77 0
+497 -2200.1 4345.41 0
+498 65.046 -261.828 0
+499 -1433.48 -836.082 0
+500 -1536.2 3009.68 0
+501 -2270 3693.63 0
+502 1130.42 24.8221 0
+503 -2569.45 -558.784 0
+504 -1182.25 -4009.13 0
+505 -358.949 1867.7 0
+506 -1950.15 3778.6 0
+507 -2245.61 194.691 0
+508 -3655.54 1391.52 0
+509 3342.62 2713.31 0
+510 2604.62 -2241.31 0
+511 322.179 -3778.72 0
+512 3013.44 -1499.27 0
+513 3408.85 2244.64 0
+514 -1323.75 3084.87 0
+515 3929.13 -1496.54 0
+516 -2966.92 2147.01 0
+517 1371.78 1484.37 0
+518 4813.56 1280.06 0
+519 -3293.53 1840.07 0
+520 -2573.02 -2828.79 0
+521 -131.964 3852.22 0
+522 -2566.51 2145.92 0
+523 4497.48 -1281.69 0
+524 2251.64 -2310.33 0
+525 4700.27 -443.44 0
+526 2316.95 -1183.38 0
+527 647.004 4656.61 0
+528 -291.819 2690.52 0
+529 -738.317 -1126.22 0
+530 14.6798 -1028.77 0
+531 -1870.13 378.534 0
+532 1504.69 -3986.34 0
+533 -1128.58 -4483.21 0
+534 66.7991 -1023.01 0
+535 2588.81 -1912.14 0
+536 52.6602 2657.86 0
+537 -967.85 -21.9604 0
+538 621.53 3912.16 0
+539 3623.28 2604.2 0
+540 -1247.74 2124.92 0
+541 -2553.18 1147.56 0
+542 1968.4 3115.29 0
+543 1839.23 2466.86 0
+544 -2438.35 -1710.57 0
+545 37.853 226.03 0
+546 -841.307 3811.62 0
+547 2473.61 -102.288 0
+548 -4028.97 -613.024 0
+549 1489.57 377.731 0
+550 2892.99 1398.84 0
+551 -1932.12 -1234.88 0
+552 -1448.77 -4038.14 0
+553 -2333.7 3040.83 0
+554 1859.5 -2109.74 0
+555 -3729.51 -3210.14 0
+556 1877.91 2264.76 0
+557 3900.71 -2082.24 0
+558 3776.78 2897.63 0
+559 -3289.31 -1286.07 0
+560 3585.06 -2273.16 0
+561 2412.74 3309.15 0
+562 594.14 4409.44 0
+563 -530.008 -3137.35 0
+564 -4197.96 802.486 0
+565 -2490.69 684.776 0
+566 68.0287 -1422.48 0
+567 -718.022 3863.86 0
+568 -4079.49 -1549.17 0
+569 -134.628 1517.65 0
+570 2771 -1356.98 0
+571 297.215 -541.863 0
+572 -2405.76 -2661.04 0
+573 1933.55 2715.83 0
+574 2651.99 1405.46 0
+575 3536.35 3497.6 0
+576 -1265.49 3536.2 0
+577 2268.26 304.018 0
+578 -2900.71 2281.11 0
+579 -749.626 -4224.22 0
+580 -4058.5 -1878.81 0
+581 -2848.7 61.2064 0
+582 -1102.43 -4474.26 0
+583 -56.1934 -4027.38 0
+584 -2276.79 -1287.01 0
+585 -2253.21 2911.25 0
+586 1399.67 -659.024 0
+587 3247.74 90.5335 0
+588 -2244.76 -1746.4 0
+589 3718.46 2356.57 0
+590 -3492.02 -2481.7 0
+591 -4749.08 405.449 0
+592 2987.45 -1447.73 0
+593 -646.508 -4373.36 0
+594 4134.03 -2006.2 0
+595 2109.71 1717.01 0
+596 1105.1 -1574.57 0
+597 -3970.83 -1965.35 0
+598 4364.01 -2373.42 0
+599 245.033 2514.41 0
+later nodes start
+0 -4663.26 -1497.54 0
+1 564.141 -2691.12 0
+2 -1273.73 -4532.39 0
+3 -4254.51 -473.508 0
+4 1362.08 3532.84 0
+5 1725.18 -97.4149 0
+6 1238.24 -3098.25 0
+7 2073.72 4169.11 0
+8 -1214.7 -4013.84 0
+9 3892.84 1912.5 0
+10 -2797.39 1149.52 0
+11 3375.75 -101.796 0
+12 -3085.65 921.17 0
+13 1177.08 -4207.41 0
+14 -224.68 -4988.55 0
+15 -1574.84 -4555.86 0
+16 -2096.73 -2110.58 0
+17 1444.9 -4649.51 0
+18 -20.2299 946.366 0
+19 -633.602 774.557 0
+20 -952.546 -3672.35 0
+21 -4611.31 676.624 0
+22 -614.354 -3462.45 0
+23 901.26 -1662.9 0
+24 -957.439 -3450.35 0
+25 -1753.48 1284.54 0
+26 -3056.82 -1592.8 0
+27 868.881 3065.57 0
+28 1001.95 311.182 0
+29 622.833 -4507.77 0
+30 420.388 2130.17 0
+31 4184.33 1093.09 0
+32 -172.009 3578.09 0
+33 -442.005 651.847 0
+34 2286.44 351.005 0
+35 2228.87 -4164.75 0
+36 78.5518 -2141.24 0
+37 3982.94 2019.49 0
+38 1408.76 3318.3 0
+39 -3687.82 -3009.75 0
+40 -3857.48 2597.36 0
+41 -1478.33 4567.03 0
+42 2860.65 2586.51 0
+43 1370.44 -4730.74 0
+44 1516.99 1520.84 0
+45 3924.04 2950.12 0
+46 3567.59 -1065.13 0
+47 287.255 -1678.77 0
+48 -1779.74 1882.84 0
+49 -2476.28 3847.93 0
+50 -2239.47 3030.73 0
+51 -3400.1 -2997.88 0
+52 -2794.38 843.494 0
+53 2405.27 3551.78 0
+54 2471.78 -190.902 0
+55 -1932.71 4223.89 0
+56 -3434.83 2124.71 0
+57 -73.2649 4524.28 0
+58 1971.76 2120.01 0
+59 -285.976 2946.65 0
+60 3971.24 1729.83 0
+61 -1573.85 211.513 0
+62 -382.113 1371.16 0
+63 -4310.55 2099.02 0
+64 4157.89 -1652.35 0
+65 4623.79 301.836 0
+66 -2810.45 3256.46 0
+67 -1883.89 -1421.38 0
+68 -853.416 599.591 0
+69 3733.32 -786.108 0
+70 3638.22 3074.91 0
+71 -2338.98 -4296.7 0
+72 -2302.89 117.487 0
+73 847.292 3301.91 0
+74 -474.155 -1488.91 0
+75 3678.71 723.334 0
+76 2546.97 -4209.03 0
+77 -1094.32 -4636.3 0
+78 709.543 987.932 0
+79 2250.84 -775.348 0
+80 2032.58 3850.73 0
+81 1488.96 -2441.52 0
+82 -531.859 -4569.36 0
+83 -2812.13 2004.29 0
+84 1292.7 1360.2 0
+85 -1569.67 4339.9 0
+86 4182.99 -2025.48 0
+87 3869.12 -2803.47 0
+88 3530.39 39.4948 0
+89 -2398.89 -2686.87 0
+90 460.674 2136.47 0
+91 -1080.83 -3195.57 0
+92 2663.91 2648 0
+93 -2370.23 513.174 0
+94 -3927.34 -1375.67 0
+95 -1583.11 2952.55 0
+96 1299.94 1183.85 0
+97 261.343 3522.71 0
+98 -3162.59 -2344.57 0
+99 1838.22 4609.55 0
+LOCATIONS END
+speed up dr at 2406.43
+speed up dr at 2408.92
+speed up dr at 2424.1
+speed up dr at 2436.42
+speed up dr at 2442.09
+speed up dr at 2453.14
+speed up dr at 2465.25
+speed up dr at 2482.95
+speed up dr at 2503.95
+speed up dr at 2519.36
+speed up dr at 2536.91
+speed up dr at 2552.64
+speed up dr at 2554.58
+speed up dr at 2565.38
+speed up dr at 2594.86
+speed up dr at 2600.43
+speed up dr at 2612.91
+speed up dr at 2625.45
+speed up dr at 2635.92
+speed up dr at 2648.3
+speed up dr at 2661.22
+speed up dr at 2674.39
+speed up dr at 2676.69
+speed up dr at 2696.8
+speed up dr at 2709.13
+speed up dr at 2720.97
+speed up dr at 2725.61
+speed up dr at 2745.51
+speed up dr at 2761.1
+speed up dr at 2764.84
+speed up dr at 2782.43
+speed up dr at 2794.31
+speed up dr at 2798.39
+speed up dr at 2810.28
+speed up dr at 2822.87
+speed up dr at 2832.9
+speed up dr at 2838.51
+speed up dr at 2851.09
+speed up dr at 2863.47
+speed up dr at 2867.44
+speed up dr at 2877.2
+speed up dr at 2889.2
+speed up dr at 2905.15
+speed up dr at 2907.28
+speed up dr at 2924.36
+speed up dr at 2938.81
+speed up dr at 2944.01
+speed up dr at 2960.69
+speed up dr at 2975.74
+speed up dr at 2978.21
+speed up dr at 2998.97
+speed up dr at 3009.48
+speed up dr at 3024.55
+speed up dr at 3037.23
+speed up dr at 3042.5
+speed up dr at 3067.75
+speed up dr at 3104.21
+speed up dr at 3109.25
+speed up dr at 3141.52
+speed up dr at 3143.81
+speed up dr at 3158.39
+speed up dr at 3170.45
+speed up dr at 3174.59
+speed up dr at 3206.67
+speed up dr at 3208.54
+speed up dr at 3224.23
+speed up dr at 3252.91
+speed up dr at 3261.78
+speed up dr at 3285.14
+speed up dr at 3301.11
+speed up dr at 3303.07
+speed up dr at 3327.56
+speed up dr at 3345.48
+speed up dr at 3349.19
+speed up dr at 3370.77
+speed up dr at 3388.23
+speed up dr at 3392.38
+speed up dr at 3406.58
+speed up dr at 3421.25
+speed up dr at 3434.43
+speed up dr at 3459.54
+speed up dr at 3479.6
+speed up dr at 3493.71
+speed up dr at 3525.27
+speed up dr at 3533.96
+speed up dr at 3552.55
+speed up dr at 3564.2
+speed up dr at 3570.76
+speed up dr at 3588.42
+speed up dr at 3598.23
+speed up dr at 3602.91
+speed up dr at 3630.47
+speed up dr at 3632.68
+speed up dr at 3666.42
+speed up dr at 3670.93
+speed up dr at 3710.94
+speed up dr at 3745.01
+speed up dr at 3754.65
+speed up dr at 3811.9
+speed up dr at 3814.13
+speed up dr at 3829.05
+speed up dr at 3860.6
+speed up dr at 3866.58
+speed up dr at 3911.14
+speed up dr at 3933.15
+speed up dr at 3950.44
+speed up dr at 3982.57
+speed up dr at 3989.53
+speed up dr at 4000.35
+speed up dr at 4017.13
+speed up dr at 4032.17
+speed up dr at 4060.92
+speed up dr at 4095.1
+speed up dr at 4139.85
+speed up dr at 4153.63
+speed up dr at 4176.73
+speed up dr at 4181.78
+speed up dr at 4206.21
+speed up dr at 4269.98
+speed up dr at 4275.22
+speed up dr at 4355.96
+speed up dr at 4364.12
+speed up dr at 4412.74
+speed up dr at 4414.99
+speed up dr at 4429.49
+speed up dr at 4464.77
+speed up dr at 4487.71
+speed up dr at 4548.11
+speed up dr at 4590.6
+speed up dr at 4602.79
+speed up dr at 4663.43
+speed up dr at 4787.83
+speed up dr at 4837.73
+speed up dr at 4873.42
+speed up dr at 4955.72
+speed up dr at 5132.48
+speed up dr at 5192.14
+speed up dr at 5203.85
+speed up dr at 5474.81
+speed up dr at 5594.53
+speed up dr at 5806.52
+speed up dr at 5810.28
+speed up dr at 5834.45
+speed up dr at 5958.36
+speed up dr at 6042.17
+speed up dr at 6208.03
+speed up dr at 6282.81
+speed up dr at 6744.51
+speed up dr at 6860.1
+speed up dr at 6989.03
+speed up dr at 7058.76
+speed up dr at 8201.7
+slow down dr at 37800.6
+slow down dr at 37801.4
+slow down dr at 37801.4
+slow down dr at 37811.1
+slow down dr at 37811.4
+slow down dr at 37816.1
+slow down dr at 37821
+slow down dr at 37829.5
+slow down dr at 37831.4
+slow down dr at 37835.7
+slow down dr at 37836
+slow down dr at 37838.3
+slow down dr at 37840.9
+slow down dr at 37841.7
+slow down dr at 37844.6
+slow down dr at 37844.9
+slow down dr at 37845.3
+slow down dr at 37849.1
+slow down dr at 37851.3
+slow down dr at 37859.1
+slow down dr at 37860.5
+slow down dr at 37862.7
+slow down dr at 37873
+slow down dr at 37879.4
+slow down dr at 37881.8
+slow down dr at 37882
+slow down dr at 37882.3
+slow down dr at 37883
+slow down dr at 37884.1
+slow down dr at 37885.1
+slow down dr at 37891.7
+slow down dr at 37894.5
+slow down dr at 37895.3
+slow down dr at 37897.1
+slow down dr at 37898
+slow down dr at 37898.6
+slow down dr at 37909
+slow down dr at 37909.9
+slow down dr at 37912.3
+slow down dr at 37925.3
+slow down dr at 37928.1
+slow down dr at 37930.5
+slow down dr at 37939
+slow down dr at 37939.1
+slow down dr at 37944.3
+slow down dr at 37945.3
+slow down dr at 37951.2
+slow down dr at 37958.3
+slow down dr at 37960
+slow down dr at 37963.9
+slow down dr at 37972.7
+slow down dr at 37978.5
+slow down dr at 37979.5
+slow down dr at 37982
+slow down dr at 37983.9
+slow down dr at 37984.2
+slow down dr at 37989.1
+slow down dr at 37992
+slow down dr at 37993.9
+slow down dr at 37995.4
+slow down dr at 37996.4
+slow down dr at 38004.7
+slow down dr at 38006.1
+slow down dr at 38006.3
+slow down dr at 38007.3
+slow down dr at 38009.3
+slow down dr at 38013.3
+slow down dr at 38017.8
+slow down dr at 38022.3
+slow down dr at 38026.1
+slow down dr at 38026.2
+slow down dr at 38028
+slow down dr at 38029.3
+slow down dr at 38041.5
+slow down dr at 38047.6
+slow down dr at 38048.7
+slow down dr at 38048.9
+slow down dr at 38049.9
+slow down dr at 38053.2
+slow down dr at 38061.5
+slow down dr at 38061.6
+slow down dr at 38065.9
+slow down dr at 38066.3
+slow down dr at 38066.9
+slow down dr at 38066.9
+slow down dr at 38067.1
+slow down dr at 38070.8
+slow down dr at 38072.7
+slow down dr at 38074.5
+slow down dr at 38083.3
+slow down dr at 38089.4
+slow down dr at 38094.5
+slow down dr at 38095.5
+slow down dr at 38096.6
+slow down dr at 38102.2
+slow down dr at 38106.8
+slow down dr at 38109.3
+slow down dr at 38110.2
+slow down dr at 38110.5
+slow down dr at 38110.9
+slow down dr at 38114.3
+slow down dr at 38114.4
+slow down dr at 38114.6
+slow down dr at 38117.9
+slow down dr at 38120
+slow down dr at 38125.4
+slow down dr at 38126.4
+slow down dr at 38128.2
+slow down dr at 38133.8
+slow down dr at 38133.9
+slow down dr at 38135.7
+slow down dr at 38139.3
+slow down dr at 38143.5
+slow down dr at 38151.1
+slow down dr at 38151.8
+slow down dr at 38158.1
+slow down dr at 38162.3
+slow down dr at 38172.2
+slow down dr at 38172.3
+slow down dr at 38173.5
+slow down dr at 38174
+slow down dr at 38174.5
+slow down dr at 38187.4
+slow down dr at 38189.7
+slow down dr at 38194.2
+slow down dr at 38194.4
+slow down dr at 38197.1
+slow down dr at 38197.5
+slow down dr at 38202.2
+slow down dr at 38204.9
+slow down dr at 38210.1
+slow down dr at 38210.2
+slow down dr at 38211.2
+slow down dr at 38211.7
+slow down dr at 38218.4
+slow down dr at 38221.7
+slow down dr at 38222.1
+slow down dr at 38223.5
+slow down dr at 38230.1
+slow down dr at 38234.1
+slow down dr at 38237.2
+slow down dr at 38239.4
+slow down dr at 38240.2
+slow down dr at 38243.6
+slow down dr at 38244.9
+slow down dr at 38245.3
+slow down dr at 38250.8
+slow down dr at 38251.6
+slow down dr at 38253.3
+slow down dr at 38255.3
+slow down dr at 38255.6
+slow down dr at 38263.2
+slow down dr at 38264
+slow down dr at 38269.1
+slow down dr at 38279.5
+slow down dr at 38280.1
+slow down dr at 38290.8
+slow down dr at 38292.1
+slow down dr at 38294.6
+slow down dr at 38298.4
+slow down dr at 38298.7
+slow down dr at 38299
+slow down dr at 38306.4
+slow down dr at 38314.9
+slow down dr at 38315.3
+slow down dr at 38316.9
+slow down dr at 38317.1
+slow down dr at 38317.7
+slow down dr at 38319.6
+slow down dr at 38328.3
+slow down dr at 38330.1
+slow down dr at 38334.4
+slow down dr at 38337.1
+slow down dr at 38339.4
+slow down dr at 38343
+slow down dr at 38344.8
+slow down dr at 38349.1
+slow down dr at 38350.8
+slow down dr at 38352.6
+slow down dr at 38357.7
+slow down dr at 38357.7
+slow down dr at 38361.1
+slow down dr at 38363.7
+slow down dr at 38365.5
+slow down dr at 38368.1
+slow down dr at 38372.7
+slow down dr at 38374.5
+slow down dr at 38375.4
+slow down dr at 38378.4
+slow down dr at 38383
+slow down dr at 38392.5
+slow down dr at 38395.8
+slow down dr at 38396
+slow down dr at 38398.1
+slow down dr at 38398.9
+slow down dr at 57016.1
+slow down dr at 57031.4
+slow down dr at 57045.3
+slow down dr at 57060.5
+slow down dr at 57073
+slow down dr at 57082.3
+slow down dr at 57094.5
+slow down dr at 57097.1
+slow down dr at 57098
+slow down dr at 57109.9
+slow down dr at 57160
+slow down dr at 57253.2
+slow down dr at 57270.8
+slow down dr at 57289.4
+slow down dr at 57294.5
+slow down dr at 57306.8
+slow down dr at 57310.9
+slow down dr at 57320
+slow down dr at 57325.3
+slow down dr at 57394.4
+slow down dr at 57404.9
+slow down dr at 57422.1
+slow down dr at 57445.3
+slow down dr at 57469.1
+slow down dr at 57498.7
+slow down dr at 57515.3
+slow down dr at 57557.7
+slow down dr at 57578.4
+slow down dr at 57592.5
+slow down dr at 57595.8
+slow down dr at 60420.7
+slow down dr at 70741.9
+slow down dr at 73546.1
+slow down dr at 76262.7
+slow down dr at 78144.3
+slow down dr at 82895.3
+slow down dr at 84314.3
+slow down dr at 87241.5
+slow down dr at 88244.9
+slow down dr at 89428.1
+slow down dr at 89798
+slow down dr at 96234.6
+slow down dr at 96372.1
+slow down dr at 106999
+slow down dr at 109257
+slow down dr at 113295
+slow down dr at 125373
+slow down dr at 136131
+slow down dr at 139331
+slow down dr at 150042
+slow down dr at 151743
+speed up dr at 152404
+speed up dr at 152443
+speed up dr at 152509
+speed up dr at 152529
+speed up dr at 152559
+speed up dr at 152567
+speed up dr at 152685
+speed up dr at 152690
+speed up dr at 152740
+speed up dr at 152805
+speed up dr at 152837
+speed up dr at 152941
+speed up dr at 152981
+speed up dr at 153559
+slow down dr at 153920
+speed up dr at 155565
+speed up dr at 155687
+slow down dr at 158852
+slow down dr at 161823
+slow down dr at 172372
+slow down dr at 179953
+slow down dr at 187815
+slow down dr at 187816
+slow down dr at 187820
+slow down dr at 187833
+slow down dr at 187842
+slow down dr at 187850
+slow down dr at 187854
+slow down dr at 187854
+slow down dr at 187858
+slow down dr at 187859
+slow down dr at 187860
+slow down dr at 187861
+slow down dr at 187863
+slow down dr at 187864
+slow down dr at 187872
+slow down dr at 187873
+slow down dr at 187879
+slow down dr at 187898
+slow down dr at 187915
+slow down dr at 187922
+slow down dr at 187924
+slow down dr at 187939
+slow down dr at 187951
+slow down dr at 187957
+slow down dr at 187966
+slow down dr at 187968
+slow down dr at 187970
+slow down dr at 187976
+slow down dr at 187979
+slow down dr at 187981
+slow down dr at 187996
+slow down dr at 187997
+slow down dr at 188044
+slow down dr at 188046
+slow down dr at 188051
+slow down dr at 188060
+slow down dr at 188069
+slow down dr at 188074
+slow down dr at 188116
+slow down dr at 188122
+slow down dr at 188151
+slow down dr at 188160
+slow down dr at 188179
+slow down dr at 188182
+slow down dr at 188185
+slow down dr at 188189
+slow down dr at 188202
+slow down dr at 188205
+slow down dr at 188230
+slow down dr at 188233
+slow down dr at 188236
+slow down dr at 188258
+slow down dr at 188259
+slow down dr at 188277
+slow down dr at 188282
+slow down dr at 188288
+slow down dr at 188305
+slow down dr at 188314
+slow down dr at 188315
+slow down dr at 188322
+slow down dr at 188324
+slow down dr at 188337
+slow down dr at 188337
+slow down dr at 188351
+slow down dr at 188387
+slow down dr at 188398
+slow down dr at 188399
+slow down dr at 193495
+slow down dr at 198528
+slow down dr at 207016
+slow down dr at 207042
+slow down dr at 207050
+slow down dr at 207054
+slow down dr at 207054
+slow down dr at 207058
+slow down dr at 207060
+slow down dr at 207061
+slow down dr at 207063
+slow down dr at 207064
+slow down dr at 207098
+slow down dr at 207139
+slow down dr at 207151
+slow down dr at 207166
+slow down dr at 207168
+slow down dr at 207170
+slow down dr at 207176
+slow down dr at 207179
+slow down dr at 207197
+slow down dr at 207244
+slow down dr at 207246
+slow down dr at 207251
+slow down dr at 207260
+slow down dr at 207269
+slow down dr at 207322
+slow down dr at 207351
+slow down dr at 207382
+slow down dr at 207385
+slow down dr at 207402
+slow down dr at 207430
+slow down dr at 207433
+slow down dr at 207436
+slow down dr at 207458
+slow down dr at 207459
+slow down dr at 207482
+slow down dr at 207488
+slow down dr at 207514
+slow down dr at 207515
+slow down dr at 207522
+slow down dr at 207537
+slow down dr at 207537
+slow down dr at 207587
+slow down dr at 207598
+slow down dr at 207599
+slow down dr at 226216
+slow down dr at 226258
+slow down dr at 226339
+slow down dr at 226351
+slow down dr at 226366
+slow down dr at 226370
+slow down dr at 226469
+slow down dr at 226585
+slow down dr at 226688
+slow down dr at 226737
+slow down dr at 241912
+slow down dr at 249514
+slow down dr at 250861
+slow down dr at 273599
+slow down dr at 284579
+starting energy print out
+Node 100 Energy used overall: 44.1013
+Node 101 Energy used overall: 28.5865
+Node 102 Energy used overall: 65.725
+Node 103 Energy used overall: 28.5865
+Node 104 Energy used overall: 16.6745
+Node 105 Energy used overall: 28.9083
+Node 106 Energy used overall: 28.3598
+Node 107 Energy used overall: 61.5072
+Node 108 Energy used overall: 43.9938
+Node 109 Energy used overall: 65.8854
+Node 110 Energy used overall: 65.847
+Node 111 Energy used overall: 44.5261
+Node 112 Energy used overall: 43.9938
+Node 113 Energy used overall: 28.3982
+Node 114 Energy used overall: 63.3428
+Node 115 Energy used overall: 15.9349
+Node 116 Energy used overall: 43.9845
+Node 117 Energy used overall: 44.0056
+Node 118 Energy used overall: 65.8141
+Node 119 Energy used overall: 111.343
+Node 120 Energy used overall: 43.9938
+Node 121 Energy used overall: 28.1606
+Node 122 Energy used overall: 44.546
+Node 123 Energy used overall: 44.0853
+Node 124 Energy used overall: 44.3815
+Node 125 Energy used overall: 44.0201
+Node 126 Energy used overall: 66.2903
+Node 127 Energy used overall: 54.8644
+Node 128 Energy used overall: 65.8178
+Node 129 Energy used overall: 65.9763
+Node 130 Energy used overall: 16.3555
+Node 131 Energy used overall: 44.3636
+Node 132 Energy used overall: 21.424
+Node 133 Energy used overall: 65.8998
+Node 134 Energy used overall: 43.9552
+Node 135 Energy used overall: 21.5278
+Node 136 Energy used overall: 17.5766
+Node 137 Energy used overall: 44.1013
+Node 138 Energy used overall: 66.0304
+Node 139 Energy used overall: 28.6288
+Node 140 Energy used overall: 16.991
+Node 141 Energy used overall: 44.0947
+Node 142 Energy used overall: 66.0156
+Node 143 Energy used overall: 65.9535
+Node 144 Energy used overall: 44.1128
+Node 145 Energy used overall: 65.8656
+Node 146 Energy used overall: 17.572
+Node 147 Energy used overall: 21.4882
+Node 148 Energy used overall: 44.0654
+Node 149 Energy used overall: 107.805
+Node 150 Energy used overall: 56.1182
+Node 151 Energy used overall: 44.1729
+Node 152 Energy used overall: 44.4721
+Node 153 Energy used overall: 65.8658
+Node 154 Energy used overall: 17.9311
+Node 155 Energy used overall: 65.8951
+Node 156 Energy used overall: 21.8239
+Node 157 Energy used overall: 65.7293
+Node 158 Energy used overall: 66.2408
+Node 159 Energy used overall: 44.4651
+Node 160 Energy used overall: 65.6906
+Node 161 Energy used overall: 16.1894
+Node 162 Energy used overall: 16.8026
+Node 163 Energy used overall: 111.593
+Node 164 Energy used overall: 43.9683
+Node 165 Energy used overall: 44.2344
+Node 166 Energy used overall: 65.8366
+Node 167 Energy used overall: 66.9302
+Node 168 Energy used overall: 66.0643
+Node 169 Energy used overall: 17.664
+Node 170 Energy used overall: 44.0359
+Node 171 Energy used overall: 21.7923
+Node 172 Energy used overall: 66.0242
+Node 173 Energy used overall: 61.6369
+Node 174 Energy used overall: 16.8355
+Node 175 Energy used overall: 15.8544
+Node 176 Energy used overall: 111.317
+Node 177 Energy used overall: 65.8308
+Node 178 Energy used overall: 66.012
+Node 179 Energy used overall: 43.9938
+Node 180 Energy used overall: 111.361
+Node 181 Energy used overall: 28.3489
+Node 182 Energy used overall: 111.333
+Node 183 Energy used overall: 100.926
+Node 184 Energy used overall: 65.8713
+Node 185 Energy used overall: 65.8658
+Node 186 Energy used overall: 111.548
+Node 187 Energy used overall: 111.426
+Node 188 Energy used overall: 44.2445
+Node 189 Energy used overall: 66.1814
+Node 190 Energy used overall: 21.5196
+Node 191 Energy used overall: 17.548
+Node 192 Energy used overall: 111.517
+Node 193 Energy used overall: 28.9057
+Node 194 Energy used overall: 66.0462
+Node 195 Energy used overall: 28.4896
+Node 196 Energy used overall: 65.8957
+Node 197 Energy used overall: 65.7836
+Node 198 Energy used overall: 65.7198
+Node 199 Energy used overall: 65.9827
+Node 200 Energy used overall: 65.8951
+Node 201 Energy used overall: 17.6591
+Node 202 Energy used overall: 111.494
+Node 203 Energy used overall: 44.1615
+Node 204 Energy used overall: 111.378
+Node 205 Energy used overall: 21.6035
+Node 206 Energy used overall: 43.958
+Node 207 Energy used overall: 44.1401
+Node 208 Energy used overall: 21.3609
+Node 209 Energy used overall: 44.2087
+Node 210 Energy used overall: 44.0771
+Node 211 Energy used overall: 16.5691
+Node 212 Energy used overall: 65.8074
+Node 213 Energy used overall: 43.9938
+Node 214 Energy used overall: 107.562
+Node 215 Energy used overall: 65.9152
+Node 216 Energy used overall: 44.1143
+Node 217 Energy used overall: 43.9214
+Node 218 Energy used overall: 65.8865
+Node 219 Energy used overall: 17.6178
+Node 220 Energy used overall: 65.7943
+Node 221 Energy used overall: 44.0348
+Node 222 Energy used overall: 29.073
+Node 223 Energy used overall: 65.6906
+Node 224 Energy used overall: 65.7561
+Node 225 Energy used overall: 66.0441
+Node 226 Energy used overall: 44.0706
+Node 227 Energy used overall: 66.1044
+Node 228 Energy used overall: 66.0891
+Node 229 Energy used overall: 44.0654
+Node 230 Energy used overall: 44.1371
+Node 231 Energy used overall: 44.2388
+Node 232 Energy used overall: 28.4611
+Node 233 Energy used overall: 44.1345
+Node 234 Energy used overall: 44.0654
+Node 235 Energy used overall: 111.309
+Node 236 Energy used overall: 28.3873
+Node 237 Energy used overall: 65.8951
+Node 238 Energy used overall: 65.749
+Node 239 Energy used overall: 43.9938
+Node 240 Energy used overall: 66.0051
+Node 241 Energy used overall: 44.1341
+Node 242 Energy used overall: 65.9226
+Node 243 Energy used overall: 65.8951
+Node 244 Energy used overall: 44.0435
+Node 245 Energy used overall: 43.9938
+Node 246 Energy used overall: 65.8573
+Node 247 Energy used overall: 17.6582
+Node 248 Energy used overall: 43.9926
+Node 249 Energy used overall: 65.9535
+Node 250 Energy used overall: 17.9175
+Node 251 Energy used overall: 105.532
+Node 252 Energy used overall: 15.4952
+Node 253 Energy used overall: 66.5271
+Node 254 Energy used overall: 28.5796
+Node 255 Energy used overall: 65.9532
+Node 256 Energy used overall: 16.2158
+Node 257 Energy used overall: 16.943
+Node 258 Energy used overall: 65.8658
+Node 259 Energy used overall: 44.0706
+Node 260 Energy used overall: 44.4527
+Node 261 Energy used overall: 43.958
+Node 262 Energy used overall: 65.952
+Node 263 Energy used overall: 65.9827
+Node 264 Energy used overall: 66.1382
+Node 265 Energy used overall: 66.242
+Node 266 Energy used overall: 65.9242
+Node 267 Energy used overall: 17.4887
+Node 268 Energy used overall: 66.0048
+Node 269 Energy used overall: 44.0973
+Node 270 Energy used overall: 66.0559
+Node 271 Energy used overall: 66.6381
+Node 272 Energy used overall: 16.6516
+Node 273 Energy used overall: 17.617
+Node 274 Energy used overall: 17.549
+Node 275 Energy used overall: 44.1071
+Node 276 Energy used overall: 28.2305
+Node 277 Energy used overall: 43.7789
+Node 278 Energy used overall: 111.367
+Node 279 Energy used overall: 111.317
+Node 280 Energy used overall: 44.0853
+Node 281 Energy used overall: 28.335
+Node 282 Energy used overall: 28.7019
+Node 283 Energy used overall: 17.1326
+Node 284 Energy used overall: 17.4352
+Node 285 Energy used overall: 17.495
+Node 286 Energy used overall: 17.494
+Node 287 Energy used overall: 21.4418
+Node 288 Energy used overall: 65.8813
+Node 289 Energy used overall: 15.6732
+Node 290 Energy used overall: 28.3873
+Node 291 Energy used overall: 111.396
+Node 292 Energy used overall: 21.5278
+Node 293 Energy used overall: 65.8842
+Node 294 Energy used overall: 91.9857
+Node 295 Energy used overall: 29.0707
+Node 296 Energy used overall: 44.1371
+Node 297 Energy used overall: 28.8716
+Node 298 Energy used overall: 65.8366
+Node 299 Energy used overall: 65.8429
+Node 300 Energy used overall: 44.1651
+Node 301 Energy used overall: 43.958
+Node 302 Energy used overall: 65.8671
+Node 303 Energy used overall: 43.958
+Node 304 Energy used overall: 17.087
+Node 305 Energy used overall: 60.1132
+Node 306 Energy used overall: 44.2657
+Node 307 Energy used overall: 65.8658
+Node 308 Energy used overall: 85.4861
+Node 309 Energy used overall: 65.8074
+Node 310 Energy used overall: 65.8042
+Node 311 Energy used overall: 21.7121
+Node 312 Energy used overall: 16.5759
+Node 313 Energy used overall: 28.3528
+Node 314 Energy used overall: 62.8474
+Node 315 Energy used overall: 65.8074
+Node 316 Energy used overall: 44.0727
+Node 317 Energy used overall: 111.507
+Node 318 Energy used overall: 44.0603
+Node 319 Energy used overall: 17.4665
+Node 320 Energy used overall: 44.375
+Node 321 Energy used overall: 28.3913
+Node 322 Energy used overall: 44.1024
+Node 323 Energy used overall: 66.0194
+Node 324 Energy used overall: 111.364
+Node 325 Energy used overall: 65.7886
+Node 326 Energy used overall: 43.9274
+Node 327 Energy used overall: 65.7339
+Node 328 Energy used overall: 63.9638
+Node 329 Energy used overall: 66.2186
+Node 330 Energy used overall: 44.305
+Node 331 Energy used overall: 44.0935
+Node 332 Energy used overall: 65.7781
+Node 333 Energy used overall: 44.3482
+Node 334 Energy used overall: 65.7461
+Node 335 Energy used overall: 28.4367
+Node 336 Energy used overall: 21.5741
+Node 337 Energy used overall: 28.6668
+Node 338 Energy used overall: 60.95
+Node 339 Energy used overall: 65.6322
+Node 340 Energy used overall: 44.4758
+Node 341 Energy used overall: 43.9799
+Node 342 Energy used overall: 17.636
+Node 343 Energy used overall: 93.7366
+Node 344 Energy used overall: 88.5855
+Node 345 Energy used overall: 44.1371
+Node 346 Energy used overall: 56.7381
+Node 347 Energy used overall: 16.8808
+Node 348 Energy used overall: 16.7232
+Node 349 Energy used overall: 28.3873
+Node 350 Energy used overall: 44.5687
+Node 351 Energy used overall: 17.0501
+Node 352 Energy used overall: 43.8864
+Node 353 Energy used overall: 16.4936
+Node 354 Energy used overall: 111.333
+Node 355 Energy used overall: 66.1633
+Node 356 Energy used overall: 65.8074
+Node 357 Energy used overall: 65.749
+Node 358 Energy used overall: 66.9216
+Node 359 Energy used overall: 43.9938
+Node 360 Energy used overall: 66.2801
+Node 361 Energy used overall: 21.6035
+Node 362 Energy used overall: 65.7886
+Node 363 Energy used overall: 112.919
+Node 364 Energy used overall: 28.9162
+Node 365 Energy used overall: 65.7369
+Node 366 Energy used overall: 66.6984
+Node 367 Energy used overall: 111.601
+Node 368 Energy used overall: 108.111
+Node 369 Energy used overall: 43.9274
+Node 370 Energy used overall: 44.2445
+Node 371 Energy used overall: 65.8366
+Node 372 Energy used overall: 111.317
+Node 373 Energy used overall: 44.3929
+Node 374 Energy used overall: 65.9243
+Node 375 Energy used overall: 28.3558
+Node 376 Energy used overall: 65.7845
+Node 377 Energy used overall: 65.8658
+Node 378 Energy used overall: 28.8772
+Node 379 Energy used overall: 65.8157
+Node 380 Energy used overall: 44.2087
+Node 381 Energy used overall: 65.9511
+Node 382 Energy used overall: 21.615
+Node 383 Energy used overall: 65.7443
+Node 384 Energy used overall: 28.5448
+Node 385 Energy used overall: 44.4072
+Node 386 Energy used overall: 43.9938
+Node 387 Energy used overall: 43.9529
+Node 388 Energy used overall: 65.9535
+Node 389 Energy used overall: 21.4065
+Node 390 Energy used overall: 21.5227
+Node 391 Energy used overall: 44.1534
+Node 392 Energy used overall: 16.7157
+Node 393 Energy used overall: 17.377
+Node 394 Energy used overall: 66.0553
+Node 395 Energy used overall: 65.8366
+Node 396 Energy used overall: 17.9119
+Node 397 Energy used overall: 111.541
+Node 398 Energy used overall: 44.0221
+Node 399 Energy used overall: 21.4418
+Node 400 Energy used overall: 44.1832
+Node 401 Energy used overall: 21.774
+Node 402 Energy used overall: 28.3873
+Node 403 Energy used overall: 65.7782
+Node 404 Energy used overall: 28.5697
+Node 405 Energy used overall: 66.0861
+Node 406 Energy used overall: 44.0256
+Node 407 Energy used overall: 28.7062
+Node 408 Energy used overall: 17.529
+Node 409 Energy used overall: 44.0654
+Node 410 Energy used overall: 28.5726
+Node 411 Energy used overall: 21.8737
+Node 412 Energy used overall: 44.0621
+Node 413 Energy used overall: 65.9026
+Node 414 Energy used overall: 44.2393
+Node 415 Energy used overall: 44.0296
+Node 416 Energy used overall: 44.5258
+Node 417 Energy used overall: 65.9878
+Node 418 Energy used overall: 16.0494
+Node 419 Energy used overall: 44.0296
+Node 420 Energy used overall: 111.345
+Node 421 Energy used overall: 28.5215
+Node 422 Energy used overall: 57.7266
+Node 423 Energy used overall: 44.1474
+Node 424 Energy used overall: 17.6178
+Node 425 Energy used overall: 44.04
+Node 426 Energy used overall: 43.9938
+Node 427 Energy used overall: 67.0483
+Node 428 Energy used overall: 21.4228
+Node 429 Energy used overall: 92.446
+Node 430 Energy used overall: 65.8126
+Node 431 Energy used overall: 28.4957
+Node 432 Energy used overall: 16.4043
+Node 433 Energy used overall: 44.3615
+Node 434 Energy used overall: 65.9827
+Node 435 Energy used overall: 44.2087
+Node 436 Energy used overall: 21.2051
+Node 437 Energy used overall: 111.333
+Node 438 Energy used overall: 66.0059
+Node 439 Energy used overall: 44.1302
+Node 440 Energy used overall: 65.9243
+Node 441 Energy used overall: 16.1346
+Node 442 Energy used overall: 44.1729
+Node 443 Energy used overall: 21.6123
+Node 444 Energy used overall: 43.8864
+Node 445 Energy used overall: 43.8864
+Node 446 Energy used overall: 28.5041
+Node 447 Energy used overall: 15.7184
+Node 448 Energy used overall: 44.1421
+Node 449 Energy used overall: 44.0654
+Node 450 Energy used overall: 21.3887
+Node 451 Energy used overall: 44.4724
+Node 452 Energy used overall: 21.6965
+Node 453 Energy used overall: 44.1064
+Node 454 Energy used overall: 17.8834
+Node 455 Energy used overall: 61.4979
+Node 456 Energy used overall: 44.2087
+Node 457 Energy used overall: 17.3996
+Node 458 Energy used overall: 44.1371
+Node 459 Energy used overall: 66.046
+Node 460 Energy used overall: 44.167
+Node 461 Energy used overall: 111.648
+Node 462 Energy used overall: 43.9935
+Node 463 Energy used overall: 65.9054
+Node 464 Energy used overall: 44.533
+Node 465 Energy used overall: 28.3558
+Node 466 Energy used overall: 28.6278
+Node 467 Energy used overall: 66.1373
+Node 468 Energy used overall: 16.739
+Node 469 Energy used overall: 17.3358
+Node 470 Energy used overall: 65.8137
+Node 471 Energy used overall: 17.4052
+Node 472 Energy used overall: 65.8951
+Node 473 Energy used overall: 43.9938
+Node 474 Energy used overall: 65.7782
+Node 475 Energy used overall: 65.8728
+Node 476 Energy used overall: 111.367
+Node 477 Energy used overall: 65.8269
+Node 478 Energy used overall: 44.249
+Node 479 Energy used overall: 17.5236
+Node 480 Energy used overall: 49.2227
+Node 481 Energy used overall: 65.9624
+Node 482 Energy used overall: 43.9594
+Node 483 Energy used overall: 65.7415
+Node 484 Energy used overall: 15.619
+Node 485 Energy used overall: 44.0384
+Node 486 Energy used overall: 16.7982
+Node 487 Energy used overall: 44.2384
+Node 488 Energy used overall: 65.907
+Node 489 Energy used overall: 65.9346
+Node 490 Energy used overall: 45.0644
+Node 491 Energy used overall: 111.652
+Node 492 Energy used overall: 43.958
+Node 493 Energy used overall: 64.407
+Node 494 Energy used overall: 28.6148
+Node 495 Energy used overall: 65.8847
+Node 496 Energy used overall: 65.8429
+Node 497 Energy used overall: 106.632
+Node 498 Energy used overall: 16.0337
+Node 499 Energy used overall: 17.6157
+Node 500 Energy used overall: 43.9159
+Node 501 Energy used overall: 65.9999
+Node 502 Energy used overall: 16.6475
+Node 503 Energy used overall: 44.1462
+Node 504 Energy used overall: 66.3172
+Node 505 Energy used overall: 21.5631
+Node 506 Energy used overall: 66.3139
+Node 507 Energy used overall: 28.4159
+Node 508 Energy used overall: 65.9976
+Node 509 Energy used overall: 66.2743
+Node 510 Energy used overall: 43.9863
+Node 511 Energy used overall: 59.8166
+Node 512 Energy used overall: 44.5363
+Node 513 Energy used overall: 65.7782
+Node 514 Energy used overall: 44.2497
+Node 515 Energy used overall: 65.7782
+Node 516 Energy used overall: 44.188
+Node 517 Energy used overall: 21.6087
+Node 518 Energy used overall: 111.497
+Node 519 Energy used overall: 44.1183
+Node 520 Energy used overall: 65.749
+Node 521 Energy used overall: 66.2982
+Node 522 Energy used overall: 44.0654
+Node 523 Energy used overall: 66.0107
+Node 524 Energy used overall: 44.1371
+Node 525 Energy used overall: 85.9688
+Node 526 Energy used overall: 43.8408
+Node 527 Energy used overall: 66.527
+Node 528 Energy used overall: 44.0296
+Node 529 Energy used overall: 17.4763
+Node 530 Energy used overall: 17.1995
+Node 531 Energy used overall: 21.3669
+Node 532 Energy used overall: 65.8178
+Node 533 Energy used overall: 65.9968
+Node 534 Energy used overall: 16.6189
+Node 535 Energy used overall: 44.0296
+Node 536 Energy used overall: 43.9938
+Node 537 Energy used overall: 16.2318
+Node 538 Energy used overall: 65.7845
+Node 539 Energy used overall: 65.9042
+Node 540 Energy used overall: 28.5096
+Node 541 Energy used overall: 43.8864
+Node 542 Energy used overall: 44.0208
+Node 543 Energy used overall: 44.1371
+Node 544 Energy used overall: 44.1825
+Node 545 Energy used overall: 15.7688
+Node 546 Energy used overall: 65.9195
+Node 547 Energy used overall: 28.555
+Node 548 Energy used overall: 65.6614
+Node 549 Energy used overall: 17.6078
+Node 550 Energy used overall: 44.243
+Node 551 Energy used overall: 28.4401
+Node 552 Energy used overall: 65.6951
+Node 553 Energy used overall: 65.7908
+Node 554 Energy used overall: 44.0654
+Node 555 Energy used overall: 105.719
+Node 556 Energy used overall: 43.9495
+Node 557 Energy used overall: 66.1322
+Node 558 Energy used overall: 96.0062
+Node 559 Energy used overall: 44.0068
+Node 560 Energy used overall: 65.7886
+Node 561 Energy used overall: 65.8951
+Node 562 Energy used overall: 65.9002
+Node 563 Energy used overall: 44.2247
+Node 564 Energy used overall: 65.8433
+Node 565 Energy used overall: 44.0654
+Node 566 Energy used overall: 17.4493
+Node 567 Energy used overall: 65.9473
+Node 568 Energy used overall: 65.7886
+Node 569 Energy used overall: 17.8073
+Node 570 Energy used overall: 44.3018
+Node 571 Energy used overall: 16.0134
+Node 572 Energy used overall: 44.0823
+Node 573 Energy used overall: 44.0296
+Node 574 Energy used overall: 43.8147
+Node 575 Energy used overall: 111.494
+Node 576 Energy used overall: 44.0126
+Node 577 Energy used overall: 28.3419
+Node 578 Energy used overall: 44.0606
+Node 579 Energy used overall: 65.8951
+Node 580 Energy used overall: 65.8556
+Node 581 Energy used overall: 44.2305
+Node 582 Energy used overall: 66.3959
+Node 583 Energy used overall: 66.1071
+Node 584 Energy used overall: 44.396
+Node 585 Energy used overall: 44.1367
+Node 586 Energy used overall: 17.8507
+Node 587 Energy used overall: 44.2445
+Node 588 Energy used overall: 43.9938
+Node 589 Energy used overall: 65.8914
+Node 590 Energy used overall: 65.9609
+Node 591 Energy used overall: 98.81
+Node 592 Energy used overall: 44.3537
+Node 593 Energy used overall: 65.9535
+Node 594 Energy used overall: 65.8228
+Node 595 Energy used overall: 44.4929
+Node 596 Energy used overall: 21.7567
+Node 597 Energy used overall: 65.9778
+Node 598 Energy used overall: 111.333
+Node 599 Energy used overall: 28.9404
+later nodes start
+Node 0 Energy used overall: 42.0616
+Node 1 Energy used overall: 14.6208
+Node 2 Energy used overall: 31.1983
+Node 3 Energy used overall: 28.318
+Node 4 Energy used overall: 20.5622
+Node 5 Energy used overall: 9.60687
+Node 6 Energy used overall: 20.4961
+Node 7 Energy used overall: 28.4469
+Node 8 Energy used overall: 28.1035
+Node 9 Energy used overall: 28.1912
+Node 10 Energy used overall: 14.566
+Node 11 Energy used overall: 20.4603
+Node 12 Energy used overall: 20.4244
+Node 13 Energy used overall: 28.2579
+Node 14 Energy used overall: 42.2019
+Node 15 Energy used overall: 42.026
+Node 16 Energy used overall: 14.6006
+Node 17 Energy used overall: 42.0213
+Node 18 Energy used overall: 8.63014
+Node 19 Energy used overall: 8.79555
+Node 20 Energy used overall: 20.5782
+Node 21 Energy used overall: 28.2238
+Node 22 Energy used overall: 20.5371
+Node 23 Energy used overall: 11.0693
+Node 24 Energy used overall: 20.6379
+Node 25 Energy used overall: 14.6593
+Node 26 Energy used overall: 20.4244
+Node 27 Energy used overall: 20.4282
+Node 28 Energy used overall: 8.6394
+Node 29 Energy used overall: 28.2166
+Node 30 Energy used overall: 14.5439
+Node 31 Energy used overall: 28.162
+Node 32 Energy used overall: 20.6386
+Node 33 Energy used overall: 8.41567
+Node 34 Energy used overall: 14.6848
+Node 35 Energy used overall: 28.3861
+Node 36 Energy used overall: 14.5823
+Node 37 Energy used overall: 28.2496
+Node 38 Energy used overall: 20.4654
+Node 39 Energy used overall: 28.2236
+Node 40 Energy used overall: 28.7829
+Node 41 Energy used overall: 42.2804
+Node 42 Energy used overall: 20.5203
+Node 43 Energy used overall: 42.0213
+Node 44 Energy used overall: 14.467
+Node 45 Energy used overall: 42.0213
+Node 46 Energy used overall: 20.5506
+Node 47 Energy used overall: 9.07308
+Node 48 Energy used overall: 14.6208
+Node 49 Energy used overall: 28.1776
+Node 50 Energy used overall: 20.4423
+Node 51 Energy used overall: 28.2459
+Node 52 Energy used overall: 14.5446
+Node 53 Energy used overall: 28.2806
+Node 54 Energy used overall: 14.5824
+Node 55 Energy used overall: 28.2503
+Node 56 Energy used overall: 28.1327
+Node 57 Energy used overall: 28.1786
+Node 58 Energy used overall: 14.5477
+Node 59 Energy used overall: 14.5937
+Node 60 Energy used overall: 28.1723
+Node 61 Energy used overall: 9.13536
+Node 62 Energy used overall: 9.27843
+Node 63 Energy used overall: 33.3636
+Node 64 Energy used overall: 28.2204
+Node 65 Energy used overall: 28.1938
+Node 66 Energy used overall: 28.2044
+Node 67 Energy used overall: 14.5054
+Node 68 Energy used overall: 8.58888
+Node 69 Energy used overall: 28.2627
+Node 70 Energy used overall: 37.8619
+Node 71 Energy used overall: 42.0508
+Node 72 Energy used overall: 14.6208
+Node 73 Energy used overall: 20.4519
+Node 74 Energy used overall: 9.05283
+Node 75 Energy used overall: 20.5178
+Node 76 Energy used overall: 42.1914
+Node 77 Energy used overall: 28.2341
+Node 78 Energy used overall: 8.78217
+Node 79 Energy used overall: 14.5439
+Node 80 Energy used overall: 28.1035
+Node 81 Energy used overall: 14.6208
+Node 82 Energy used overall: 28.271
+Node 83 Energy used overall: 20.4603
+Node 84 Energy used overall: 11.2425
+Node 85 Energy used overall: 28.1646
+Node 86 Energy used overall: 28.4492
+Node 87 Energy used overall: 37.541
+Node 88 Energy used overall: 20.6937
+Node 89 Energy used overall: 20.39
+Node 90 Energy used overall: 14.6208
+Node 91 Energy used overall: 20.4244
+Node 92 Energy used overall: 20.5519
+Node 93 Energy used overall: 14.5439
+Node 94 Energy used overall: 28.1977
+Node 95 Energy used overall: 20.4961
+Node 96 Energy used overall: 11.1071
+Node 97 Energy used overall: 20.4871
+Node 98 Energy used overall: 28.2026
+Node 99 Energy used overall: 42.1511
+starting destroy
+500	250
+501	250
+502	250
+503	250
+504	250
+505	250
+506	250
+507	250
+508	250
+509	250
+510	250
+511	250
+512	250
+513	250
+514	250
+515	250
+516	250
+517	250
+518	250
+519	250
+520	250
+521	250
+522	250
+523	250
+524	250
+525	250
+526	250
+527	250
+528	250
+529	250
+530	250
+531	250
+532	250
+533	250
+534	250
+535	250
+536	250
+537	250
+538	250
+539	250
+540	250
+541	250
+542	250
+543	250
+544	250
+545	250
+546	250
+547	250
+548	250
+549	250
+550	250
+551	250
+552	250
+553	250
+554	250
+555	250
+556	250
+557	250
+558	250
+559	250
+560	250
+561	250
+562	250
+563	250
+564	250
+565	250
+566	250
+567	250
+568	250
+569	250
+570	250
+571	250
+572	250
+573	250
+574	250
+575	250
+576	250
+577	250
+578	250
+579	250
+580	250
+581	250
+582	250
+583	250
+584	250
+585	250
+586	250
+587	250
+588	250
+589	250
+590	250
+591	250
+592	250
+593	250
+594	250
+595	250
+596	250
+597	250
+598	250
+599	250
+0	500
+1	500
+2	500
+3	500
+4	500
+5	500
+6	500
+7	500
+8	500
+9	500
+10	500
+11	500
+12	500
+13	500
+14	500
+15	500
+16	500
+17	500
+18	500
+19	500
+20	500
+21	500
+22	500
+23	500
+24	500
+25	500
+26	500
+27	500
+28	500
+29	500
+30	500
+31	500
+32	500
+33	500
+34	500
+35	500
+36	500
+37	500
+38	500
+39	500
+40	500
+41	500
+42	500
+43	500
+44	500
+45	500
+46	500
+47	500
+48	500
+49	500
+50	500
+51	500
+52	500
+53	500
+54	500
+55	500
+56	500
+57	500
+58	500
+59	500
+60	500
+61	500
+62	500
+63	500
+64	500
+65	500
+66	500
+67	500
+68	500
+69	500
+70	500
+71	500
+72	500
+73	500
+74	500
+75	500
+76	500
+77	500
+78	500
+79	500
+80	500
+81	500
+82	500
+83	500
+84	500
+85	500
+86	500
+87	500
+88	500
+89	500
+90	500
+91	500
+92	500
+93	500
+94	500
+95	500
+96	500
+97	500
+98	500
+99	500
+100	500
+101	500
+102	500
+103	500
+104	500
+105	500
+106	500
+107	500
+108	500
+109	500
+110	500
+111	500
+112	500
+113	500
+114	500
+115	500
+116	500
+117	500
+118	500
+119	500
+120	500
+121	500
+122	500
+123	500
+124	500
+125	500
+126	500
+127	500
+128	500
+129	500
+130	500
+131	500
+132	500
+133	500
+134	500
+135	500
+136	500
+137	500
+138	500
+139	500
+140	500
+141	500
+142	500
+143	500
+144	500
+145	500
+146	500
+147	500
+148	500
+149	500
+150	500
+151	500
+152	500
+153	500
+154	500
+155	500
+156	500
+157	500
+158	500
+159	500
+160	500
+161	500
+162	500
+163	500
+164	500
+165	500
+166	500
+167	500
+168	500
+169	500
+170	500
+171	500
+172	500
+173	500
+174	500
+175	500
+176	500
+177	500
+178	500
+179	500
+180	500
+181	500
+182	500
+183	500
+184	500
+185	500
+186	500
+187	500
+188	500
+189	500
+190	500
+191	500
+192	500
+193	500
+194	500
+195	500
+196	500
+197	500
+198	500
+199	500
+200	500
+201	500
+202	500
+203	500
+204	500
+205	500
+206	500
+207	500
+208	500
+209	500
+210	500
+211	500
+212	500
+213	500
+214	500
+215	500
+216	500
+217	500
+218	500
+219	500
+220	500
+221	500
+222	500
+223	500
+224	500
+225	500
+226	500
+227	500
+228	500
+229	500
+230	500
+231	500
+232	500
+233	500
+234	500
+235	500
+236	500
+237	500
+238	500
+239	500
+240	500
+241	500
+242	500
+243	500
+244	500
+245	500
+246	500
+247	500
+248	500
+249	500
+250	500
+251	500
+252	500
+253	500
+254	500
+255	500
+256	500
+257	500
+258	500
+259	500
+260	500
+261	500
+262	500
+263	500
+264	500
+265	500
+266	500
+267	500
+268	500
+269	500
+270	500
+271	500
+272	500
+273	500
+274	500
+275	500
+276	500
+277	500
+278	500
+279	500
+280	500
+281	500
+282	500
+283	500
+284	500
+285	500
+286	500
+287	500
+288	500
+289	500
+290	500
+291	500
+292	500
+293	500
+294	500
+295	500
+296	500
+297	500
+298	500
+299	500
+300	500
+301	500
+302	500
+303	500
+304	500
+305	500
+306	500
+307	500
+308	500
+309	500
+310	500
+311	500
+312	500
+313	500
+314	500
+315	500
+316	500
+317	500
+318	500
+319	500
+320	500
+321	500
+322	500
+323	500
+324	500
+325	500
+326	500
+327	500
+328	500
+329	500
+330	500
+331	500
+332	500
+333	500
+334	500
+335	500
+336	500
+337	500
+338	500
+339	500
+340	500
+341	500
+342	500
+343	500
+344	500
+345	500
+346	500
+347	500
+348	500
+349	500
+350	500
+351	500
+352	500
+353	500
+354	500
+355	500
+356	500
+357	500
+358	500
+359	500
+360	500
+361	500
+362	500
+363	500
+364	500
+365	500
+366	500
+367	500
+368	500
+369	500
+370	500
+371	500
+372	500
+373	500
+374	500
+375	500
+376	500
+377	500
+378	500
+379	500
+380	500
+381	500
+382	500
+383	500
+384	500
+385	500
+386	500
+387	500
+388	500
+389	500
+390	500
+391	500
+392	500
+393	500
+394	500
+395	500
+396	500
+397	500
+398	500
+399	500
+400	500
+401	500
+402	500
+403	500
+404	500
+405	500
+406	500
+407	500
+408	500
+409	500
+410	500
+411	500
+412	500
+413	500
+414	500
+415	500
+416	500
+417	500
+418	500
+419	500
+420	500
+421	500
+422	500
+423	500
+424	500
+425	500
+426	500
+427	500
+428	500
+429	500
+430	500
+431	500
+432	500
+433	500
+434	500
+435	500
+436	500
+437	500
+438	500
+439	500
+440	500
+441	500
+442	500
+443	500
+444	500
+445	500
+446	500
+447	500
+448	500
+449	500
+450	500
+451	500
+452	500
+453	500
+454	500
+455	500
+456	500
+457	500
+458	500
+459	500
+460	500
+461	500
+462	500
+463	500
+464	500
+465	500
+466	500
+467	500
+468	500
+469	500
+470	500
+471	500
+472	500
+473	500
+474	500
+475	500
+476	500
+477	500
+478	500
+479	500
+480	500
+481	500
+482	500
+483	500
+484	500
+485	500
+486	500
+487	500
+488	500
+489	500
+490	500
+491	500
+492	500
+493	500
+494	500
+495	500
+496	500
+497	500
+498	500
+499	500
+499	0	16	8	8	0	15	470
+498	0	1	0	1	0	1	373
+497	0	16	6	10	0	16	312
+496	0	16	5	11	0	15	487
+495	0	15	0	15	0	15	475
+494	0	18	12	6	0	18	174
+493	0	14	1	13	0	14	324
+492	0	15	2	13	0	15	479
+491	0	6	5	1	0	6	305
+490	0	14	2	12	0	14	354
+489	0	16	6	10	0	16	340
+488	0	15	8	7	0	15	458
+487	0	15	1	14	0	15	494
+486	0	16	6	10	0	15	470
+485	0	18	8	10	0	18	259
+484	0	15	7	8	0	15	499
+483	0	14	1	13	0	14	359
+482	0	24	16	8	0	24	146
+481	0	15	7	8	0	15	488
+480	0	16	8	8	0	16	286
+479	0	14	3	11	0	14	380
+478	0	25	19	6	0	25	162
+477	0	16	11	5	0	15	492
+476	0	17	11	6	0	17	115
+475	0	1	1	0	0	1	359
+474	0	15	13	2	0	15	499
+473	0	15	7	8	0	15	464
+472	0	18	9	9	0	18	354
+471	0	17	8	9	0	15	500
+470	0	15	3	12	0	15	493
+469	0	16	3	13	0	15	494
+468	0	15	8	7	0	15	358
+467	0	16	8	8	0	16	415
+466	0	22	13	9	0	14	490
+465	0	15	6	9	0	15	500
+464	0	15	8	7	0	15	398
+463	0	15	6	9	0	15	500
+462	0	18	9	9	0	18	304
+461	0	14	3	11	0	14	399
+460	0	15	8	7	0	15	407
+459	0	17	10	7	0	17	344
+458	0	8	4	4	0	8	274
+457	0	15	3	12	0	15	323
+456	0	15	10	5	0	15	474
+455	0	2	0	2	0	2	345
+454	0	15	6	9	0	15	500
+453	0	16	9	7	0	16	360
+452	0	14	11	3	0	14	387
+451	0	16	16	0	0	15	489
+450	0	15	4	11	0	15	460
+449	0	16	8	8	0	15	486
+448	0	14	11	3	0	14	422
+447	0	16	11	5	0	15	468
+446	0	14	3	11	0	14	411
+445	0	16	6	10	0	15	484
+444	0	15	7	8	0	15	488
+443	0	15	4	11	0	15	486
+442	0	16	9	7	0	16	238
+441	0	15	11	4	0	15	419
+440	0	16	5	11	0	15	479
+439	0	15	7	8	0	15	285
+438	0	15	8	7	0	15	362
+437	0	18	17	1	0	14	487
+436	0	15	8	7	0	15	480
+435	0	15	7	8	0	15	474
+434	0	18	15	3	0	14	480
+433	0	21	10	11	0	21	161
+432	0	15	7	8	0	15	388
+431	0	16	9	7	0	15	500
+430	0	18	12	6	0	14	491
+429	0	22	18	4	0	14	477
+428	0	15	7	8	0	15	482
+427	0	18	7	11	0	18	96
+426	0	15	14	1	0	15	497
+425	0	16	9	7	0	16	185
+424	0	15	4	11	0	15	420
+423	0	18	7	11	0	18	109
+422	0	15	6	9	0	15	477
+421	0	15	7	8	0	15	426
+420	0	14	8	6	0	14	335
+419	0	20	12	8	0	20	109
+418	0	1	0	1	0	1	393
+417	0	16	4	12	0	15	499
+416	0	16	8	8	0	16	291
+415	0	14	7	7	0	14	340
+414	0	16	2	14	0	16	463
+413	0	14	7	7	0	14	411
+412	0	15	4	11	0	15	457
+411	0	20	16	4	0	20	344
+410	0	15	9	6	0	15	450
+409	0	14	4	10	0	14	368
+408	0	15	9	6	0	15	433
+407	0	16	10	6	0	15	479
+406	0	14	5	9	0	14	360
+405	0	16	4	12	0	15	488
+404	0	14	1	13	0	14	406
+403	0	15	7	8	0	15	488
+402	0	18	16	2	0	14	486
+401	0	15	9	6	0	15	350
+400	0	15	12	3	0	15	409
+399	0	17	12	5	0	15	489
+398	0	16	5	11	0	15	482
+397	0	4	3	1	0	4	347
+396	0	15	6	9	0	15	372
+395	0	17	7	10	0	17	421
+394	0	16	12	4	0	15	438
+393	0	14	9	5	0	14	404
+392	0	15	9	6	0	15	383
+391	0	2	2	0	0	2	402
+390	0	15	6	9	0	15	482
+389	0	15	3	12	0	15	343
+388	0	15	5	10	0	15	384
+387	0	15	2	13	0	15	463
+386	0	16	11	5	0	15	496
+385	0	15	6	9	0	15	480
+384	0	17	9	8	0	15	493
+383	0	16	12	4	0	16	168
+382	0	15	14	1	0	15	479
+381	0	14	6	8	0	14	398
+380	0	23	14	9	0	23	165
+379	0	22	11	11	0	14	496
+378	0	15	7	8	0	15	483
+377	0	16	9	7	0	16	122
+376	0	1	0	1	0	1	369
+375	0	14	5	9	0	14	296
+374	0	14	7	7	0	14	433
+373	0	15	8	7	0	15	488
+372	0	14	3	11	0	14	381
+371	0	22	15	7	0	14	497
+370	0	15	7	8	0	15	440
+369	0	16	12	4	0	15	493
+368	0	18	14	4	0	14	472
+367	0	16	9	7	0	16	326
+366	0	16	8	8	0	15	482
+365	0	16	9	7	0	15	463
+364	0	14	3	11	0	14	293
+363	0	15	4	11	0	15	296
+362	0	15	9	6	0	15	494
+361	0	1	0	1	0	1	355
+360	0	16	10	6	0	16	354
+359	0	16	8	8	0	16	288
+358	0	15	4	11	0	15	417
+357	0	17	12	5	0	15	491
+356	0	15	2	13	0	15	480
+355	0	17	11	6	0	17	319
+354	0	16	10	6	0	15	500
+353	0	16	6	10	0	16	443
+352	0	16	8	8	0	15	475
+351	0	15	1	14	0	15	474
+350	0	17	12	5	0	15	488
+349	0	15	6	9	0	15	486
+348	0	15	9	6	0	15	489
+347	0	16	6	10	0	15	500
+346	0	16	7	9	0	15	480
+345	0	15	11	4	0	15	482
+344	0	15	11	4	0	15	388
+343	0	16	10	6	0	15	495
+342	0	15	3	12	0	15	471
+341	0	17	11	6	0	15	487
+340	0	14	2	12	0	14	329
+339	0	15	5	10	0	15	470
+338	0	14	5	9	0	14	250
+337	0	1	0	1	0	1	390
+336	0	16	13	3	0	15	494
+335	0	15	2	13	0	15	460
+334	0	14	0	14	0	14	303
+333	0	15	2	13	0	15	495
+332	0	18	14	4	0	14	482
+331	0	16	7	9	0	15	490
+330	0	15	7	8	0	15	368
+329	0	13	9	4	0	13	254
+328	0	16	11	5	0	15	491
+327	0	14	3	11	0	14	398
+326	0	15	8	7	0	15	484
+325	0	17	9	8	0	17	418
+324	0	16	5	11	0	15	489
+323	0	17	6	11	0	17	360
+322	0	18	10	8	0	18	313
+321	0	16	13	3	0	15	476
+320	0	1	1	0	0	1	384
+319	0	15	7	8	0	15	487
+318	0	17	7	10	0	15	486
+317	0	15	1	14	0	15	431
+316	0	15	8	7	0	15	498
+315	0	15	7	8	0	15	485
+314	0	15	4	11	0	15	500
+313	0	15	5	10	0	15	387
+312	0	15	10	5	0	15	491
+311	0	16	5	11	0	15	498
+310	0	16	5	11	0	15	491
+309	0	15	6	9	0	15	480
+308	0	22	12	10	0	14	489
+307	0	16	4	12	0	15	485
+306	0	17	10	7	0	17	212
+305	0	14	5	9	0	14	392
+304	0	16	6	10	0	15	482
+303	0	14	7	7	0	14	422
+302	0	16	9	7	0	15	493
+301	0	16	9	7	0	15	499
+300	0	17	5	12	0	17	297
+299	0	16	7	9	0	15	471
+298	0	15	8	7	0	15	488
+297	0	2	1	1	0	2	338
+296	0	16	5	11	0	15	489
+295	0	14	5	9	0	14	321
+294	0	16	8	8	0	16	156
+293	0	16	11	5	0	15	497
+292	0	18	17	1	0	14	493
+291	0	15	11	4	0	15	469
+290	0	16	5	11	0	15	500
+289	0	16	9	7	0	15	482
+288	0	14	1	13	0	14	392
+287	0	15	10	5	0	15	416
+286	0	15	8	7	0	15	491
+285	0	17	7	10	0	17	473
+284	0	16	9	7	0	15	469
+283	0	14	9	5	0	14	390
+282	0	16	9	7	0	15	493
+281	0	14	2	12	0	14	391
+280	0	15	2	13	0	15	486
+279	0	18	12	6	0	18	256
+278	0	16	2	14	0	15	485
+277	0	14	4	10	0	14	336
+276	0	15	8	7	0	15	435
+275	0	16	9	7	0	15	480
+274	0	14	2	12	0	14	410
+273	0	15	3	12	0	15	500
+272	0	1	1	0	0	1	391
+271	0	14	5	9	0	14	374
+270	0	15	1	14	0	15	487
+269	0	16	11	5	0	16	352
+268	0	2	0	2	0	2	347
+267	0	2	1	1	0	2	373
+266	0	16	5	11	0	16	428
+265	0	15	11	4	0	15	415
+264	0	16	7	9	0	15	493
+263	0	3	3	0	0	3	375
+262	0	15	8	7	0	15	287
+261	0	16	3	13	0	15	499
+260	0	14	6	8	0	14	374
+259	0	15	8	7	0	15	441
+258	0	17	11	6	0	17	129
+257	0	14	8	6	0	14	399
+256	0	14	6	8	0	14	400
+255	0	14	4	10	0	14	376
+254	0	1	0	1	0	1	379
+253	0	18	12	6	0	15	490
+252	0	15	11	4	0	15	395
+251	0	21	12	9	0	14	486
+250	0	15	0	15	0	15	490
+249	0	16	9	7	0	15	498
+248	0	18	14	4	0	14	487
+247	0	18	13	5	0	14	409
+246	0	18	12	6	0	18	235
+245	0	15	4	11	0	15	456
+244	0	7	3	4	0	7	195
+243	0	9	6	3	0	9	241
+242	0	22	12	10	0	14	485
+241	0	17	14	3	0	17	353
+240	0	21	12	9	0	21	188
+239	0	14	12	2	0	14	403
+238	0	16	10	6	0	16	356
+237	0	16	13	3	0	15	497
+236	0	16	6	10	0	15	488
+599	0	1	1	0	0	1	123
+598	0	6	4	2	0	6	152
+597	0	8	6	2	0	8	130
+596	0	8	4	4	0	7	240
+595	0	6	2	4	0	6	179
+594	0	6	4	2	0	6	130
+593	0	7	4	3	0	7	246
+592	0	9	8	1	0	9	44
+591	0	6	4	2	0	6	170
+590	0	7	2	5	0	7	235
+589	0	6	5	1	0	6	129
+588	0	8	5	3	0	8	152
+587	0	5	4	1	0	5	79
+586	0	7	3	4	0	7	48
+585	0	5	3	2	0	5	57
+584	0	8	1	7	0	7	233
+583	0	6	3	3	0	6	161
+582	0	8	4	4	0	8	52
+581	0	7	2	5	0	7	201
+580	0	5	5	0	0	5	128
+579	0	7	4	3	0	7	234
+578	0	13	9	4	0	6	246
+34	0	23	19	4	0	23	247
+535	0	7	2	5	0	7	29
+198	0	14	5	9	0	14	315
+33	0	18	9	9	0	18	148
+534	0	7	5	2	0	7	250
+197	0	16	5	11	0	15	485
+32	0	17	10	7	0	15	499
+533	0	10	8	2	0	7	248
+196	0	15	4	11	0	15	472
+31	0	15	3	12	0	15	500
+532	0	7	1	6	0	7	133
+195	0	16	2	14	0	15	500
+30	0	18	14	4	0	15	485
+531	0	5	3	2	0	5	127
+194	0	6	1	5	0	6	240
+29	0	19	9	10	0	19	60
+530	0	7	4	3	0	7	250
+193	0	17	8	9	0	17	101
+28	0	15	7	8	0	15	408
+529	0	7	6	1	0	7	76
+192	0	16	6	10	0	15	495
+27	0	17	8	9	0	17	237
+528	0	8	5	3	0	7	250
+191	0	1	0	1	0	1	389
+26	0	14	0	14	0	14	426
+527	0	7	5	2	0	7	188
+190	0	16	9	7	0	15	467
+25	0	15	11	4	0	15	491
+526	0	6	4	2	0	6	170
+189	0	17	11	6	0	15	500
+24	0	15	0	15	0	15	499
+525	0	7	1	6	0	7	250
+188	0	14	10	4	0	14	422
+23	0	15	9	6	0	15	460
+524	0	6	4	2	0	6	138
+187	0	16	7	9	0	15	494
+22	0	18	11	7	0	18	189
+523	0	8	5	3	0	7	232
+186	0	16	8	8	0	15	490
+21	0	16	15	1	0	15	485
+522	0	7	2	5	0	7	158
+185	0	22	18	4	0	14	500
+20	0	15	8	7	0	15	427
+521	0	6	3	3	0	6	36
+184	0	17	11	6	0	15	488
+19	0	0	0	0	0	0	358
+520	0	7	3	4	0	7	35
+183	0	21	9	12	0	14	492
+18	0	17	10	7	0	17	266
+519	0	11	5	6	0	7	235
+182	0	16	0	16	0	15	497
+17	0	17	11	6	0	17	232
+518	0	11	7	4	0	7	245
+181	0	16	12	4	0	15	462
+16	0	22	17	5	0	22	259
+517	0	1	0	1	0	1	108
+180	0	16	10	6	0	16	470
+15	0	17	7	10	0	15	492
+516	0	12	10	2	0	12	126
+179	0	1	1	0	0	1	402
+4	0	18	18	0	0	14	488
+505	0	9	2	7	0	7	231
+168	0	18	6	12	0	18	134
+3	0	16	3	13	0	15	486
+504	0	8	3	5	0	8	39
+167	0	17	11	6	0	15	487
+2	0	15	10	5	0	15	403
+503	0	6	4	2	0	6	113
+166	0	14	3	11	0	14	249
+1	0	16	3	13	0	15	492
+502	0	9	7	2	0	9	45
+165	0	14	2	12	0	14	424
+500	0	0	0	0	0	0	117
+163	0	14	0	14	0	14	395
+0	0	15	5	10	0	15	484
+501	0	7	2	5	0	7	233
+164	0	17	6	11	0	17	117
+5	0	16	3	13	0	15	494
+506	0	6	2	4	0	6	185
+169	0	15	8	7	0	15	423
+6	0	16	9	7	0	15	467
+507	0	7	3	4	0	7	40
+170	0	14	1	13	0	14	411
+7	0	18	8	10	0	18	365
+508	0	5	5	0	0	5	149
+171	0	16	11	5	0	16	357
+8	0	15	8	7	0	15	492
+509	0	5	2	3	0	5	129
+172	0	19	15	4	0	15	484
+9	0	17	8	9	0	17	267
+510	0	8	5	3	0	8	76
+173	0	22	12	10	0	14	485
+10	0	15	6	9	0	15	296
+511	0	6	3	3	0	6	167
+174	0	17	11	6	0	15	498
+11	0	15	2	13	0	15	442
+512	0	6	4	2	0	6	168
+175	0	16	9	7	0	16	355
+12	0	15	8	7	0	15	468
+513	0	5	2	3	0	5	88
+176	0	16	14	2	0	15	484
+13	0	16	8	8	0	15	473
+514	0	1	0	1	0	1	114
+177	0	15	14	1	0	15	494
+14	0	14	8	6	0	14	375
+515	0	3	3	0	0	3	120
+178	0	1	0	1	0	1	401
+35	0	16	6	10	0	15	487
+536	0	7	3	4	0	7	247
+199	0	15	6	9	0	15	427
+36	0	16	6	10	0	15	486
+537	0	5	0	5	0	5	107
+200	0	18	11	7	0	18	266
+37	0	15	5	10	0	15	499
+538	0	7	4	3	0	7	113
+201	0	15	9	6	0	15	470
+38	0	14	11	3	0	14	433
+539	0	5	2	3	0	5	14
+202	0	19	13	6	0	19	101
+39	0	16	6	10	0	15	399
+540	0	6	1	5	0	6	38
+203	0	15	9	6	0	15	487
+40	0	16	5	11	0	15	485
+541	0	3	2	1	0	3	118
+204	0	16	4	12	0	15	500
+41	0	15	8	7	0	15	487
+542	0	7	3	4	0	7	14
+205	0	23	20	3	0	23	325
+42	0	14	9	5	0	14	418
+543	0	1	0	1	0	1	116
+206	0	20	9	11	0	20	291
+43	0	14	1	13	0	14	362
+544	0	7	6	1	0	7	250
+207	0	14	4	10	0	14	377
+44	0	15	7	8	0	15	491
+545	0	1	0	1	0	1	105
+208	0	9	4	5	0	9	186
+45	0	17	9	8	0	17	184
+546	0	12	8	4	0	12	59
+209	0	14	6	8	0	14	359
+46	0	16	10	6	0	15	483
+547	0	9	8	1	0	7	249
+210	0	16	9	7	0	16	323
+47	0	16	6	10	0	15	483
+548	0	7	2	5	0	7	250
+211	0	16	4	12	0	15	493
+48	0	15	6	9	0	15	488
+549	0	6	4	2	0	6	69
+212	0	19	17	2	0	15	500
+49	0	5	3	2	0	5	284
+550	0	6	4	2	0	6	49
+213	0	16	10	6	0	15	481
+50	0	15	11	4	0	15	250
+551	0	7	3	4	0	7	77
+214	0	14	8	6	0	14	365
+51	0	15	3	12	0	15	483
+552	0	7	4	3	0	7	154
+215	0	14	6	8	0	14	398
+52	0	23	17	6	0	23	176
+553	0	5	4	1	0	5	122
+216	0	22	15	7	0	22	226
+53	0	14	4	10	0	14	354
+554	0	7	3	4	0	7	239
+217	0	1	0	1	0	1	386
+54	0	16	0	16	0	15	474
+555	0	6	2	4	0	6	42
+218	0	15	10	5	0	15	388
+55	0	14	3	11	0	14	418
+556	0	5	4	1	0	5	142
+219	0	17	13	4	0	15	491
+56	0	16	8	8	0	15	482
+557	0	5	3	2	0	5	88
+220	0	16	8	8	0	16	89
+57	0	20	18	2	0	20	201
+558	0	8	5	3	0	8	178
+221	0	16	9	7	0	15	500
+58	0	14	7	7	0	14	369
+559	0	10	6	4	0	10	123
+222	0	18	9	9	0	18	255
+59	0	15	2	13	0	15	449
+560	0	6	4	2	0	6	103
+223	0	15	13	2	0	15	391
+60	0	14	10	4	0	14	410
+561	0	8	5	3	0	7	236
+224	0	1	0	1	0	1	397
+61	0	17	10	7	0	15	487
+562	0	14	5	9	0	6	233
+225	0	15	8	7	0	15	399
+62	0	16	11	5	0	15	498
+563	0	4	1	3	0	4	50
+226	0	16	11	5	0	16	471
+63	0	0	0	0	0	0	381
+564	0	5	1	4	0	5	99
+227	0	16	12	4	0	16	264
+64	0	17	11	6	0	17	487
+565	0	5	2	3	0	5	44
+228	0	18	11	7	0	18	408
+65	0	15	3	12	0	15	500
+566	0	5	4	1	0	5	142
+229	0	16	6	10	0	16	384
+567	0	7	5	2	0	7	243
+230	0	15	0	15	0	15	456
+568	0	11	8	3	0	7	247
+231	0	17	8	9	0	17	334
+569	0	8	7	1	0	8	142
+232	0	17	13	4	0	17	297
+570	0	6	4	2	0	6	94
+233	0	25	21	4	0	25	163
+571	0	1	0	1	0	1	123
+234	0	18	15	3	0	18	281
+572	0	7	2	5	0	7	235
+235	0	16	7	9	0	15	500
+573	0	6	4	2	0	6	182
+574	0	8	7	1	0	7	241
+575	0	7	3	4	0	7	54
+576	0	2	1	1	0	2	122
+577	0	7	4	3	0	7	22
+66	0	14	5	9	0	14	414
+67	0	15	4	11	0	15	262
+68	0	14	5	9	0	14	407
+69	0	17	11	6	0	15	497
+70	0	19	12	7	0	19	335
+71	0	17	3	14	0	15	486
+72	0	14	9	5	0	14	414
+73	0	15	13	2	0	15	344
+74	0	18	15	3	0	15	474
+75	0	17	9	8	0	15	485
+76	0	1	1	0	0	1	402
+77	0	16	8	8	0	16	244
+78	0	18	12	6	0	18	57
+79	0	15	8	7	0	15	450
+80	0	1	0	1	0	1	383
+81	0	16	10	6	0	15	500
+82	0	1	0	1	0	1	382
+83	0	9	8	1	0	9	324
+84	0	22	16	6	0	22	187
+85	0	14	4	10	0	14	389
+86	0	5	4	1	0	5	367
+87	0	2	1	1	0	2	386
+88	0	15	1	14	0	15	500
+89	0	14	3	11	0	14	411
+90	0	17	12	5	0	15	487
+91	0	22	13	9	0	14	488
+92	0	1	0	1	0	1	344
+93	0	16	5	11	0	15	485
+94	0	19	13	6	0	19	218
+95	0	16	12	4	0	15	486
+96	0	14	4	10	0	14	422
+97	0	21	18	3	0	21	150
+98	0	14	9	5	0	14	416
+99	0	14	0	14	0	14	411
+100	0	14	3	11	0	14	380
+101	0	16	4	12	0	15	499
+102	0	0	0	0	0	0	392
+103	0	16	6	10	0	16	254
+104	0	2	1	1	0	2	373
+105	0	16	3	13	0	15	478
+106	0	15	9	6	0	15	486
+107	0	23	16	7	0	23	162
+108	0	16	9	7	0	15	481
+109	0	15	2	13	0	15	477
+110	0	17	8	9	0	17	368
+111	0	19	17	2	0	15	500
+112	0	14	6	8	0	14	399
+113	0	15	8	7	0	15	493
+114	0	3	3	0	0	3	351
+115	0	15	5	10	0	15	206
+116	0	15	10	5	0	15	479
+117	0	15	11	4	0	15	486
+118	0	16	6	10	0	16	362
+119	0	16	5	11	0	15	493
+120	0	15	9	6	0	15	323
+121	0	16	8	8	0	16	453
+122	0	16	2	14	0	15	470
+123	0	14	10	4	0	14	418
+124	0	17	12	5	0	17	242
+125	0	17	10	7	0	17	138
+126	0	16	7	9	0	16	392
+127	0	14	0	14	0	14	310
+128	0	21	16	5	0	21	211
+129	0	15	6	9	0	15	495
+130	0	15	4	11	0	15	456
+131	0	20	8	12	0	20	136
+132	0	16	11	5	0	15	500
+133	0	15	10	5	0	15	458
+134	0	15	6	9	0	15	462
+135	0	0	0	0	0	0	380
+136	0	16	9	7	0	15	496
+137	0	14	3	11	0	14	434
+138	0	14	8	6	0	14	426
+139	0	15	8	7	0	15	431
+140	0	15	6	9	0	15	395
+141	0	15	8	7	0	15	400
+142	0	24	17	7	0	24	176
+143	0	14	3	11	0	14	351
+144	0	19	13	6	0	19	390
+145	0	15	8	7	0	15	482
+146	0	16	7	9	0	16	388
+147	0	16	13	3	0	15	497
+148	0	17	11	6	0	17	206
+149	0	14	1	13	0	14	429
+150	0	22	12	10	0	14	492
+151	0	4	3	1	0	4	345
+152	0	17	12	5	0	15	493
+153	0	16	5	11	0	16	422
+154	0	16	4	12	0	15	494
+155	0	20	12	8	0	20	66
+156	0	17	8	9	0	15	485
+157	0	18	10	8	0	14	485
+158	0	14	4	10	0	14	386
+159	0	16	7	9	0	16	404
+160	0	18	8	10	0	18	262
+161	0	15	9	6	0	15	425
+162	0	14	7	7	0	14	400
+finishing destroy

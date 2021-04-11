@@ -1,0 +1,554 @@
+Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
+Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.906s)
+LOCATIONS START
+0 2577.22 -3391.85 0
+1 1582.6 -451.545 0
+2 1512.96 1670.98 0
+3 -296.507 -1906.4 0
+4 2110.24 -1619.73 0
+5 -4530.62 1080.32 0
+6 1984.35 -2998.66 0
+7 1762.2 4464.09 0
+8 2810.64 1181 0
+9 -408.624 -2563.96 0
+10 -2008.9 3171.82 0
+11 -3435.12 715.345 0
+12 -3254.58 -1851.6 0
+13 -3850.72 -204.592 0
+14 324.727 -2147.83 0
+15 3938.55 -2314.52 0
+16 464.457 -2231.27 0
+17 -1376.53 3415.71 0
+18 604.693 263.149 0
+19 1412.62 2968.34 0
+20 3836.73 2492.2 0
+21 -4976.49 -79.1215 0
+22 -976.506 563.523 0
+23 -4952.22 -163.844 0
+24 1621.72 1970.99 0
+25 -1062.92 -3102.05 0
+26 3083.59 -2777.8 0
+27 654.792 -3021.6 0
+28 3247.92 -1821.68 0
+29 -2899.21 1525.99 0
+30 -1601 4715.46 0
+31 803.206 -4883.17 0
+32 -4148.78 -1481.75 0
+33 -942.407 4729 0
+34 -4611.05 637.724 0
+35 314.69 120.504 0
+36 -515.677 -2848.28 0
+37 3629.41 868.559 0
+38 -3001.33 3429.74 0
+39 -1874.95 -2865.36 0
+40 -4435.07 1337.19 0
+41 -1261.52 -2370.71 0
+42 3123.38 39.8911 0
+43 -3753.84 269.318 0
+44 -1526.38 -4023.42 0
+45 -1901.98 -1616.48 0
+46 -2763.72 -410.505 0
+47 2031.69 -4160.2 0
+48 57.5804 4538.06 0
+49 1712.68 55.0022 0
+50 -3280.04 -620.037 0
+51 -4568.92 -1627.69 0
+52 -1425.13 4033.31 0
+53 4163.86 1616.72 0
+54 3239 3114.62 0
+55 51.2224 4067.82 0
+56 -4098.65 -1864.76 0
+57 3797.49 3239.27 0
+58 3880.35 539.417 0
+59 -2208.03 2172.99 0
+60 -3234.64 3788.67 0
+61 -2289.5 1318.76 0
+62 2311.67 1431.57 0
+63 -3226.89 -1495.81 0
+64 -1979.68 -4294.99 0
+65 -1690.72 634.161 0
+66 -1071.83 3410.09 0
+67 -2256.52 -2747.88 0
+68 -4126.97 -1745.25 0
+69 -2239.13 3292.85 0
+70 990.873 1219.88 0
+71 -384.447 1285.92 0
+72 2180.62 3015.47 0
+73 1732.55 -3334.95 0
+74 3075.57 3605.01 0
+75 -710.298 3619.47 0
+76 2590.59 3608.78 0
+77 -791.971 4273.42 0
+78 1396.94 -1056.41 0
+79 4092.45 43.7848 0
+80 -2375.76 -2591.29 0
+81 3987.22 1630.47 0
+82 2383.64 -3630.62 0
+83 -2303.42 3608.48 0
+84 3111.72 -3394.35 0
+85 -1319.9 -2790.71 0
+86 -1333.94 1342.87 0
+87 -4830.15 484.255 0
+88 -761.387 -223.078 0
+89 1224.79 4617.24 0
+90 -772.651 3060.03 0
+91 2627.88 122.711 0
+92 1096.1 2125.93 0
+93 1775.44 2994.33 0
+94 -4687.9 1552.9 0
+95 4691.75 -610.587 0
+96 4456.53 2253.14 0
+97 -1731.4 3849.36 0
+98 -1810 1317.66 0
+99 -2954.39 1372.68 0
+LOCATIONS END
+speed up dr at 2479.81
+speed up dr at 2498.47
+speed up dr at 2519.86
+speed up dr at 2533.84
+speed up dr at 2539.94
+speed up dr at 2610.19
+speed up dr at 2630.71
+speed up dr at 2791.86
+speed up dr at 2864.37
+speed up dr at 2899.1
+speed up dr at 2905.15
+speed up dr at 2982.13
+speed up dr at 5496.32
+slow down dr at 37810.5
+slow down dr at 37812.4
+slow down dr at 37817.9
+slow down dr at 37822
+slow down dr at 37830
+slow down dr at 37830.6
+slow down dr at 37833.9
+slow down dr at 37834.2
+slow down dr at 37837.1
+slow down dr at 37855.4
+slow down dr at 37861.7
+slow down dr at 37865.2
+slow down dr at 37865.3
+slow down dr at 37866.1
+slow down dr at 37869.4
+slow down dr at 37873
+slow down dr at 37873.4
+slow down dr at 37878.5
+slow down dr at 37882.8
+slow down dr at 37883.3
+slow down dr at 37889.2
+slow down dr at 37891.7
+slow down dr at 37893.2
+slow down dr at 37901.7
+slow down dr at 37906.1
+slow down dr at 37910.5
+slow down dr at 37938.9
+slow down dr at 37950.2
+slow down dr at 37968
+slow down dr at 37969.7
+slow down dr at 37981.7
+slow down dr at 37987
+slow down dr at 37993.6
+slow down dr at 37994
+slow down dr at 38030.8
+slow down dr at 38034.5
+slow down dr at 38085.4
+slow down dr at 38102
+slow down dr at 38103.5
+slow down dr at 38114
+slow down dr at 38114.2
+slow down dr at 38136.6
+slow down dr at 38146.5
+slow down dr at 38155.2
+slow down dr at 38163.5
+slow down dr at 38175
+slow down dr at 38188.3
+slow down dr at 38208.6
+slow down dr at 38241.6
+slow down dr at 38242.3
+slow down dr at 38257.4
+slow down dr at 38263
+slow down dr at 38277.5
+slow down dr at 38281.6
+slow down dr at 38281.7
+slow down dr at 38286
+slow down dr at 38288.7
+slow down dr at 38292
+slow down dr at 38316
+slow down dr at 38319.1
+slow down dr at 38319.9
+slow down dr at 38320.4
+slow down dr at 38321.7
+slow down dr at 38327.1
+slow down dr at 38331.4
+slow down dr at 38333
+slow down dr at 38345.2
+slow down dr at 38367.8
+slow down dr at 38378.3
+slow down dr at 38396.4
+slow down dr at 57010.5
+slow down dr at 57012.4
+slow down dr at 57017.9
+slow down dr at 57030
+slow down dr at 57030.6
+slow down dr at 57033.9
+slow down dr at 57034.2
+slow down dr at 57037.1
+slow down dr at 57055.4
+slow down dr at 57065.2
+slow down dr at 57065.3
+slow down dr at 57066.1
+slow down dr at 57069.4
+slow down dr at 57073.4
+slow down dr at 57078.5
+slow down dr at 57083.3
+slow down dr at 57093.2
+slow down dr at 57106.1
+slow down dr at 57168
+slow down dr at 57169.7
+slow down dr at 57181.7
+slow down dr at 57194
+slow down dr at 57230.8
+slow down dr at 57234.5
+slow down dr at 57285.4
+slow down dr at 57302
+slow down dr at 57303.5
+slow down dr at 57314
+slow down dr at 57314.2
+slow down dr at 57336.6
+slow down dr at 57346.5
+slow down dr at 57355.2
+slow down dr at 57375
+slow down dr at 57441.6
+slow down dr at 57463
+slow down dr at 57477.5
+slow down dr at 57481.7
+slow down dr at 57519.9
+slow down dr at 57520.4
+slow down dr at 57531.4
+slow down dr at 57533
+slow down dr at 57545.2
+slow down dr at 57567.8
+slow down dr at 57578.3
+slow down dr at 76210.5
+slow down dr at 76212.4
+slow down dr at 76265.2
+slow down dr at 76269.4
+slow down dr at 76273.4
+slow down dr at 76306.1
+slow down dr at 76368
+slow down dr at 76381.7
+slow down dr at 76485.4
+slow down dr at 76502
+slow down dr at 76575
+slow down dr at 76677.5
+slow down dr at 76686
+slow down dr at 76767.8
+slow down dr at 76778.3
+slow down dr at 81089.2
+slow down dr at 100120
+slow down dr at 123526
+starting energy print out
+Node 0 Energy used overall: 27.8099
+Node 1 Energy used overall: 8.56157
+Node 2 Energy used overall: 14.1708
+Node 3 Energy used overall: 10.498
+Node 4 Energy used overall: 14.2093
+Node 5 Energy used overall: 27.8078
+Node 6 Energy used overall: 20.0512
+Node 7 Energy used overall: 37.2484
+Node 8 Energy used overall: 14.0675
+Node 9 Energy used overall: 14.0554
+Node 10 Energy used overall: 20.1269
+Node 11 Energy used overall: 20.1177
+Node 12 Energy used overall: 20.0129
+Node 13 Energy used overall: 26.1043
+Node 14 Energy used overall: 14.1708
+Node 15 Energy used overall: 27.6692
+Node 16 Energy used overall: 14.1323
+Node 17 Energy used overall: 19.9055
+Node 18 Energy used overall: 7.84107
+Node 19 Energy used overall: 20.0154
+Node 20 Energy used overall: 27.758
+Node 21 Energy used overall: 41.6176
+Node 22 Energy used overall: 8.2008
+Node 23 Energy used overall: 41.5657
+Node 24 Energy used overall: 13.9785
+Node 25 Energy used overall: 20.1177
+Node 26 Energy used overall: 27.7412
+Node 27 Energy used overall: 15.5614
+Node 28 Energy used overall: 19.9882
+Node 29 Energy used overall: 19.9386
+Node 30 Energy used overall: 41.5554
+Node 31 Energy used overall: 41.5817
+Node 32 Energy used overall: 27.7996
+Node 33 Energy used overall: 41.5783
+Node 34 Energy used overall: 27.7704
+Node 35 Energy used overall: 7.65946
+Node 36 Energy used overall: 14.034
+Node 37 Energy used overall: 20.0513
+Node 38 Energy used overall: 27.8049
+Node 39 Energy used overall: 20.0461
+Node 40 Energy used overall: 27.7159
+Node 41 Energy used overall: 14.0554
+Node 42 Energy used overall: 19.9603
+Node 43 Energy used overall: 25.771
+Node 44 Energy used overall: 27.7412
+Node 45 Energy used overall: 14.017
+Node 46 Energy used overall: 14.1282
+Node 47 Energy used overall: 27.8271
+Node 48 Energy used overall: 27.7564
+Node 49 Energy used overall: 8.66435
+Node 50 Energy used overall: 20.0103
+Node 51 Energy used overall: 41.5469
+Node 52 Energy used overall: 27.7223
+Node 53 Energy used overall: 27.7488
+Node 54 Energy used overall: 27.7996
+Node 55 Energy used overall: 27.7704
+Node 56 Energy used overall: 27.8225
+Node 57 Energy used overall: 41.5713
+Node 58 Energy used overall: 27.7996
+Node 59 Energy used overall: 19.9498
+Node 60 Energy used overall: 41.5713
+Node 61 Energy used overall: 13.9785
+Node 62 Energy used overall: 14.017
+Node 63 Energy used overall: 20.0103
+Node 64 Energy used overall: 27.765
+Node 65 Energy used overall: 10.498
+Node 66 Energy used overall: 19.964
+Node 67 Energy used overall: 19.9745
+Node 68 Energy used overall: 27.6639
+Node 69 Energy used overall: 27.7996
+Node 70 Energy used overall: 8.6441
+Node 71 Energy used overall: 8.54306
+Node 72 Energy used overall: 19.9882
+Node 73 Energy used overall: 19.9385
+Node 74 Energy used overall: 41.6949
+Node 75 Energy used overall: 20.0124
+Node 76 Energy used overall: 27.7223
+Node 77 Energy used overall: 27.7412
+Node 78 Energy used overall: 10.5384
+Node 79 Energy used overall: 27.6827
+Node 80 Energy used overall: 19.9028
+Node 81 Energy used overall: 27.712
+Node 82 Energy used overall: 27.6931
+Node 83 Energy used overall: 27.7412
+Node 84 Energy used overall: 27.7997
+Node 85 Energy used overall: 14.1145
+Node 86 Energy used overall: 10.5789
+Node 87 Energy used overall: 41.5943
+Node 88 Energy used overall: 8.00346
+Node 89 Energy used overall: 41.576
+Node 90 Energy used overall: 20.0492
+Node 91 Energy used overall: 14.0201
+Node 92 Energy used overall: 14.0554
+Node 93 Energy used overall: 19.9744
+Node 94 Energy used overall: 41.5657
+Node 95 Energy used overall: 41.5802
+Node 96 Energy used overall: 41.5554
+Node 97 Energy used overall: 27.7704
+Node 98 Energy used overall: 14.1708
+Node 99 Energy used overall: 19.9386
+starting destroy
+0	250
+1	250
+2	250
+3	250
+4	250
+5	250
+6	250
+7	250
+8	250
+9	250
+10	250
+11	250
+12	250
+13	250
+14	250
+15	250
+16	250
+17	250
+18	250
+19	250
+20	250
+21	250
+22	250
+23	250
+24	250
+25	250
+26	250
+27	250
+28	250
+29	250
+30	250
+31	250
+32	250
+33	250
+34	250
+35	250
+36	250
+37	250
+38	250
+39	250
+40	250
+41	250
+42	250
+43	250
+44	250
+45	250
+46	250
+47	250
+48	250
+49	250
+50	250
+51	250
+52	250
+53	250
+54	250
+55	250
+56	250
+57	250
+58	250
+59	250
+60	250
+61	250
+62	250
+63	250
+64	250
+65	250
+66	250
+67	250
+68	250
+69	250
+70	250
+71	250
+72	250
+73	250
+74	250
+75	250
+76	250
+77	250
+78	250
+79	250
+80	250
+81	250
+82	250
+83	250
+84	250
+85	250
+86	250
+87	250
+88	250
+89	250
+90	250
+91	250
+92	250
+93	250
+94	250
+95	250
+96	250
+97	250
+98	250
+99	250
+99	0	6	5	1	0	6	185
+98	0	7	2	5	0	7	244
+97	0	5	1	4	0	5	144
+96	0	1	1	0	0	1	123
+95	0	3	3	0	0	3	125
+94	0	2	2	0	0	2	122
+93	0	6	4	2	0	6	172
+92	0	7	5	2	0	7	245
+91	0	8	7	1	0	8	249
+90	0	7	3	4	0	7	187
+89	0	3	3	0	0	3	125
+88	0	10	7	3	0	7	250
+87	0	3	2	1	0	3	125
+86	0	8	6	2	0	7	250
+85	0	13	11	2	0	13	45
+84	0	13	12	1	0	13	48
+83	0	5	2	3	0	5	138
+82	0	6	5	1	0	6	134
+81	0	5	3	2	0	5	140
+80	0	6	6	0	0	6	155
+79	0	5	4	1	0	5	153
+78	0	8	7	1	0	7	250
+35	0	9	8	1	0	7	250
+34	0	5	1	4	0	5	59
+33	0	3	3	0	0	3	125
+32	0	5	0	5	0	5	104
+31	0	2	1	1	0	2	122
+30	0	1	1	0	0	1	122
+29	0	6	5	1	0	6	186
+28	0	11	10	1	0	11	63
+27	0	17	16	1	0	17	80
+26	0	5	2	3	0	5	153
+25	0	6	0	6	0	6	180
+24	0	7	7	0	0	7	248
+23	0	2	2	0	0	2	123
+22	0	11	11	0	0	7	250
+21	0	2	1	1	0	2	123
+20	0	13	13	0	0	13	76
+19	0	7	4	3	0	7	185
+18	0	9	8	1	0	7	250
+17	0	6	6	0	0	6	84
+16	0	7	3	4	0	7	240
+5	0	11	9	2	0	11	37
+4	0	7	1	6	0	7	248
+3	0	8	8	0	0	7	250
+2	0	7	2	5	0	7	250
+0	0	6	1	5	0	6	143
+1	0	8	8	0	0	7	250
+6	0	7	3	4	0	7	128
+7	0	6	4	2	0	6	87
+8	0	21	21	0	0	21	79
+9	0	7	5	2	0	7	249
+10	0	16	12	4	0	16	61
+11	0	6	0	6	0	6	159
+12	0	6	3	3	0	6	59
+13	0	7	6	1	0	7	132
+14	0	7	2	5	0	7	250
+15	0	6	6	0	0	6	74
+36	0	12	11	1	0	12	201
+37	0	10	7	3	0	10	61
+38	0	10	7	3	0	10	90
+39	0	6	2	4	0	6	173
+40	0	7	6	1	0	7	46
+41	0	7	5	2	0	7	248
+42	0	12	11	1	0	12	194
+43	0	9	6	3	0	9	128
+44	0	5	2	3	0	5	134
+45	0	7	6	1	0	7	248
+46	0	7	4	3	0	7	223
+47	0	15	14	1	0	15	51
+48	0	6	3	3	0	6	81
+49	0	9	7	2	0	7	243
+50	0	6	3	3	0	6	179
+51	0	0	0	0	0	0	118
+52	0	6	4	2	0	6	139
+53	0	5	3	2	0	5	108
+54	0	5	0	5	0	5	99
+55	0	5	1	4	0	5	148
+56	0	7	2	5	0	7	80
+57	0	1	0	1	0	1	123
+58	0	5	0	5	0	5	154
+59	0	9	8	1	0	9	194
+60	0	1	0	1	0	1	122
+61	0	7	7	0	0	7	248
+62	0	7	6	1	0	7	241
+63	0	6	3	3	0	6	147
+64	0	11	11	0	0	11	26
+65	0	8	8	0	0	7	250
+66	0	10	9	1	0	10	138
+67	0	6	4	2	0	6	147
+68	0	6	6	0	0	6	101
+69	0	5	0	5	0	5	154
+70	0	8	6	2	0	7	249
+71	0	14	12	2	0	6	249
+72	0	11	10	1	0	11	74
+73	0	11	11	0	0	11	56
+74	0	4	3	1	0	4	126
+75	0	12	10	2	0	12	89
+76	0	6	4	2	0	6	113
+77	0	5	2	3	0	5	132
+finishing destroy

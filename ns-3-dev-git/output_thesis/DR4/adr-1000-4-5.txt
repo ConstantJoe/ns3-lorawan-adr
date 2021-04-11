@@ -1,0 +1,2 @@
+  File "./waf", line 96
+SyntaxError: unknown decode error

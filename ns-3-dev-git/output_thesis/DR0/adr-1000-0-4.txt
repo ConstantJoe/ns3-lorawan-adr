@@ -1,0 +1,29 @@
+Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
+Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
+Build commands will be stored in build/compile_commands.json
+Traceback (most recent call last):
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 110, in waf_entry_point
+    run_commands()
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 171, in run_commands
+    ctx=run_command(cmd_name)
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 162, in run_command
+    ctx.execute()
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 383, in execute
+    return execute_method(self)
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Build.py", line 107, in execute
+    self.execute_build()
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Build.py", line 121, in execute_build
+    self.post_build()
+  File "/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Build.py", line 276, in post_build
+    m(self)
+  File "waf-tools/clang_compilation_database.py", line 45, in write_compilation_database
+    root = json.load(database_file)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Unterminated string starting at: line 769 column 16 (char 114416)
