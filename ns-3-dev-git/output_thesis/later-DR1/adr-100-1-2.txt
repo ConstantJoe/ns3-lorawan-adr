@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (1.275s)
+'build' finished successfully (1.235s)
 LOCATIONS START
 100 -3768.42 -3135.3 0
 101 2961.74 3716.49 0
@@ -288,414 +288,267 @@ slow down dr at 88023.1
 slow down dr at 108450
 slow down dr at 125588
 slow down dr at 145915
-speed up dr at 152464
-speed up dr at 152511
-speed up dr at 152601
-speed up dr at 152669
-speed up dr at 152702
-speed up dr at 152768
-speed up dr at 152788
-speed up dr at 152890
-speed up dr at 152911
-speed up dr at 152920
-speed up dr at 152983
-speed up dr at 152988
-speed up dr at 153523
+speed up dr at 152442
+speed up dr at 152467
+speed up dr at 152504
+speed up dr at 152510
+speed up dr at 152576
+speed up dr at 152600
+speed up dr at 152670
+speed up dr at 152687
+speed up dr at 152705
+speed up dr at 152766
+speed up dr at 152771
+speed up dr at 152785
+speed up dr at 152802
+speed up dr at 152866
+speed up dr at 152875
+speed up dr at 152893
+speed up dr at 152914
+speed up dr at 152927
+speed up dr at 152951
+speed up dr at 152955
+speed up dr at 152979
+speed up dr at 152999
+speed up dr at 153105
+speed up dr at 153153
+speed up dr at 153202
+speed up dr at 153271
+speed up dr at 153333
+speed up dr at 153391
+speed up dr at 153480
+speed up dr at 153533
+speed up dr at 153583
+speed up dr at 153633
+speed up dr at 153977
+speed up dr at 154048
+speed up dr at 154123
+speed up dr at 154150
+speed up dr at 154191
+speed up dr at 154270
+speed up dr at 154314
+speed up dr at 154721
+speed up dr at 154785
+speed up dr at 155387
+speed up dr at 155685
+speed up dr at 156066
+speed up dr at 156390
+speed up dr at 157232
+speed up dr at 157311
+speed up dr at 157783
 slow down dr at 187809
 slow down dr at 187813
-slow down dr at 187827
-slow down dr at 187830
-slow down dr at 187830
-slow down dr at 187840
-slow down dr at 187868
-slow down dr at 187868
-slow down dr at 187875
-slow down dr at 187877
-slow down dr at 187888
 slow down dr at 187889
-slow down dr at 187893
-slow down dr at 187900
-slow down dr at 187908
-slow down dr at 187928
-slow down dr at 187933
-slow down dr at 187949
-slow down dr at 187967
-slow down dr at 187970
-slow down dr at 187977
 slow down dr at 187981
-slow down dr at 187983
-slow down dr at 187991
 slow down dr at 187994
-slow down dr at 188004
-slow down dr at 188006
-slow down dr at 188019
 slow down dr at 188022
-slow down dr at 188032
-slow down dr at 188042
-slow down dr at 188055
-slow down dr at 188064
-slow down dr at 188068
-slow down dr at 188075
-slow down dr at 188103
-slow down dr at 188129
-slow down dr at 188129
-slow down dr at 188157
-slow down dr at 188159
-slow down dr at 188164
-slow down dr at 188167
-slow down dr at 188173
-slow down dr at 188175
-slow down dr at 188178
-slow down dr at 188181
-slow down dr at 188185
-slow down dr at 188190
-slow down dr at 188205
-slow down dr at 188229
-slow down dr at 188245
-slow down dr at 188245
-slow down dr at 188259
 slow down dr at 188264
-slow down dr at 188264
-slow down dr at 188271
 slow down dr at 188272
-slow down dr at 188273
-slow down dr at 188277
-slow down dr at 188288
-slow down dr at 188296
-slow down dr at 188302
-slow down dr at 188303
-slow down dr at 188316
-slow down dr at 188316
-slow down dr at 188320
-slow down dr at 188321
-slow down dr at 188323
-slow down dr at 188329
-slow down dr at 188347
-slow down dr at 188351
-slow down dr at 188359
-slow down dr at 188362
-slow down dr at 188373
-slow down dr at 188375
-slow down dr at 188380
-slow down dr at 188394
-slow down dr at 207009
-slow down dr at 207013
-slow down dr at 207027
-slow down dr at 207030
-slow down dr at 207068
-slow down dr at 207075
-slow down dr at 207077
-slow down dr at 207088
-slow down dr at 207089
-slow down dr at 207093
-slow down dr at 207108
-slow down dr at 207128
-slow down dr at 207133
-slow down dr at 207167
-slow down dr at 207170
-slow down dr at 207177
-slow down dr at 207181
-slow down dr at 207183
-slow down dr at 207191
-slow down dr at 207194
-slow down dr at 207204
-slow down dr at 207206
-slow down dr at 207219
-slow down dr at 207222
-slow down dr at 207232
-slow down dr at 207242
-slow down dr at 207255
-slow down dr at 207264
-slow down dr at 207275
-slow down dr at 207303
-slow down dr at 207329
-slow down dr at 207329
-slow down dr at 207357
-slow down dr at 207359
-slow down dr at 207364
-slow down dr at 207367
-slow down dr at 207373
-slow down dr at 207378
-slow down dr at 207385
-slow down dr at 207390
-slow down dr at 207405
-slow down dr at 207429
-slow down dr at 207445
-slow down dr at 207459
-slow down dr at 207464
-slow down dr at 207464
-slow down dr at 207471
-slow down dr at 207472
-slow down dr at 207473
-slow down dr at 207488
-slow down dr at 207496
-slow down dr at 207502
-slow down dr at 207503
-slow down dr at 207516
-slow down dr at 207516
-slow down dr at 207520
-slow down dr at 207521
-slow down dr at 207551
-slow down dr at 207559
-slow down dr at 207562
-slow down dr at 207573
-slow down dr at 207580
-slow down dr at 207594
-slow down dr at 220483
-slow down dr at 226209
-slow down dr at 226213
-slow down dr at 226227
-slow down dr at 226230
-slow down dr at 226268
-slow down dr at 226277
-slow down dr at 226289
-slow down dr at 226293
-slow down dr at 226328
-slow down dr at 226333
-slow down dr at 226367
-slow down dr at 226370
-slow down dr at 226381
-slow down dr at 226383
-slow down dr at 226394
-slow down dr at 226404
-slow down dr at 226406
-slow down dr at 226419
-slow down dr at 226422
-slow down dr at 226432
-slow down dr at 226464
-slow down dr at 226475
-slow down dr at 226503
-slow down dr at 226529
-slow down dr at 226557
-slow down dr at 226564
-slow down dr at 226578
-slow down dr at 226585
-slow down dr at 226590
-slow down dr at 226645
-slow down dr at 226664
-slow down dr at 226664
-slow down dr at 226672
-slow down dr at 226673
-slow down dr at 226696
-slow down dr at 226702
-slow down dr at 226716
-slow down dr at 226762
-slow down dr at 226773
-slow down dr at 228529
-slow down dr at 233775
-slow down dr at 245409
-slow down dr at 245413
-slow down dr at 245489
-slow down dr at 245594
-slow down dr at 245622
-slow down dr at 245864
-slow down dr at 245872
-slow down dr at 250977
-slow down dr at 282232
-slow down dr at 290829
-slow down dr at 291390
+slow down dr at 216390
+slow down dr at 231832
+slow down dr at 236164
 starting energy print out
-Node 100 Energy used overall: 111.431
+Node 100 Energy used overall: 111.487
 Node 101 Energy used overall: 106.124
-Node 102 Energy used overall: 43.8557
-Node 103 Energy used overall: 43.8807
-Node 104 Energy used overall: 43.7287
-Node 105 Energy used overall: 65.9243
-Node 106 Energy used overall: 43.9478
+Node 102 Energy used overall: 43.7483
+Node 103 Energy used overall: 44.014
+Node 104 Energy used overall: 43.872
+Node 105 Energy used overall: 65.8658
+Node 106 Energy used overall: 44.0066
 Node 107 Energy used overall: 28.129
-Node 108 Energy used overall: 65.9138
-Node 109 Energy used overall: 65.7782
-Node 110 Energy used overall: 65.7032
-Node 111 Energy used overall: 43.8967
-Node 112 Energy used overall: 44.2087
+Node 108 Energy used overall: 65.825
+Node 109 Energy used overall: 65.9243
+Node 110 Energy used overall: 65.7324
+Node 111 Energy used overall: 43.7944
+Node 112 Energy used overall: 43.9938
 Node 113 Energy used overall: 101.857
-Node 114 Energy used overall: 65.7782
-Node 115 Energy used overall: 65.5738
+Node 114 Energy used overall: 65.6906
+Node 115 Energy used overall: 65.6322
 Node 116 Energy used overall: 65.6906
 Node 117 Energy used overall: 65.8306
 Node 118 Energy used overall: 43.8147
 Node 119 Energy used overall: 44.2803
 Node 120 Energy used overall: 28.202
-Node 121 Energy used overall: 16.7772
-Node 122 Energy used overall: 21.28
-Node 123 Energy used overall: 43.8926
-Node 124 Energy used overall: 65.7281
-Node 125 Energy used overall: 15.9022
-Node 126 Energy used overall: 111.425
-Node 127 Energy used overall: 65.7847
+Node 121 Energy used overall: 16.7359
+Node 122 Energy used overall: 21.2396
+Node 123 Energy used overall: 43.7984
+Node 124 Energy used overall: 65.6963
+Node 125 Energy used overall: 16.0229
+Node 126 Energy used overall: 111.371
+Node 127 Energy used overall: 65.7869
 Node 128 Energy used overall: 28.202
-Node 129 Energy used overall: 65.7886
+Node 129 Energy used overall: 65.8762
 Node 130 Energy used overall: 111.343
-Node 131 Energy used overall: 15.9169
+Node 131 Energy used overall: 15.8344
 Node 132 Energy used overall: 111.333
 Node 133 Energy used overall: 16.5346
 Node 134 Energy used overall: 65.6281
 Node 135 Energy used overall: 43.9222
-Node 136 Energy used overall: 16.6609
-Node 137 Energy used overall: 43.7854
-Node 138 Energy used overall: 43.8354
+Node 136 Energy used overall: 16.8672
+Node 137 Energy used overall: 43.7496
+Node 138 Energy used overall: 43.7996
 Node 139 Energy used overall: 17.2532
-Node 140 Energy used overall: 21.6095
-Node 141 Energy used overall: 65.7367
-Node 142 Energy used overall: 28.129
-Node 143 Energy used overall: 44.0644
+Node 140 Energy used overall: 21.6499
+Node 141 Energy used overall: 65.7122
+Node 142 Energy used overall: 28.2059
+Node 143 Energy used overall: 43.957
 Node 144 Energy used overall: 112.809
-Node 145 Energy used overall: 65.8658
+Node 145 Energy used overall: 65.9535
 Node 146 Energy used overall: 111.317
-Node 147 Energy used overall: 65.9123
-Node 148 Energy used overall: 65.9102
-Node 149 Energy used overall: 65.6081
-Node 150 Energy used overall: 65.7782
+Node 147 Energy used overall: 65.9474
+Node 148 Energy used overall: 65.9092
+Node 149 Energy used overall: 65.6666
+Node 150 Energy used overall: 65.8366
 Node 151 Energy used overall: 111.334
 Node 152 Energy used overall: 56.9485
 Node 153 Energy used overall: 28.0906
-Node 154 Energy used overall: 44.2445
+Node 154 Energy used overall: 44.0654
 Node 155 Energy used overall: 28.7019
-Node 156 Energy used overall: 44.1371
+Node 156 Energy used overall: 44.2087
 Node 157 Energy used overall: 44.178
-Node 158 Energy used overall: 65.9786
+Node 158 Energy used overall: 65.8326
 Node 159 Energy used overall: 111.327
-Node 160 Energy used overall: 28.3982
-Node 161 Energy used overall: 44.2087
-Node 162 Energy used overall: 44.0654
-Node 163 Energy used overall: 43.958
+Node 160 Energy used overall: 28.2829
+Node 161 Energy used overall: 44.2445
+Node 162 Energy used overall: 43.8506
+Node 163 Energy used overall: 43.9413
 Node 164 Energy used overall: 105.561
-Node 165 Energy used overall: 43.9222
-Node 166 Energy used overall: 44.2445
-Node 167 Energy used overall: 44.1195
+Node 165 Energy used overall: 43.8864
+Node 166 Energy used overall: 44.1013
+Node 167 Energy used overall: 44.0654
 Node 168 Energy used overall: 65.7767
-Node 169 Energy used overall: 16.8608
-Node 170 Energy used overall: 65.8628
+Node 169 Energy used overall: 16.8278
+Node 170 Energy used overall: 65.8612
 Node 171 Energy used overall: 21.2218
-Node 172 Energy used overall: 65.847
-Node 173 Energy used overall: 65.8821
+Node 172 Energy used overall: 65.749
+Node 173 Energy used overall: 65.7987
 Node 174 Energy used overall: 28.1251
-Node 175 Energy used overall: 17.3114
-Node 176 Energy used overall: 65.6322
-Node 177 Energy used overall: 65.6906
+Node 175 Energy used overall: 17.3527
+Node 176 Energy used overall: 65.603
+Node 177 Energy used overall: 65.8074
 Node 178 Energy used overall: 98.5013
-Node 179 Energy used overall: 44.2087
-Node 180 Energy used overall: 28.2444
-Node 181 Energy used overall: 44.2445
-Node 182 Energy used overall: 44.2803
-Node 183 Energy used overall: 66.0574
+Node 179 Energy used overall: 44.2445
+Node 180 Energy used overall: 28.2059
+Node 181 Energy used overall: 44.2803
+Node 182 Energy used overall: 44.1729
+Node 183 Energy used overall: 66.0866
 Node 184 Energy used overall: 44.2445
-Node 185 Energy used overall: 111.319
+Node 185 Energy used overall: 111.352
 Node 186 Energy used overall: 28.5865
-Node 187 Energy used overall: 43.8506
-Node 188 Energy used overall: 65.8366
-Node 189 Energy used overall: 44.09
+Node 187 Energy used overall: 44.0296
+Node 188 Energy used overall: 65.8074
+Node 189 Energy used overall: 44.1351
 Node 190 Energy used overall: 21.1587
-Node 191 Energy used overall: 44.1781
-Node 192 Energy used overall: 43.9274
-Node 193 Energy used overall: 43.8506
-Node 194 Energy used overall: 43.8915
-Node 195 Energy used overall: 21.2472
-Node 196 Energy used overall: 43.8275
+Node 191 Energy used overall: 44.272
+Node 192 Energy used overall: 44.0706
+Node 193 Energy used overall: 43.9938
+Node 194 Energy used overall: 44.0706
+Node 195 Energy used overall: 21.2437
+Node 196 Energy used overall: 43.935
 Node 197 Energy used overall: 111.317
-Node 198 Energy used overall: 65.603
-Node 199 Energy used overall: 65.8762
+Node 198 Energy used overall: 65.8074
+Node 199 Energy used overall: 65.7594
 later nodes start
-Node 0 Energy used overall: 8.14999
-Node 1 Energy used overall: 11.0331
-Node 2 Energy used overall: 24.6526
-Node 3 Energy used overall: 24.6732
-Node 4 Energy used overall: 24.6499
-Node 5 Energy used overall: 24.8024
-Node 6 Energy used overall: 18.575
-Node 7 Energy used overall: 24.7083
-Node 8 Energy used overall: 24.7427
-Node 9 Energy used overall: 24.6906
-Node 10 Energy used overall: 13.6068
-Node 11 Energy used overall: 24.6499
-Node 12 Energy used overall: 24.7324
-Node 13 Energy used overall: 17.0891
-Node 14 Energy used overall: 34.9113
-Node 15 Energy used overall: 13.6315
-Node 16 Energy used overall: 11.1
-Node 17 Energy used overall: 13.6699
-Node 18 Energy used overall: 13.7468
-Node 19 Energy used overall: 9.02131
-Node 20 Energy used overall: 13.6242
-Node 21 Energy used overall: 13.7191
-Node 22 Energy used overall: 28.0555
-Node 23 Energy used overall: 18.5423
-Node 24 Energy used overall: 18.5392
-Node 25 Energy used overall: 18.5392
-Node 26 Energy used overall: 18.5763
-Node 27 Energy used overall: 24.6551
-Node 28 Energy used overall: 8.43356
-Node 29 Energy used overall: 12.8724
-Node 30 Energy used overall: 18.5423
-Node 31 Energy used overall: 24.6207
-Node 32 Energy used overall: 24.7083
-Node 33 Energy used overall: 24.7375
-Node 34 Energy used overall: 34.9094
-Node 35 Energy used overall: 11.0527
-Node 36 Energy used overall: 24.6207
-Node 37 Energy used overall: 13.7115
-Node 38 Energy used overall: 10.9392
-Node 39 Energy used overall: 13.6699
-Node 40 Energy used overall: 24.631
-Node 41 Energy used overall: 18.5137
-Node 42 Energy used overall: 18.5542
-Node 43 Energy used overall: 8.09824
-Node 44 Energy used overall: 13.7115
-Node 45 Energy used overall: 8.5856
-Node 46 Energy used overall: 18.6228
-Node 47 Energy used overall: 18.6854
-Node 48 Energy used overall: 13.8018
-Node 49 Energy used overall: 18.5538
-Node 50 Energy used overall: 18.6466
-Node 51 Energy used overall: 8.93878
-Node 52 Energy used overall: 22.5756
-Node 53 Energy used overall: 10.8909
-Node 54 Energy used overall: 9.02015
-Node 55 Energy used overall: 8.21828
-Node 56 Energy used overall: 24.6717
-Node 57 Energy used overall: 24.702
-Node 58 Energy used overall: 11.0712
-Node 59 Energy used overall: 24.6602
-Node 60 Energy used overall: 18.5802
-Node 61 Energy used overall: 10.9734
-Node 62 Energy used overall: 13.6565
-Node 63 Energy used overall: 34.9254
-Node 64 Energy used overall: 34.989
-Node 65 Energy used overall: 18.5188
-Node 66 Energy used overall: 8.57801
-Node 67 Energy used overall: 19.4019
-Node 68 Energy used overall: 24.7375
-Node 69 Energy used overall: 18.5477
-Node 70 Energy used overall: 18.4744
-Node 71 Energy used overall: 24.6207
-Node 72 Energy used overall: 24.7102
-Node 73 Energy used overall: 34.9254
-Node 74 Energy used overall: 10.9313
-Node 75 Energy used overall: 18.6384
-Node 76 Energy used overall: 24.6844
-Node 77 Energy used overall: 18.5596
-Node 78 Energy used overall: 17.4471
-Node 79 Energy used overall: 24.7083
-Node 80 Energy used overall: 24.7375
-Node 81 Energy used overall: 9.02131
-Node 82 Energy used overall: 18.6954
-Node 83 Energy used overall: 8.98004
-Node 84 Energy used overall: 18.6466
-Node 85 Energy used overall: 18.547
-Node 86 Energy used overall: 8.70627
-Node 87 Energy used overall: 34.9254
-Node 88 Energy used overall: 24.7186
-Node 89 Energy used overall: 24.6499
-Node 90 Energy used overall: 24.6499
-Node 91 Energy used overall: 34.9197
-Node 92 Energy used overall: 24.7582
-Node 93 Energy used overall: 24.7173
-Node 94 Energy used overall: 8.30046
-Node 95 Energy used overall: 13.6461
-Node 96 Energy used overall: 18.5492
-Node 97 Energy used overall: 10.9313
-Node 98 Energy used overall: 24.6947
-Node 99 Energy used overall: 26.4004
+Node 0 Energy used overall: 8.95277
+Node 1 Energy used overall: 14.8326
+Node 2 Energy used overall: 34.9606
+Node 3 Energy used overall: 34.9363
+Node 4 Energy used overall: 35.0075
+Node 5 Energy used overall: 35.3134
+Node 6 Energy used overall: 34.9782
+Node 7 Energy used overall: 34.8614
+Node 8 Energy used overall: 34.8614
+Node 9 Energy used overall: 34.803
+Node 10 Energy used overall: 22.6361
+Node 11 Energy used overall: 35.0075
+Node 12 Energy used overall: 55.9722
+Node 13 Energy used overall: 22.6732
+Node 14 Energy used overall: 55.9433
+Node 15 Energy used overall: 22.9007
+Node 16 Energy used overall: 15.1018
+Node 17 Energy used overall: 22.8595
+Node 18 Energy used overall: 22.5737
+Node 19 Energy used overall: 9.87017
+Node 20 Energy used overall: 22.7699
+Node 21 Energy used overall: 22.7658
+Node 22 Energy used overall: 47.761
+Node 23 Energy used overall: 22.8649
+Node 24 Energy used overall: 34.8906
+Node 25 Energy used overall: 34.8322
+Node 26 Energy used overall: 34.8906
+Node 27 Energy used overall: 34.8614
+Node 28 Energy used overall: 8.95034
+Node 29 Energy used overall: 15.199
+Node 30 Energy used overall: 22.8151
+Node 31 Energy used overall: 35.0075
+Node 32 Energy used overall: 34.9225
+Node 33 Energy used overall: 34.8906
+Node 34 Energy used overall: 55.9436
+Node 35 Energy used overall: 11.4729
+Node 36 Energy used overall: 34.8614
+Node 37 Energy used overall: 23.0187
+Node 38 Energy used overall: 14.9095
+Node 39 Energy used overall: 15.3173
+Node 40 Energy used overall: 34.8718
+Node 41 Energy used overall: 34.9782
+Node 42 Energy used overall: 34.949
+Node 43 Energy used overall: 8.77797
+Node 44 Energy used overall: 22.7216
+Node 45 Energy used overall: 9.1849
+Node 46 Energy used overall: 22.7663
+Node 47 Energy used overall: 35.0643
+Node 48 Energy used overall: 22.6719
+Node 49 Energy used overall: 35.0075
+Node 50 Energy used overall: 34.8322
+Node 51 Energy used overall: 9.8161
+Node 52 Energy used overall: 34.8322
+Node 53 Energy used overall: 11.4463
+Node 54 Energy used overall: 9.88899
+Node 55 Energy used overall: 8.73505
+Node 56 Energy used overall: 34.9782
+Node 57 Energy used overall: 34.9265
+Node 58 Energy used overall: 15.2139
+Node 59 Energy used overall: 34.901
+Node 60 Energy used overall: 35.0075
+Node 61 Energy used overall: 15.2096
+Node 62 Energy used overall: 22.6003
+Node 63 Energy used overall: 55.9414
+Node 64 Energy used overall: 56.0106
+Node 65 Energy used overall: 34.949
+Node 66 Energy used overall: 9.09479
+Node 67 Energy used overall: 34.8322
+Node 68 Energy used overall: 34.8322
+Node 69 Energy used overall: 34.803
+Node 70 Energy used overall: 22.6719
+Node 71 Energy used overall: 34.8322
+Node 72 Energy used overall: 46.9451
+Node 73 Energy used overall: 55.9589
+Node 74 Energy used overall: 11.5133
+Node 75 Energy used overall: 34.8322
+Node 76 Energy used overall: 34.8698
+Node 77 Energy used overall: 34.8322
+Node 78 Energy used overall: 22.9007
+Node 79 Energy used overall: 34.8906
+Node 80 Energy used overall: 34.949
+Node 81 Energy used overall: 9.78892
+Node 82 Energy used overall: 34.9782
+Node 83 Energy used overall: 9.78892
+Node 84 Energy used overall: 35.0075
+Node 85 Energy used overall: 34.9913
+Node 86 Energy used overall: 8.96505
+Node 87 Energy used overall: 55.9573
+Node 88 Energy used overall: 34.9481
+Node 89 Energy used overall: 34.8614
+Node 90 Energy used overall: 34.9198
+Node 91 Energy used overall: 55.9414
+Node 92 Energy used overall: 35.037
+Node 93 Energy used overall: 34.9522
+Node 94 Energy used overall: 9.32031
+Node 95 Energy used overall: 22.6731
+Node 96 Energy used overall: 22.8244
+Node 97 Energy used overall: 15.0514
+Node 98 Energy used overall: 34.9198
+Node 99 Energy used overall: 50.6683
 starting destroy
 100	250
 101	250
@@ -897,204 +750,204 @@ starting destroy
 97	500
 98	500
 99	500
-99	0	15	5	10	0	15	394
-98	0	14	13	1	0	14	408
-97	0	1	1	0	0	1	388
-96	0	17	15	2	0	17	368
-95	0	16	14	2	0	15	499
-94	0	16	12	4	0	16	490
-93	0	15	12	3	0	15	490
-92	0	16	11	5	0	16	460
-91	0	15	5	10	0	15	500
+99	0	15	9	6	0	15	381
+98	0	14	6	8	0	14	393
+97	0	1	1	0	0	1	391
+96	0	17	12	5	0	17	357
+95	0	16	15	1	0	15	499
+94	0	16	7	9	0	16	489
+93	0	15	8	7	0	15	463
+92	0	16	7	9	0	16	462
+91	0	15	2	13	0	15	496
 90	0	16	14	2	0	15	500
-89	0	27	21	6	0	27	134
-88	0	14	5	9	0	14	432
-87	0	15	12	3	0	15	500
-86	0	16	3	13	0	15	486
+89	0	20	11	9	0	20	119
+88	0	14	6	8	0	14	432
+87	0	15	7	8	0	15	498
+86	0	16	3	13	0	15	490
 85	0	1	1	0	0	1	405
 84	0	15	1	14	0	15	500
-83	0	15	2	13	0	15	439
-82	0	15	0	15	0	15	472
-81	0	15	1	14	0	15	494
-80	0	16	12	4	0	15	500
-79	0	15	2	13	0	15	498
+83	0	15	1	14	0	15	439
+82	0	15	3	12	0	15	468
+81	0	15	0	15	0	15	492
+80	0	16	13	3	0	15	500
+79	0	15	1	14	0	15	495
 78	0	8	8	0	0	8	310
-77	0	14	10	4	0	14	408
-76	0	14	12	2	0	14	433
-75	0	17	14	3	0	15	494
-74	0	16	15	1	0	15	497
-73	0	29	27	2	0	29	116
-72	0	15	6	9	0	15	361
-71	0	17	15	2	0	15	499
-70	0	24	19	5	0	24	190
-69	0	21	15	6	0	14	486
-68	0	22	20	2	0	22	152
-67	0	15	7	8	0	15	499
-66	0	15	1	14	0	15	456
-177	0	8	6	2	0	8	59
-10	0	16	12	4	0	16	441
-176	0	9	9	0	0	9	63
-9	0	14	7	7	0	14	432
-175	0	5	1	4	0	5	122
-8	0	14	5	9	0	14	431
-174	0	7	6	1	0	7	248
-7	0	16	15	1	0	15	498
-173	0	1	0	1	0	1	85
-6	0	19	14	5	0	19	336
-172	0	6	5	1	0	6	12
-5	0	14	2	12	0	14	388
-171	0	4	4	0	0	4	112
-4	0	15	13	2	0	15	424
-170	0	7	7	0	0	7	153
-3	0	25	24	1	0	25	225
-169	0	9	8	1	0	9	31
-2	0	16	13	3	0	16	476
-168	0	4	0	4	0	4	123
+77	0	14	6	8	0	14	411
+76	0	14	13	1	0	14	433
+75	0	17	13	4	0	15	494
+74	0	16	15	1	0	15	498
+73	0	21	18	3	0	21	120
+72	0	14	8	6	0	14	357
+71	0	17	15	2	0	15	497
+70	0	25	21	4	0	25	198
+69	0	21	15	6	0	14	490
+68	0	22	20	2	0	22	167
+67	0	15	6	9	0	15	499
+66	0	15	5	10	0	15	450
+177	0	7	6	1	0	7	245
+10	0	16	11	5	0	16	440
+176	0	12	12	0	0	12	142
+9	0	14	2	12	0	14	433
+175	0	7	6	1	0	7	250
+8	0	14	8	6	0	14	430
+174	0	8	4	4	0	7	249
+7	0	16	15	1	0	15	499
+173	0	1	1	0	0	1	179
+6	0	17	10	7	0	17	364
+172	0	4	3	1	0	4	116
+5	0	14	4	10	0	14	394
+171	0	7	6	1	0	7	229
+4	0	15	9	6	0	15	420
+170	0	8	5	3	0	7	241
+3	0	21	15	6	0	21	228
+169	0	7	7	0	0	7	244
+2	0	16	16	0	0	16	472
+168	0	7	6	1	0	7	248
 1	0	11	11	0	0	11	374
-167	0	12	10	2	0	12	48
-0	0	2	1	1	0	2	376
-166	0	11	11	0	0	7	249
-165	0	7	6	1	0	7	42
-164	0	1	0	1	0	1	88
-163	0	1	0	1	0	1	87
-162	0	13	11	2	0	13	71
-161	0	8	6	2	0	8	235
-160	0	9	7	2	0	9	41
-159	0	5	4	1	0	5	99
-158	0	7	3	4	0	7	36
-157	0	6	4	2	0	6	67
-156	0	8	7	1	0	8	123
-155	0	9	8	1	0	7	245
-154	0	8	6	2	0	7	249
-153	0	7	7	0	0	7	250
-152	0	4	4	0	0	4	83
-151	0	8	8	0	0	7	242
-150	0	5	0	5	0	5	154
-149	0	10	9	1	0	10	37
-148	0	7	2	5	0	7	109
-147	0	4	2	2	0	4	7
-146	0	6	5	1	0	6	150
-145	0	13	12	1	0	6	250
-144	0	7	3	4	0	7	101
-143	0	8	6	2	0	7	250
-142	0	10	9	1	0	10	38
-141	0	7	6	1	0	7	133
-140	0	5	5	0	0	5	114
-139	0	6	3	3	0	6	186
-138	0	11	10	1	0	11	180
-137	0	7	3	4	0	7	162
-136	0	4	4	0	0	4	124
-115	0	6	4	2	0	6	150
-114	0	1	1	0	0	1	89
-113	0	8	8	0	0	8	114
-112	0	7	5	2	0	7	19
-111	0	4	3	1	0	4	103
-110	0	10	9	1	0	10	100
-109	0	6	4	2	0	6	123
-108	0	5	1	4	0	5	112
-107	0	4	1	3	0	4	122
-106	0	5	2	3	0	5	141
-101	0	11	9	2	0	11	119
-100	0	8	5	3	0	7	242
-102	0	4	3	1	0	4	49
-103	0	6	5	1	0	6	58
-104	0	4	3	1	0	4	116
-105	0	5	1	4	0	5	43
-116	0	11	6	5	0	11	114
-117	0	6	3	3	0	6	144
-118	0	6	1	5	0	6	178
-119	0	8	6	2	0	7	247
-120	0	6	5	1	0	6	143
-121	0	9	5	4	0	9	132
-122	0	2	1	1	0	2	32
-123	0	6	4	2	0	6	156
-124	0	5	3	2	0	5	146
-125	0	5	3	2	0	5	124
-126	0	5	2	3	0	5	65
-127	0	5	4	1	0	5	122
-128	0	11	10	1	0	7	250
-129	0	8	6	2	0	8	147
-130	0	6	4	2	0	6	155
-131	0	4	4	0	0	4	83
-132	0	4	1	3	0	4	80
-133	0	4	0	4	0	4	121
-134	0	1	1	0	0	1	91
-135	0	7	3	4	0	7	249
-178	0	8	6	2	0	8	126
-11	0	17	13	4	0	17	461
-179	0	4	1	3	0	4	114
-12	0	15	2	13	0	15	494
-180	0	4	0	4	0	4	112
-13	0	14	14	0	0	14	321
-181	0	8	6	2	0	7	250
-14	0	14	7	7	0	14	436
-182	0	16	12	4	0	16	48
-15	0	14	14	0	0	14	375
-183	0	8	7	1	0	7	250
-16	0	14	10	4	0	14	436
-184	0	5	0	5	0	5	154
-17	0	18	13	5	0	18	84
-185	0	6	4	2	0	6	84
-18	0	15	13	2	0	15	438
-186	0	11	7	4	0	7	250
+167	0	7	6	1	0	7	250
+0	0	2	1	1	0	2	367
+166	0	11	10	1	0	7	248
+165	0	7	2	5	0	7	250
+164	0	1	0	1	0	1	180
+163	0	2	2	0	0	2	185
+162	0	8	7	1	0	7	242
+161	0	8	0	8	0	7	250
+160	0	7	0	7	0	7	247
+159	0	8	5	3	0	8	202
+158	0	8	2	6	0	7	249
+157	0	10	7	3	0	10	151
+156	0	7	1	6	0	7	246
+155	0	9	7	2	0	7	246
+154	0	8	4	4	0	7	244
+153	0	8	6	2	0	7	250
+152	0	7	6	1	0	7	248
+151	0	9	0	9	0	7	242
+150	0	7	6	1	0	7	250
+149	0	7	0	7	0	7	250
+148	0	8	5	3	0	7	204
+147	0	7	1	6	0	7	214
+146	0	8	7	1	0	7	249
+145	0	13	9	4	0	6	250
+144	0	8	5	3	0	7	248
+143	0	8	4	4	0	7	249
+142	0	7	2	5	0	7	242
+141	0	7	1	6	0	7	250
+140	0	8	6	2	0	8	238
+139	0	9	9	0	0	7	245
+138	0	8	6	2	0	7	250
+137	0	8	4	4	0	7	244
+136	0	7	5	2	0	7	247
+115	0	8	0	8	0	7	238
+114	0	2	2	0	0	2	185
+113	0	8	8	0	0	7	241
+112	0	3	2	1	0	3	193
+111	0	7	0	7	0	7	208
+110	0	8	6	2	0	7	240
+109	0	7	7	0	0	7	243
+108	0	7	5	2	0	7	234
+107	0	7	5	2	0	7	248
+106	0	7	1	6	0	7	250
+101	0	8	8	0	0	7	250
+100	0	8	2	6	0	7	237
+102	0	10	6	4	0	10	89
+103	0	15	14	1	0	15	111
+104	0	7	0	7	0	7	223
+105	0	18	14	4	0	18	87
+116	0	8	1	7	0	7	246
+117	0	8	7	1	0	7	248
+118	0	8	8	0	0	7	250
+119	0	9	1	8	0	7	249
+120	0	8	6	2	0	7	249
+121	0	8	5	3	0	7	249
+122	0	4	2	2	0	4	115
+123	0	8	1	7	0	7	250
+124	0	7	4	3	0	7	240
+125	0	7	6	1	0	7	246
+126	0	7	4	3	0	7	236
+127	0	7	5	2	0	7	248
+128	0	11	9	2	0	7	250
+129	0	9	3	6	0	7	250
+130	0	8	1	7	0	7	249
+131	0	7	0	7	0	7	176
+132	0	7	3	4	0	7	156
+133	0	7	4	3	0	7	244
+134	0	2	2	0	0	2	188
+135	0	8	5	3	0	7	249
+178	0	8	0	8	0	7	250
+11	0	18	17	1	0	18	452
+179	0	7	4	3	0	7	238
+12	0	15	8	7	0	15	493
+180	0	7	2	5	0	7	237
+13	0	14	14	0	0	14	324
+181	0	9	8	1	0	7	248
+14	0	14	10	4	0	14	436
+182	0	7	1	6	0	7	250
+15	0	14	12	2	0	14	359
+183	0	9	8	1	0	7	249
+16	0	14	10	4	0	14	437
+184	0	7	0	7	0	7	250
+17	0	18	13	5	0	18	88
+185	0	7	1	6	0	7	250
+18	0	15	13	2	0	15	450
+186	0	11	9	2	0	7	250
 19	0	15	0	15	0	15	500
-187	0	1	0	1	0	1	91
+187	0	2	1	1	0	2	187
 20	0	16	13	3	0	15	500
-188	0	5	2	3	0	5	52
-21	0	16	13	3	0	15	498
-189	0	4	3	1	0	4	88
-22	0	16	11	5	0	15	497
-190	0	4	3	1	0	4	120
-23	0	18	16	2	0	18	338
-191	0	2	2	0	0	2	92
-24	0	18	15	3	0	18	257
-192	0	6	2	4	0	6	58
-25	0	17	16	1	0	15	500
-193	0	7	5	2	0	7	38
+188	0	9	5	4	0	9	93
+21	0	16	14	2	0	15	498
+189	0	7	5	2	0	7	187
+22	0	16	12	4	0	15	494
+190	0	7	3	4	0	7	243
+23	0	18	17	1	0	18	338
+191	0	2	2	0	0	2	182
+24	0	19	17	2	0	19	252
+192	0	12	7	5	0	12	108
+25	0	17	15	2	0	15	500
+193	0	11	9	2	0	11	65
 26	0	6	6	0	0	6	406
-194	0	10	9	1	0	7	249
-27	0	20	16	4	0	20	188
-195	0	10	8	2	0	10	121
+194	0	10	10	0	0	7	249
+27	0	20	16	4	0	20	183
+195	0	8	8	0	0	7	242
 28	0	16	13	3	0	15	500
-196	0	8	6	2	0	8	158
-29	0	15	8	7	0	15	439
-197	0	7	6	1	0	7	213
+196	0	8	1	7	0	7	250
+29	0	15	5	10	0	15	439
+197	0	8	2	6	0	7	242
 30	0	2	1	1	0	2	394
-198	0	5	3	2	0	5	78
-31	0	18	16	2	0	15	500
-199	0	5	3	2	0	5	21
-32	0	1	0	1	0	1	382
+198	0	7	3	4	0	7	154
+31	0	18	18	0	0	15	500
+199	0	3	2	1	0	3	143
+32	0	1	0	1	0	1	384
 33	0	19	18	1	0	15	500
 34	0	18	17	1	0	18	447
 35	0	15	10	5	0	15	498
-36	0	16	13	3	0	15	487
-37	0	16	15	1	0	16	340
-38	0	19	17	2	0	19	433
+36	0	16	8	8	0	15	486
+37	0	16	16	0	0	16	341
+38	0	19	18	1	0	19	436
 39	0	16	14	2	0	15	500
-40	0	16	3	13	0	15	500
-41	0	20	17	3	0	20	280
-42	0	16	15	1	0	15	499
-43	0	15	8	7	0	15	500
-44	0	1	0	1	0	1	389
-45	0	14	4	10	0	14	416
-46	0	1	1	0	0	1	379
-47	0	18	9	9	0	18	288
-48	0	19	10	9	0	19	233
-49	0	15	14	1	0	15	437
-50	0	14	7	7	0	14	417
-51	0	5	5	0	0	5	407
+40	0	16	2	14	0	15	500
+41	0	19	17	2	0	19	287
+42	0	16	13	3	0	15	500
+43	0	15	11	4	0	15	500
+44	0	1	0	1	0	1	393
+45	0	14	1	13	0	14	420
+46	0	1	1	0	0	1	381
+47	0	16	5	11	0	16	275
+48	0	21	13	8	0	21	230
+49	0	15	12	3	0	15	430
+50	0	14	5	9	0	14	416
+51	0	5	5	0	0	5	398
 52	0	20	10	10	0	20	282
 53	0	16	16	0	0	15	500
-54	0	15	1	14	0	15	500
+54	0	15	6	9	0	15	500
 55	0	16	0	16	0	15	500
-56	0	15	4	11	0	15	488
-57	0	16	4	12	0	16	453
-58	0	18	5	13	0	18	444
-59	0	2	2	0	0	2	405
-60	0	16	8	8	0	15	500
-61	0	15	2	13	0	15	492
-62	0	15	6	9	0	15	480
-63	0	15	9	6	0	15	329
-64	0	2	2	0	0	2	328
-65	0	15	10	5	0	15	495
+56	0	15	2	13	0	15	500
+57	0	16	4	12	0	16	446
+58	0	18	10	8	0	18	444
+59	0	2	2	0	0	2	406
+60	0	16	11	5	0	15	500
+61	0	15	1	14	0	15	497
+62	0	15	12	3	0	15	478
+63	0	18	13	5	0	18	341
+64	0	2	2	0	0	2	325
+65	0	15	11	4	0	15	498
 finishing destroy
