@@ -194,7 +194,8 @@ LoRaWANEndDeviceApplication::LoRaWANEndDeviceApplication ()
     m_linkAdrAnsPowerAck(false),
     m_linkAdrAnsDataRateAck(false),
     m_linkAdrAnsChannelMaskAck(false),
-    m_attemptedThroughput(0)
+    m_attemptedThroughput(0),
+    m_lastChangedDR(0)
 {
   NS_LOG_FUNCTION (this);
 
@@ -589,7 +590,8 @@ LoRaWANEndDeviceApplication::HandleDSPacket (Ptr<Packet> p, Address from)
 
           if (new_dr < 6) { // 15 indicates no change, 8-14 are RFU, 7 is FSK (not supported in this simulator), and 6 is DR6 with bw=250kHz (not supported in err model yet)
             NS_LOG_INFO (this << "received ADR mac, changing data rate from " << m_dataRateIndex << " to " << new_dr);
-            std::cout << "speed up dr at " << Simulator::Now ().GetSeconds () << std::endl;
+            //std::cout << "speed up dr at " << Simulator::Now ().GetSeconds () << std::endl;
+            m_lastChangedDR = Simulator::Now ().GetSeconds ();
             m_dataRateIndex = new_dr;
 
             m_linkAdrAnsDataRateAck = true;
@@ -699,7 +701,8 @@ void LoRaWANEndDeviceApplication::AdaptiveDataRate ()
         } else if (m_dataRateIndex > 0) { //current DR is not the slowest, longest range data rate
           // index 0 is SF12, BW=125kHz (the slowest)
           m_dataRateIndex--; // slow data rate by 1
-          std::cout << "slow down dr at " << Simulator::Now ().GetSeconds () << std::endl;
+          //std::cout << "slow down dr at " << Simulator::Now ().GetSeconds () << std::endl;
+          m_lastChangedDR = Simulator::Now ().GetSeconds ();
           NS_LOG_INFO (this << "... so slowing data rate to " << m_dataRateIndex << " on node " << GetNode()->GetId());
         } /* else if (not all channels open) {
           //Note: in the current implementation of the simulator all channels are always available
@@ -717,7 +720,7 @@ void LoRaWANEndDeviceApplication::AdaptiveDataRate ()
 void
 LoRaWANEndDeviceApplication::PrintFinalDetails ()
 {
-  std::cout << m_devAddr - 1 << "\t" <<  m_attemptedThroughput << std::endl;
+  std::cout << m_devAddr - 1 << "\t" <<  m_attemptedThroughput << "\t" << m_lastChangedDR <<  std::endl;
 }
 
 

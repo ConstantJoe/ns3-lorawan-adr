@@ -157,6 +157,7 @@ private:
   uint32_t    m_attemptedThroughput;
 
   uint32_t    m_devAddr;
+  Time        m_lastChangedDR;
 
 private:
   /**
