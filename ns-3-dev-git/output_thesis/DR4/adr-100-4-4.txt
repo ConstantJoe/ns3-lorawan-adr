@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (1.297s)
+'build' finished successfully (1.388s)
 LOCATIONS START
 0 1820.04 1002.63 0
 1 1898.51 -271.46 0
@@ -104,202 +104,6 @@ LOCATIONS START
 98 -1597.15 -3056.55 0
 99 1329.29 -895.524 0
 LOCATIONS END
-speed up dr at 2436.07
-speed up dr at 2440.65
-speed up dr at 2449.76
-speed up dr at 2486.75
-speed up dr at 2498.6
-speed up dr at 2548.38
-speed up dr at 2555.69
-speed up dr at 2593.48
-speed up dr at 2631.35
-speed up dr at 2670.64
-speed up dr at 2746.83
-speed up dr at 2758.79
-speed up dr at 2812.73
-speed up dr at 2894.33
-speed up dr at 2928.41
-speed up dr at 2948.87
-speed up dr at 2998.24
-slow down dr at 37817.7
-slow down dr at 37819.7
-slow down dr at 37831.1
-slow down dr at 37833.2
-slow down dr at 37834.7
-slow down dr at 37846.9
-slow down dr at 37851.5
-slow down dr at 37864.7
-slow down dr at 37874.7
-slow down dr at 37876.1
-slow down dr at 37876.6
-slow down dr at 37906.4
-slow down dr at 37922.3
-slow down dr at 37923.4
-slow down dr at 37923.9
-slow down dr at 37929
-slow down dr at 37938.2
-slow down dr at 37945.3
-slow down dr at 37964.6
-slow down dr at 37969.9
-slow down dr at 37981.1
-slow down dr at 38010.6
-slow down dr at 38020.1
-slow down dr at 38024.3
-slow down dr at 38047.6
-slow down dr at 38050.8
-slow down dr at 38057.7
-slow down dr at 38068.3
-slow down dr at 38074.7
-slow down dr at 38085.5
-slow down dr at 38107.6
-slow down dr at 38110.8
-slow down dr at 38113.7
-slow down dr at 38116.1
-slow down dr at 38140.5
-slow down dr at 38152.2
-slow down dr at 38169.7
-slow down dr at 38175.6
-slow down dr at 38182.7
-slow down dr at 38186.4
-slow down dr at 38188.4
-slow down dr at 38214.8
-slow down dr at 38217.6
-slow down dr at 38224.1
-slow down dr at 38244.4
-slow down dr at 38247.3
-slow down dr at 38260.7
-slow down dr at 38263.3
-slow down dr at 38272.6
-slow down dr at 38286.2
-slow down dr at 38288.5
-slow down dr at 38292.2
-slow down dr at 38303
-slow down dr at 38303
-slow down dr at 38305.8
-slow down dr at 38306.1
-slow down dr at 38308.9
-slow down dr at 38313.2
-slow down dr at 38313.4
-slow down dr at 38320.8
-slow down dr at 38326.7
-slow down dr at 38334
-slow down dr at 38342
-slow down dr at 38351.3
-slow down dr at 38360.9
-slow down dr at 38369.3
-slow down dr at 38381
-slow down dr at 38382
-slow down dr at 38396.3
-slow down dr at 38397.6
-slow down dr at 57017.7
-slow down dr at 57019.7
-slow down dr at 57033.2
-slow down dr at 57034.7
-slow down dr at 57046.9
-slow down dr at 57051.5
-slow down dr at 57074.7
-slow down dr at 57076.6
-slow down dr at 57106.4
-slow down dr at 57122.3
-slow down dr at 57123.4
-slow down dr at 57123.9
-slow down dr at 57129
-slow down dr at 57138.2
-slow down dr at 57145.3
-slow down dr at 57164.6
-slow down dr at 57169.9
-slow down dr at 57181.1
-slow down dr at 57210.6
-slow down dr at 57220.1
-slow down dr at 57224.3
-slow down dr at 57247.6
-slow down dr at 57250.8
-slow down dr at 57257.7
-slow down dr at 57268.3
-slow down dr at 57274.7
-slow down dr at 57307.6
-slow down dr at 57316.1
-slow down dr at 57340.5
-slow down dr at 57352.2
-slow down dr at 57369.7
-slow down dr at 57382.7
-slow down dr at 57386.4
-slow down dr at 57388.4
-slow down dr at 57414.8
-slow down dr at 57417.6
-slow down dr at 57424.1
-slow down dr at 57444.4
-slow down dr at 57460.7
-slow down dr at 57463.3
-slow down dr at 57472.6
-slow down dr at 57486.2
-slow down dr at 57492.2
-slow down dr at 57503
-slow down dr at 57503
-slow down dr at 57506.1
-slow down dr at 57508.9
-slow down dr at 57513.4
-slow down dr at 57520.8
-slow down dr at 57534
-slow down dr at 57542
-slow down dr at 57551.3
-slow down dr at 57560.9
-slow down dr at 57581
-slow down dr at 57582
-slow down dr at 57596.3
-slow down dr at 57597.6
-slow down dr at 76217.7
-slow down dr at 76219.7
-slow down dr at 76233.2
-slow down dr at 76234.7
-slow down dr at 76246.9
-slow down dr at 76274.7
-slow down dr at 76306.4
-slow down dr at 76322.3
-slow down dr at 76329
-slow down dr at 76338.2
-slow down dr at 76345.3
-slow down dr at 76381.1
-slow down dr at 76410.6
-slow down dr at 76420.1
-slow down dr at 76447.6
-slow down dr at 76450.8
-slow down dr at 76468.3
-slow down dr at 76474.7
-slow down dr at 76507.6
-slow down dr at 76516.1
-slow down dr at 76540.5
-slow down dr at 76552.2
-slow down dr at 76569.7
-slow down dr at 76582.7
-slow down dr at 76588.4
-slow down dr at 76617.6
-slow down dr at 76624.1
-slow down dr at 76644.4
-slow down dr at 76663.3
-slow down dr at 76672.6
-slow down dr at 76703
-slow down dr at 76706.1
-slow down dr at 76708.9
-slow down dr at 76713.4
-slow down dr at 76720.8
-slow down dr at 76782
-slow down dr at 76796.3
-slow down dr at 76797.6
-slow down dr at 95474.7
-slow down dr at 95522.3
-slow down dr at 95538.2
-slow down dr at 95647.6
-slow down dr at 95782.7
-slow down dr at 95863.3
-slow down dr at 95872.6
-slow down dr at 95906.1
-slow down dr at 95920.8
-slow down dr at 95982
-slow down dr at 115485
-slow down dr at 115798
-slow down dr at 124345
-slow down dr at 126386
 starting energy print out
 Node 0 Energy used overall: 10.6026
 Node 1 Energy used overall: 10.6431
@@ -402,106 +206,106 @@ Node 97 Energy used overall: 34.4613
 Node 98 Energy used overall: 18.0585
 Node 99 Energy used overall: 8.48878
 starting destroy
-0	250
-1	250
-2	250
-3	250
-4	250
-5	250
-6	250
-7	250
-8	250
-9	250
-10	250
-11	250
-12	250
-13	250
-14	250
-15	250
-16	250
-17	250
-18	250
-19	250
-20	250
-21	250
-22	250
-23	250
-24	250
-25	250
-26	250
-27	250
-28	250
-29	250
-30	250
-31	250
-32	250
-33	250
-34	250
-35	250
-36	250
-37	250
-38	250
-39	250
-40	250
-41	250
-42	250
-43	250
-44	250
-45	250
-46	250
-47	250
-48	250
-49	250
-50	250
-51	250
-52	250
-53	250
-54	250
-55	250
-56	250
-57	250
-58	250
-59	250
-60	250
-61	250
-62	250
-63	250
-64	250
-65	250
-66	250
-67	250
-68	250
-69	250
-70	250
-71	250
-72	250
-73	250
-74	250
-75	250
-76	250
-77	250
-78	250
-79	250
-80	250
-81	250
-82	250
-83	250
-84	250
-85	250
-86	250
-87	250
-88	250
-89	250
-90	250
-91	250
-92	250
-93	250
-94	250
-95	250
-96	250
-97	250
-98	250
-99	250
+0	250	0
+1	250	0
+2	250	115798
+3	250	2548.38
+4	250	38313.2
+5	250	57551.3
+6	250	57534
+7	250	0
+8	250	37831.1
+9	250	57224.3
+10	250	95872.6
+11	250	57486.2
+12	250	37876.1
+13	250	38175.6
+14	250	38305.8
+15	250	95522.3
+16	250	76420.1
+17	250	2555.69
+18	250	57164.6
+19	250	2948.87
+20	250	76624.1
+21	250	2746.83
+22	250	76217.7
+23	250	95906.1
+24	250	38326.7
+25	250	76516.1
+26	250	2928.41
+27	250	38113.7
+28	250	2812.73
+29	250	2486.75
+30	250	95474.7
+31	250	37864.7
+32	250	57492.2
+33	250	57123.4
+34	250	95647.6
+35	250	0
+36	250	76306.4
+37	250	76617.6
+38	250	76569.7
+39	250	76708.9
+40	250	0
+41	250	76381.1
+42	250	57560.9
+43	250	38369.3
+44	250	76234.7
+45	250	115485
+46	250	76552.2
+47	250	0
+48	250	124345
+49	250	57460.7
+50	250	57051.5
+51	250	76474.7
+52	250	57123.9
+53	250	126386
+54	250	57414.8
+55	250	76468.3
+56	250	76219.7
+57	250	76246.9
+58	250	2498.6
+59	250	76450.8
+60	250	2998.24
+61	250	2894.33
+62	250	2670.64
+63	250	76713.4
+64	250	76410.6
+65	250	76644.4
+66	250	76233.2
+67	250	0
+68	250	57542
+69	250	0
+70	250	0
+71	250	0
+72	250	76329
+73	250	0
+74	250	76703
+75	250	76796.3
+76	250	38247.3
+77	250	76507.6
+78	250	95782.7
+79	250	57503
+80	250	76540.5
+81	250	2631.35
+82	250	0
+83	250	2436.07
+84	250	2758.79
+85	250	0
+86	250	57169.9
+87	250	57581
+88	250	95538.2
+89	250	76588.4
+90	250	57076.6
+91	250	38288.5
+92	250	2449.76
+93	250	2440.65
+94	250	95920.8
+95	250	95982
+96	250	38110.8
+97	250	95863.3
+98	250	57257.7
+99	250	2593.48
 99	0	8	8	0	0	7	250
 98	0	6	5	1	0	6	142
 97	0	1	1	0	0	1	89

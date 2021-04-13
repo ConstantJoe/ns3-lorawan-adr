@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (1.082s)
+'build' finished successfully (1.353s)
 LOCATIONS START
 0 -3768.42 -3135.3 0
 1 2961.74 3716.49 0
@@ -104,58 +104,6 @@ LOCATIONS START
 98 3839.1 1596.74 0
 99 1619.32 -4038.61 0
 LOCATIONS END
-speed up dr at 2422.69
-speed up dr at 2431.79
-speed up dr at 2447.86
-speed up dr at 2467.51
-speed up dr at 2504.09
-speed up dr at 2530.86
-speed up dr at 2561.13
-speed up dr at 2577.46
-speed up dr at 2625.1
-speed up dr at 2646.14
-speed up dr at 2658.24
-speed up dr at 2687.25
-speed up dr at 2714.35
-speed up dr at 2743.2
-speed up dr at 2814.85
-speed up dr at 2819.26
-speed up dr at 2842.68
-speed up dr at 2873.64
-speed up dr at 2899.33
-speed up dr at 2910.75
-speed up dr at 2960.21
-speed up dr at 2983.04
-speed up dr at 2994.3
-speed up dr at 3037.31
-speed up dr at 3070.19
-speed up dr at 3225.53
-speed up dr at 3272.52
-speed up dr at 3291.84
-speed up dr at 3452.07
-speed up dr at 3474.52
-speed up dr at 3518.31
-speed up dr at 3559.82
-speed up dr at 3640.24
-speed up dr at 3894.59
-speed up dr at 4118.69
-speed up dr at 5429.17
-speed up dr at 5622.66
-speed up dr at 5656.13
-slow down dr at 37867.5
-slow down dr at 37913.3
-slow down dr at 37925
-slow down dr at 38044.2
-slow down dr at 38056.4
-slow down dr at 38198.5
-slow down dr at 38221.2
-slow down dr at 38260.6
-slow down dr at 57985
-slow down dr at 62755.7
-slow down dr at 69135.7
-slow down dr at 79545.3
-slow down dr at 93975.4
-slow down dr at 139351
 starting energy print out
 Node 0 Energy used overall: 55.5073
 Node 1 Energy used overall: 55.5348
@@ -258,106 +206,106 @@ Node 97 Energy used overall: 55.497
 Node 98 Energy used overall: 34.5575
 Node 99 Energy used overall: 35.0958
 starting destroy
-0	250
-1	250
-2	250
-3	250
-4	250
-5	250
-6	250
-7	250
-8	250
-9	250
-10	250
-11	250
-12	250
-13	250
-14	250
-15	250
-16	250
-17	250
-18	250
-19	250
-20	250
-21	250
-22	250
-23	250
-24	250
-25	250
-26	250
-27	250
-28	250
-29	250
-30	250
-31	250
-32	250
-33	250
-34	250
-35	250
-36	250
-37	250
-38	250
-39	250
-40	250
-41	250
-42	250
-43	250
-44	250
-45	250
-46	250
-47	250
-48	250
-49	250
-50	250
-51	250
-52	250
-53	250
-54	250
-55	250
-56	250
-57	250
-58	250
-59	250
-60	250
-61	250
-62	250
-63	250
-64	250
-65	250
-66	250
-67	250
-68	250
-69	250
-70	250
-71	250
-72	250
-73	250
-74	250
-75	250
-76	250
-77	250
-78	250
-79	250
-80	250
-81	250
-82	250
-83	250
-84	250
-85	250
-86	250
-87	250
-88	250
-89	250
-90	250
-91	250
-92	250
-93	250
-94	250
-95	250
-96	250
-97	250
-98	250
-99	250
+0	250	37925
+1	250	38198.5
+2	250	0
+3	250	0
+4	250	0
+5	250	0
+6	250	0
+7	250	2467.51
+8	250	0
+9	250	0
+10	250	0
+11	250	0
+12	250	2504.09
+13	250	0
+14	250	0
+15	250	0
+16	250	0
+17	250	0
+18	250	0
+19	250	2842.68
+20	250	3037.31
+21	250	3225.53
+22	250	3640.24
+23	250	0
+24	250	0
+25	250	2447.86
+26	250	57985
+27	250	0
+28	250	2960.21
+29	250	0
+30	250	37913.3
+31	250	2646.14
+32	250	38044.2
+33	250	2743.2
+34	250	0
+35	250	0
+36	250	3291.84
+37	250	0
+38	250	0
+39	250	3474.52
+40	250	3272.52
+41	250	0
+42	250	5656.13
+43	250	2422.69
+44	250	38056.4
+45	250	0
+46	250	69135.7
+47	250	0
+48	250	0
+49	250	0
+50	250	0
+51	250	38221.2
+52	250	0
+53	250	2714.35
+54	250	2814.85
+55	250	3518.31
+56	250	2873.64
+57	250	0
+58	250	0
+59	250	37867.5
+60	250	3559.82
+61	250	3070.19
+62	250	0
+63	250	0
+64	250	62755.7
+65	250	0
+66	250	0
+67	250	4118.69
+68	250	0
+69	250	2910.75
+70	250	0
+71	250	5622.66
+72	250	0
+73	250	79545.3
+74	250	2899.33
+75	250	5429.17
+76	250	0
+77	250	0
+78	250	139351
+79	250	2687.25
+80	250	3894.59
+81	250	0
+82	250	0
+83	250	0
+84	250	2983.04
+85	250	93975.4
+86	250	2561.13
+87	250	2530.86
+88	250	0
+89	250	0
+90	250	2819.26
+91	250	3452.07
+92	250	0
+93	250	2577.46
+94	250	0
+95	250	2994.3
+96	250	0
+97	250	38260.6
+98	250	0
+99	250	0
 99	0	8	3	5	0	8	212
 98	0	7	0	7	0	7	239
 97	0	1	0	1	0	1	185

@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (1.405s)
+'build' finished successfully (2.275s)
 LOCATIONS START
 0 2392.7 -2822.02 0
 1 463.456 -2200.88 0
@@ -104,103 +104,6 @@ LOCATIONS START
 98 745.837 4774.6 0
 99 74.8692 -2334.79 0
 LOCATIONS END
-speed up dr at 2403.25
-speed up dr at 2410.81
-speed up dr at 2447.32
-speed up dr at 2455.47
-speed up dr at 2457.44
-speed up dr at 2469.21
-speed up dr at 2471.17
-speed up dr at 2474.21
-speed up dr at 2475.46
-speed up dr at 2505.69
-speed up dr at 2510.59
-speed up dr at 2510.79
-speed up dr at 2521.07
-speed up dr at 2536.12
-speed up dr at 2545.28
-speed up dr at 2547.5
-speed up dr at 2550.72
-speed up dr at 2570.91
-speed up dr at 2571.95
-speed up dr at 2582.86
-speed up dr at 2583.82
-speed up dr at 2585.71
-speed up dr at 2588.59
-speed up dr at 2610.4
-speed up dr at 2612.04
-speed up dr at 2619.39
-speed up dr at 2622.09
-speed up dr at 2623.98
-speed up dr at 2638.1
-speed up dr at 2639.22
-speed up dr at 2646.16
-speed up dr at 2646.93
-speed up dr at 2666.84
-speed up dr at 2674.72
-speed up dr at 2678.76
-speed up dr at 2691.54
-speed up dr at 2693.34
-speed up dr at 2695.09
-speed up dr at 2701.4
-speed up dr at 2712.38
-speed up dr at 2722.97
-speed up dr at 2726.88
-speed up dr at 2745.39
-speed up dr at 2755.65
-speed up dr at 2758.41
-speed up dr at 2759.05
-speed up dr at 2759.58
-speed up dr at 2762.04
-speed up dr at 2763.45
-speed up dr at 2765.66
-speed up dr at 2772.67
-speed up dr at 2808.47
-speed up dr at 2818.39
-speed up dr at 2819.5
-speed up dr at 2826.8
-speed up dr at 2840.35
-speed up dr at 2850.12
-speed up dr at 2851.65
-speed up dr at 2856.64
-speed up dr at 2866.51
-speed up dr at 2869
-speed up dr at 2875.93
-speed up dr at 2880.43
-speed up dr at 2890.49
-speed up dr at 2896.61
-speed up dr at 2903.03
-speed up dr at 2907.58
-speed up dr at 2910.61
-speed up dr at 2917.29
-speed up dr at 2928.7
-speed up dr at 2932.66
-speed up dr at 2943.05
-speed up dr at 2954.49
-speed up dr at 2964.2
-speed up dr at 2967.39
-speed up dr at 2971.01
-speed up dr at 2991.61
-speed up dr at 3032.71
-speed up dr at 3174.01
-speed up dr at 3278.97
-speed up dr at 3282.6
-speed up dr at 3356.72
-speed up dr at 3474.84
-speed up dr at 3500.45
-speed up dr at 3508.38
-speed up dr at 3529.35
-speed up dr at 3537.47
-speed up dr at 3567.96
-speed up dr at 3578.26
-speed up dr at 3845.14
-speed up dr at 3884.68
-speed up dr at 5402.3
-speed up dr at 5474.84
-speed up dr at 5644.05
-speed up dr at 5699.29
-speed up dr at 5762.32
-speed up dr at 5766.87
 starting energy print out
 Node 0 Energy used overall: 8.24379
 Node 1 Energy used overall: 22.1861
@@ -303,106 +206,106 @@ Node 97 Energy used overall: 22.1503
 Node 98 Energy used overall: 22.3744
 Node 99 Energy used overall: 22.1734
 starting destroy
-0	250
-1	250
-2	250
-3	250
-4	250
-5	250
-6	250
-7	250
-8	250
-9	250
-10	250
-11	250
-12	250
-13	250
-14	250
-15	250
-16	250
-17	250
-18	250
-19	250
-20	250
-21	250
-22	250
-23	250
-24	250
-25	250
-26	250
-27	250
-28	250
-29	250
-30	250
-31	250
-32	250
-33	250
-34	250
-35	250
-36	250
-37	250
-38	250
-39	250
-40	250
-41	250
-42	250
-43	250
-44	250
-45	250
-46	250
-47	250
-48	250
-49	250
-50	250
-51	250
-52	250
-53	250
-54	250
-55	250
-56	250
-57	250
-58	250
-59	250
-60	250
-61	250
-62	250
-63	250
-64	250
-65	250
-66	250
-67	250
-68	250
-69	250
-70	250
-71	250
-72	250
-73	250
-74	250
-75	250
-76	250
-77	250
-78	250
-79	250
-80	250
-81	250
-82	250
-83	250
-84	250
-85	250
-86	250
-87	250
-88	250
-89	250
-90	250
-91	250
-92	250
-93	250
-94	250
-95	250
-96	250
-97	250
-98	250
-99	250
+0	250	2510.59
+1	250	2722.97
+2	250	2826.8
+3	250	3032.71
+4	250	0
+5	250	2762.04
+6	250	2570.91
+7	250	3474.84
+8	250	2818.39
+9	250	2646.93
+10	250	2758.41
+11	250	2638.1
+12	250	2693.34
+13	250	2505.69
+14	250	2447.32
+15	250	2943.05
+16	250	2521.07
+17	250	2510.79
+18	250	2759.58
+19	250	2759.05
+20	250	5762.32
+21	250	3567.96
+22	250	0
+23	250	5474.84
+24	250	5766.87
+25	250	0
+26	250	2623.98
+27	250	3537.47
+28	250	2471.17
+29	250	2907.58
+30	250	0
+31	250	5699.29
+32	250	0
+33	250	3578.26
+34	250	2639.22
+35	250	2880.43
+36	250	2726.88
+37	250	2866.51
+38	250	2875.93
+39	250	2971.01
+40	250	2850.12
+41	250	2588.59
+42	250	2612.04
+43	250	0
+44	250	2585.71
+45	250	2674.72
+46	250	3884.68
+47	250	2695.09
+48	250	2772.67
+49	250	2547.5
+50	250	2840.35
+51	250	2622.09
+52	250	2545.28
+53	250	2610.4
+54	250	2583.82
+55	250	2869
+56	250	3282.6
+57	250	2619.39
+58	250	0
+59	250	2856.64
+60	250	5644.05
+61	250	2932.66
+62	250	2678.76
+63	250	2896.61
+64	250	2851.65
+65	250	3529.35
+66	250	0
+67	250	2410.81
+68	250	2691.54
+69	250	2819.5
+70	250	3174.01
+71	250	2550.72
+72	250	2666.84
+73	250	2571.95
+74	250	2457.44
+75	250	3845.14
+76	250	2903.03
+77	250	2455.47
+78	250	2582.86
+79	250	2745.39
+80	250	3508.38
+81	250	2755.65
+82	250	2954.49
+83	250	5402.3
+84	250	3278.97
+85	250	2765.66
+86	250	2917.29
+87	250	2967.39
+88	250	2712.38
+89	250	2536.12
+90	250	2808.47
+91	250	3356.72
+92	250	2474.21
+93	250	2890.49
+94	250	2964.2
+95	250	2469.21
+96	250	2991.61
+97	250	2928.7
+98	250	2910.61
+99	250	3500.45
 99	0	8	8	0	0	7	500
 98	0	8	1	7	0	7	255
 97	0	8	7	1	0	7	491

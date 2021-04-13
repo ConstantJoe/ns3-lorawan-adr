@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Waf: Leaving directory `/home/joseph/Workspace/thesis-adr/ns3-lorawan-adr/ns-3-dev-git/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (1.775s)
+'build' finished successfully (1.603s)
 LOCATIONS START
 0 2577.22 -3391.85 0
 1 1582.6 -451.545 0
@@ -2504,2119 +2504,6 @@ LOCATIONS START
 2498 1432.07 -1227.91 0
 2499 -3925.21 2162.2 0
 LOCATIONS END
-speed up dr at 2403.4
-speed up dr at 2409.78
-speed up dr at 2422.32
-speed up dr at 2435.11
-speed up dr at 2447.65
-speed up dr at 2460.72
-speed up dr at 2469.81
-speed up dr at 2477.19
-speed up dr at 2489.29
-speed up dr at 2503.53
-speed up dr at 2516.23
-speed up dr at 2531.51
-speed up dr at 2538.12
-speed up dr at 2545.14
-speed up dr at 2558.49
-speed up dr at 2570.41
-speed up dr at 2582.32
-speed up dr at 2594.09
-speed up dr at 2615.68
-speed up dr at 2629.47
-speed up dr at 2643.42
-speed up dr at 2656.88
-speed up dr at 2669.23
-speed up dr at 2675.28
-speed up dr at 2682.07
-speed up dr at 2697.35
-speed up dr at 2709.28
-speed up dr at 2724
-speed up dr at 2736.93
-speed up dr at 2744.49
-speed up dr at 2753.37
-speed up dr at 2766.72
-speed up dr at 2779.53
-speed up dr at 2792.66
-speed up dr at 2806.05
-speed up dr at 2813.65
-speed up dr at 2822.11
-speed up dr at 2836.25
-speed up dr at 2848.31
-speed up dr at 2860.68
-speed up dr at 2874.47
-speed up dr at 2886
-speed up dr at 2893.06
-speed up dr at 2907.51
-speed up dr at 2933.04
-speed up dr at 2947.34
-speed up dr at 2952.27
-speed up dr at 2959.48
-speed up dr at 2972.87
-speed up dr at 2987.82
-speed up dr at 3002.57
-speed up dr at 3014.19
-speed up dr at 3025.19
-speed up dr at 3027.55
-speed up dr at 3039.9
-speed up dr at 3051.56
-speed up dr at 3065.35
-speed up dr at 3079.97
-speed up dr at 3091.74
-speed up dr at 3100.31
-speed up dr at 3112.31
-speed up dr at 3125.84
-speed up dr at 3138.26
-speed up dr at 3151.12
-speed up dr at 3159.08
-speed up dr at 3163.54
-speed up dr at 3175.54
-speed up dr at 3187.58
-speed up dr at 3200.34
-speed up dr at 3215.76
-speed up dr at 3226.01
-speed up dr at 3230.19
-speed up dr at 3243.32
-speed up dr at 3255.5
-speed up dr at 3267.7
-speed up dr at 3282.81
-speed up dr at 3295.85
-speed up dr at 3298.19
-speed up dr at 3312.8
-speed up dr at 3324.99
-speed up dr at 3336.76
-speed up dr at 3350.96
-speed up dr at 3362.12
-speed up dr at 3364.3
-speed up dr at 3377.98
-speed up dr at 3390.01
-speed up dr at 3401.69
-speed up dr at 3415.24
-speed up dr at 3427.48
-speed up dr at 3430.67
-speed up dr at 3441.02
-speed up dr at 3453.15
-speed up dr at 3465.12
-speed up dr at 3477.53
-speed up dr at 3489.6
-speed up dr at 3496.97
-speed up dr at 3501.6
-speed up dr at 3514.8
-speed up dr at 3526.45
-speed up dr at 3539.66
-speed up dr at 3551.63
-speed up dr at 3564.29
-speed up dr at 3568.49
-speed up dr at 3576.91
-speed up dr at 3591.91
-speed up dr at 3605.21
-speed up dr at 3618.14
-speed up dr at 3630.44
-speed up dr at 3636.2
-speed up dr at 3643.48
-speed up dr at 3655.85
-speed up dr at 3667.97
-speed up dr at 3680.37
-speed up dr at 3692.08
-speed up dr at 3702.76
-speed up dr at 3706.68
-speed up dr at 3718.29
-speed up dr at 3730.19
-speed up dr at 3746.12
-speed up dr at 3758.9
-speed up dr at 3769.25
-speed up dr at 3771.01
-speed up dr at 3782.76
-speed up dr at 3795.12
-speed up dr at 3808.01
-speed up dr at 3819.95
-speed up dr at 3833.25
-speed up dr at 3836.38
-speed up dr at 3847.1
-speed up dr at 3859.41
-speed up dr at 3872.25
-speed up dr at 3885.86
-speed up dr at 3898.84
-speed up dr at 3903.15
-speed up dr at 3911.93
-speed up dr at 3925.08
-speed up dr at 3936.97
-speed up dr at 3948.84
-speed up dr at 3961.5
-speed up dr at 3969.6
-speed up dr at 3975.44
-speed up dr at 3987.03
-speed up dr at 3999.99
-speed up dr at 4014.4
-speed up dr at 4026.6
-speed up dr at 4036.15
-speed up dr at 4042.8
-speed up dr at 4054.47
-speed up dr at 4066.72
-speed up dr at 4079.61
-speed up dr at 4094.09
-speed up dr at 4102.17
-speed up dr at 4107.67
-speed up dr at 4120.41
-speed up dr at 4132.28
-speed up dr at 4144.02
-speed up dr at 4155.99
-speed up dr at 4168.73
-speed up dr at 4174.48
-speed up dr at 4186.3
-speed up dr at 4199.15
-speed up dr at 4211.21
-speed up dr at 4225.3
-speed up dr at 4236.92
-speed up dr at 4241.02
-speed up dr at 4252.7
-speed up dr at 4265.04
-speed up dr at 4280.87
-speed up dr at 4292.52
-speed up dr at 4303.99
-speed up dr at 4309.33
-speed up dr at 4322.41
-speed up dr at 4334.82
-speed up dr at 4349.61
-speed up dr at 4366.78
-speed up dr at 4373.32
-speed up dr at 4379.96
-speed up dr at 4391.71
-speed up dr at 4403.36
-speed up dr at 4419.56
-speed up dr at 4433.41
-speed up dr at 4442.2
-speed up dr at 4448.05
-speed up dr at 4462.2
-speed up dr at 4474.3
-speed up dr at 4485.98
-speed up dr at 4498.9
-speed up dr at 4508.66
-speed up dr at 4516.42
-speed up dr at 4528.19
-speed up dr at 4540.58
-speed up dr at 4552.61
-speed up dr at 4564.36
-speed up dr at 4574.68
-speed up dr at 4579.83
-speed up dr at 4591.82
-speed up dr at 4603.54
-speed up dr at 4617.65
-speed up dr at 4630.53
-speed up dr at 4642.62
-speed up dr at 4646.84
-speed up dr at 4660.85
-speed up dr at 4673.21
-speed up dr at 4685.68
-speed up dr at 4697.43
-speed up dr at 4709.05
-speed up dr at 4711.85
-speed up dr at 4720.85
-speed up dr at 4735.05
-speed up dr at 4746.77
-speed up dr at 4760.15
-speed up dr at 4774.84
-speed up dr at 4777.83
-speed up dr at 4786.48
-speed up dr at 4802.46
-speed up dr at 4816.05
-speed up dr at 4829.43
-speed up dr at 4843.74
-speed up dr at 4846.21
-speed up dr at 4858.41
-speed up dr at 4870.09
-speed up dr at 4882.34
-speed up dr at 4894.44
-speed up dr at 4909.53
-speed up dr at 4912.7
-speed up dr at 4921.51
-speed up dr at 4933.58
-speed up dr at 4945.4
-speed up dr at 4957.56
-speed up dr at 4976.32
-speed up dr at 4979.08
-speed up dr at 4988.1
-speed up dr at 5000.96
-speed up dr at 5012.84
-speed up dr at 5025.49
-speed up dr at 5038.25
-speed up dr at 5048.08
-speed up dr at 5050.05
-speed up dr at 5062.85
-speed up dr at 5075.15
-speed up dr at 5087.38
-speed up dr at 5099.13
-speed up dr at 5111.37
-speed up dr at 5116.39
-speed up dr at 5123.18
-speed up dr at 5134.85
-speed up dr at 5147.32
-speed up dr at 5161.95
-speed up dr at 5174.83
-speed up dr at 5182.83
-speed up dr at 5187.95
-speed up dr at 5200.06
-speed up dr at 5213.66
-speed up dr at 5225.49
-speed up dr at 5238.15
-speed up dr at 5249.45
-speed up dr at 5251.84
-speed up dr at 5265.24
-speed up dr at 5277.7
-speed up dr at 5290.31
-speed up dr at 5302.26
-speed up dr at 5315.22
-speed up dr at 5317.56
-speed up dr at 5327.62
-speed up dr at 5340.34
-speed up dr at 5352.86
-speed up dr at 5366.67
-speed up dr at 5379.03
-speed up dr at 5385.38
-speed up dr at 5392.18
-speed up dr at 5405.51
-speed up dr at 5419.59
-speed up dr at 5431.48
-speed up dr at 5443.7
-speed up dr at 5451.86
-speed up dr at 5458.64
-speed up dr at 5471.33
-speed up dr at 5484.26
-speed up dr at 5500.32
-speed up dr at 5513.01
-speed up dr at 5519.87
-speed up dr at 5526.83
-speed up dr at 5539.06
-speed up dr at 5551.19
-speed up dr at 5565.56
-speed up dr at 5577.68
-speed up dr at 5585.85
-speed up dr at 5590.74
-speed up dr at 5602.45
-speed up dr at 5620.28
-speed up dr at 5635.1
-speed up dr at 5649.05
-speed up dr at 5652.8
-speed up dr at 5662.22
-speed up dr at 5675.38
-speed up dr at 5688.13
-speed up dr at 5702.34
-speed up dr at 5717.91
-speed up dr at 5720.76
-speed up dr at 5729.53
-speed up dr at 5741.13
-speed up dr at 5765.08
-speed up dr at 5778.04
-speed up dr at 5786.71
-speed up dr at 5790.72
-speed up dr at 5802.33
-speed up dr at 5814.27
-speed up dr at 5833.25
-speed up dr at 5846.45
-speed up dr at 5853.41
-speed up dr at 5858.26
-speed up dr at 5870.72
-speed up dr at 5882.42
-speed up dr at 5894.48
-speed up dr at 5906.98
-speed up dr at 5918.79
-speed up dr at 5921.59
-speed up dr at 5931.45
-speed up dr at 5944.6
-speed up dr at 5956.8
-speed up dr at 5971.71
-speed up dr at 5983.62
-speed up dr at 5988.84
-speed up dr at 5995.18
-speed up dr at 6009.23
-speed up dr at 6047.09
-speed up dr at 6055.73
-speed up dr at 6059.88
-speed up dr at 6072.75
-speed up dr at 6084.3
-speed up dr at 6100.73
-speed up dr at 6114
-speed up dr at 6122.08
-speed up dr at 6127
-speed up dr at 6139.84
-speed up dr at 6152.17
-speed up dr at 6165.61
-speed up dr at 6177.69
-speed up dr at 6189.33
-speed up dr at 6192.35
-speed up dr at 6201.38
-speed up dr at 6213.45
-speed up dr at 6225.77
-speed up dr at 6239.38
-speed up dr at 6252.34
-speed up dr at 6261.8
-speed up dr at 6265.7
-speed up dr at 6277.7
-speed up dr at 6289.88
-speed up dr at 6302.05
-speed up dr at 6314.47
-speed up dr at 6327.83
-speed up dr at 6330.6
-speed up dr at 6340.86
-speed up dr at 6354.1
-speed up dr at 6365.79
-speed up dr at 6378.47
-speed up dr at 6390.05
-speed up dr at 6397.97
-speed up dr at 6402.72
-speed up dr at 6414.55
-speed up dr at 6439.33
-speed up dr at 6452.56
-speed up dr at 6464.2
-speed up dr at 6467.03
-speed up dr at 6476.29
-speed up dr at 6490.36
-speed up dr at 6502.7
-speed up dr at 6515.25
-speed up dr at 6527.88
-speed up dr at 6533.71
-speed up dr at 6540.77
-speed up dr at 6567.47
-speed up dr at 6581.04
-speed up dr at 6594.51
-speed up dr at 6604.9
-speed up dr at 6610.14
-speed up dr at 6625.73
-speed up dr at 6641.49
-speed up dr at 6653.07
-speed up dr at 6664.87
-speed up dr at 6672.11
-speed up dr at 6676.64
-speed up dr at 6688.24
-speed up dr at 6700.8
-speed up dr at 6713.18
-speed up dr at 6727.71
-speed up dr at 6746.32
-speed up dr at 6750.76
-speed up dr at 6759.29
-speed up dr at 6775.22
-speed up dr at 6788.7
-speed up dr at 6804.26
-speed up dr at 6822.55
-speed up dr at 6835.51
-speed up dr at 6839.45
-speed up dr at 6853.22
-speed up dr at 6865.23
-speed up dr at 6878.39
-speed up dr at 6891.99
-speed up dr at 6902.12
-speed up dr at 6903.64
-speed up dr at 6917.18
-speed up dr at 6929.77
-speed up dr at 6942.85
-speed up dr at 6955.86
-speed up dr at 6967.89
-speed up dr at 6970.73
-speed up dr at 6980.69
-speed up dr at 6994.86
-speed up dr at 7008.2
-speed up dr at 7020
-speed up dr at 7035.69
-speed up dr at 7038.02
-speed up dr at 7050.13
-speed up dr at 7063.91
-speed up dr at 7075.58
-speed up dr at 7087.21
-speed up dr at 7100.5
-speed up dr at 7106.5
-speed up dr at 7116.09
-speed up dr at 7127.72
-speed up dr at 7142.18
-speed up dr at 7155.75
-speed up dr at 7167.53
-speed up dr at 7175.68
-speed up dr at 7179.81
-speed up dr at 7192.18
-speed up dr at 7207.57
-speed up dr at 7219.66
-speed up dr at 7231.82
-speed up dr at 7242.15
-speed up dr at 7247.76
-speed up dr at 7272.05
-speed up dr at 7284.44
-speed up dr at 7303.17
-speed up dr at 7308.91
-speed up dr at 7315.68
-speed up dr at 7328.3
-speed up dr at 7347.54
-speed up dr at 7375.23
-speed up dr at 7377.61
-speed up dr at 7387.82
-speed up dr at 7415.2
-speed up dr at 7427.76
-speed up dr at 7440.81
-speed up dr at 7451.72
-speed up dr at 7453.25
-speed up dr at 7466.84
-speed up dr at 7482.33
-speed up dr at 7493.96
-speed up dr at 7505.7
-speed up dr at 7518.3
-speed up dr at 7520.79
-speed up dr at 7529.91
-speed up dr at 7542.26
-speed up dr at 7555.86
-speed up dr at 7568.07
-speed up dr at 7581.14
-speed up dr at 7587.19
-speed up dr at 7595.71
-speed up dr at 7607.61
-speed up dr at 7621.28
-speed up dr at 7633.65
-speed up dr at 7647.29
-speed up dr at 7653.56
-speed up dr at 7662.88
-speed up dr at 7690.85
-speed up dr at 7702.8
-speed up dr at 7715.37
-speed up dr at 7721.59
-speed up dr at 7728.46
-speed up dr at 7742.75
-speed up dr at 7757.12
-speed up dr at 7777.23
-speed up dr at 7789.03
-speed up dr at 7794.85
-speed up dr at 7808.38
-speed up dr at 7819.97
-speed up dr at 7832.41
-speed up dr at 7850.79
-speed up dr at 7857.01
-speed up dr at 7862.73
-speed up dr at 7876.1
-speed up dr at 7887.8
-speed up dr at 7914.71
-speed up dr at 7927.07
-speed up dr at 7929.37
-speed up dr at 7948.16
-speed up dr at 7960.75
-speed up dr at 7975.85
-speed up dr at 7988.81
-speed up dr at 7994.43
-speed up dr at 8005.47
-speed up dr at 8030.89
-speed up dr at 8054.71
-speed up dr at 8062.37
-speed up dr at 8066.26
-speed up dr at 8079.38
-speed up dr at 8091.87
-speed up dr at 8104.13
-speed up dr at 8118.77
-speed up dr at 8128.96
-speed up dr at 8131.12
-speed up dr at 8143.49
-speed up dr at 8156.93
-speed up dr at 8170.85
-speed up dr at 8182.72
-speed up dr at 8195.57
-speed up dr at 8200.25
-speed up dr at 8214.17
-speed up dr at 8242.83
-speed up dr at 8255.97
-speed up dr at 8263.35
-speed up dr at 8268.92
-speed up dr at 8280.57
-speed up dr at 8298.48
-speed up dr at 8310.37
-speed up dr at 8323.7
-speed up dr at 8330.79
-speed up dr at 8337.8
-speed up dr at 8349.51
-speed up dr at 8361.48
-speed up dr at 8377.4
-speed up dr at 8395.23
-speed up dr at 8401.22
-speed up dr at 8407.72
-speed up dr at 8426.02
-speed up dr at 8445.85
-speed up dr at 8460.71
-speed up dr at 8467.62
-speed up dr at 8475.24
-speed up dr at 8487.25
-speed up dr at 8501.27
-speed up dr at 8513.24
-speed up dr at 8527.22
-speed up dr at 8534.08
-speed up dr at 8548.31
-speed up dr at 8561.2
-speed up dr at 8580.66
-speed up dr at 8592.39
-speed up dr at 8609.23
-speed up dr at 8621.89
-speed up dr at 8635.72
-speed up dr at 8650.14
-speed up dr at 8663.91
-speed up dr at 8671.24
-speed up dr at 8683.05
-speed up dr at 8695.77
-speed up dr at 8707.82
-speed up dr at 8721.37
-speed up dr at 8733.19
-speed up dr at 8737.4
-speed up dr at 8746.16
-speed up dr at 8772.5
-speed up dr at 8784.82
-speed up dr at 8800.97
-speed up dr at 8803.75
-speed up dr at 8813.8
-speed up dr at 8826.87
-speed up dr at 8838.55
-speed up dr at 8850.41
-speed up dr at 8866.89
-speed up dr at 8870.67
-speed up dr at 8881.31
-speed up dr at 8907
-speed up dr at 8924.03
-speed up dr at 8936.12
-speed up dr at 8943.85
-speed up dr at 8948.08
-speed up dr at 8962.01
-speed up dr at 8977.82
-speed up dr at 8997.2
-speed up dr at 9009.86
-speed up dr at 9012.08
-speed up dr at 9027.59
-speed up dr at 9050.79
-speed up dr at 9052.35
-speed up dr at 9066.18
-speed up dr at 9079.07
-speed up dr at 9091.34
-speed up dr at 9103.49
-speed up dr at 9116.43
-speed up dr at 9119.89
-speed up dr at 9132.02
-speed up dr at 9148.34
-speed up dr at 9180.71
-speed up dr at 9189.26
-speed up dr at 9194.27
-speed up dr at 9208.02
-speed up dr at 9232.96
-speed up dr at 9244.68
-speed up dr at 9255.93
-speed up dr at 9257.72
-speed up dr at 9271.06
-speed up dr at 9287.56
-speed up dr at 9299.45
-speed up dr at 9322.46
-speed up dr at 9325.43
-speed up dr at 9332.23
-speed up dr at 9338.04
-speed up dr at 9343.13
-speed up dr at 9364.55
-speed up dr at 9376.51
-speed up dr at 9389.03
-speed up dr at 9409.6
-speed up dr at 9414.59
-speed up dr at 9439.36
-speed up dr at 9453.05
-speed up dr at 9481.81
-speed up dr at 9497.15
-speed up dr at 9509.14
-speed up dr at 9524.4
-speed up dr at 9537.94
-speed up dr at 9547.29
-speed up dr at 9553.4
-speed up dr at 9580.38
-speed up dr at 9613.26
-speed up dr at 9651.03
-speed up dr at 9662.98
-speed up dr at 9675.54
-speed up dr at 9679.69
-speed up dr at 9687.37
-speed up dr at 9705.9
-speed up dr at 9717.58
-speed up dr at 9732.58
-speed up dr at 9748.12
-speed up dr at 9757.64
-speed up dr at 9782.9
-speed up dr at 9796.25
-speed up dr at 9808.74
-speed up dr at 9822.55
-speed up dr at 9824.73
-speed up dr at 9837.59
-speed up dr at 9865.53
-speed up dr at 9891.7
-speed up dr at 9901.12
-speed up dr at 9940.98
-speed up dr at 9957.13
-speed up dr at 9964.99
-speed up dr at 9971.17
-speed up dr at 9985.07
-speed up dr at 9999.58
-speed up dr at 10011.4
-speed up dr at 10023.9
-speed up dr at 10035
-speed up dr at 10036.6
-speed up dr at 10049.6
-speed up dr at 10063.9
-speed up dr at 10081.7
-speed up dr at 10097.6
-speed up dr at 10105.3
-speed up dr at 10111
-speed up dr at 10125.4
-speed up dr at 10138.6
-speed up dr at 10150.6
-speed up dr at 10162.6
-speed up dr at 10176.6
-speed up dr at 10178.6
-speed up dr at 10226.9
-speed up dr at 10243.1
-speed up dr at 10251
-speed up dr at 10291.4
-speed up dr at 10303.8
-speed up dr at 10315.7
-speed up dr at 10318.7
-speed up dr at 10333.9
-speed up dr at 10349.9
-speed up dr at 10381.1
-speed up dr at 10390.7
-speed up dr at 10397.3
-speed up dr at 10409
-speed up dr at 10424.5
-speed up dr at 10453.7
-speed up dr at 10465.7
-speed up dr at 10469.8
-speed up dr at 10489.3
-speed up dr at 10518
-speed up dr at 10530
-speed up dr at 10538
-speed up dr at 10549.3
-speed up dr at 10565.3
-speed up dr at 10577.5
-speed up dr at 10590.1
-speed up dr at 10603.3
-speed up dr at 10615.7
-speed up dr at 10618.1
-speed up dr at 10630.9
-speed up dr at 10644.5
-speed up dr at 10656.5
-speed up dr at 10669.3
-speed up dr at 10682
-speed up dr at 10684.7
-speed up dr at 10699.2
-speed up dr at 10711.2
-speed up dr at 10730.4
-speed up dr at 10761.4
-speed up dr at 10788.6
-speed up dr at 10809.7
-speed up dr at 10826.1
-speed up dr at 10853.7
-speed up dr at 10865.8
-speed up dr at 10907
-speed up dr at 10909.3
-speed up dr at 10918.8
-speed up dr at 10933.9
-speed up dr at 10951.7
-speed up dr at 10968.3
-speed up dr at 10982.4
-speed up dr at 10984.4
-speed up dr at 10997.5
-speed up dr at 11010.8
-speed up dr at 11038.6
-speed up dr at 11052.4
-speed up dr at 11054.1
-speed up dr at 11073.4
-speed up dr at 11087.6
-speed up dr at 11106.3
-speed up dr at 11118.7
-speed up dr at 11124.4
-speed up dr at 11132.7
-speed up dr at 11146.3
-speed up dr at 11165.9
-speed up dr at 11190.4
-speed up dr at 11191.7
-speed up dr at 11203.8
-speed up dr at 11216.5
-speed up dr at 11233.8
-speed up dr at 11246.9
-speed up dr at 11264.3
-speed up dr at 11268.3
-speed up dr at 11291.1
-speed up dr at 11307.1
-speed up dr at 11320.2
-speed up dr at 11332.3
-speed up dr at 11344.4
-speed up dr at 11348.3
-speed up dr at 11364.4
-speed up dr at 11395.7
-speed up dr at 11408.6
-speed up dr at 11411
-speed up dr at 11427.9
-speed up dr at 11454.5
-speed up dr at 11466.4
-speed up dr at 11479.9
-speed up dr at 11484.7
-speed up dr at 11509.9
-speed up dr at 11521.9
-speed up dr at 11534.5
-speed up dr at 11551
-speed up dr at 11552.6
-speed up dr at 11568.5
-speed up dr at 11580.9
-speed up dr at 11592.6
-speed up dr at 11605
-speed up dr at 11624.9
-speed up dr at 11666.9
-speed up dr at 11682.5
-speed up dr at 11691.4
-speed up dr at 11695.9
-speed up dr at 11708.1
-speed up dr at 11733.7
-speed up dr at 11748.1
-speed up dr at 11769.9
-speed up dr at 11771.7
-speed up dr at 11785.4
-speed up dr at 11797.6
-speed up dr at 11809.3
-speed up dr at 11823.2
-speed up dr at 11838.1
-speed up dr at 11840.5
-speed up dr at 11882.8
-speed up dr at 11906.5
-speed up dr at 11913.5
-speed up dr at 11926.1
-speed up dr at 11938.6
-speed up dr at 11950.7
-speed up dr at 11979.9
-speed up dr at 11982.3
-speed up dr at 12008.1
-speed up dr at 12028.3
-speed up dr at 12061.8
-speed up dr at 12065
-speed up dr at 12086.3
-speed up dr at 12109.1
-speed up dr at 12122.7
-speed up dr at 12134.5
-speed up dr at 12138.8
-speed up dr at 12153.3
-speed up dr at 12186
-speed up dr at 12197.8
-speed up dr at 12208.6
-speed up dr at 12235.4
-speed up dr at 12281.7
-speed up dr at 12287
-speed up dr at 12299
-speed up dr at 12312
-speed up dr at 12339.5
-speed up dr at 12349.8
-speed up dr at 12351.6
-speed up dr at 12367.2
-speed up dr at 12405.9
-speed up dr at 12417.4
-speed up dr at 12419
-speed up dr at 12430.7
-speed up dr at 12445.2
-speed up dr at 12457
-speed up dr at 12469.5
-speed up dr at 12483.3
-speed up dr at 12486.3
-speed up dr at 12499.4
-speed up dr at 12511.2
-speed up dr at 12523.6
-speed up dr at 12549.1
-speed up dr at 12555.9
-speed up dr at 12572
-speed up dr at 12586.6
-speed up dr at 12628
-speed up dr at 12661.2
-speed up dr at 12717.1
-speed up dr at 12722.9
-speed up dr at 12731.5
-speed up dr at 12757.9
-speed up dr at 12785
-speed up dr at 12791
-speed up dr at 12798
-speed up dr at 12811.1
-speed up dr at 12865.4
-speed up dr at 12867.7
-speed up dr at 12888.7
-speed up dr at 12933.6
-speed up dr at 12941.3
-speed up dr at 12954.3
-speed up dr at 12970.7
-speed up dr at 12986.1
-speed up dr at 13002.9
-speed up dr at 13014
-speed up dr at 13040.6
-speed up dr at 13071.9
-speed up dr at 13083.9
-speed up dr at 13101.9
-speed up dr at 13130.7
-speed up dr at 13139.7
-speed up dr at 13148.5
-speed up dr at 13164.4
-speed up dr at 13179.9
-speed up dr at 13208.5
-speed up dr at 13226.6
-speed up dr at 13268.4
-speed up dr at 13276.4
-speed up dr at 13282.7
-speed up dr at 13286.4
-speed up dr at 13294.9
-speed up dr at 13311.8
-speed up dr at 13326.4
-speed up dr at 13338.3
-speed up dr at 13352.5
-speed up dr at 13354.1
-speed up dr at 13369.5
-speed up dr at 13421.9
-speed up dr at 13426.1
-speed up dr at 13440.5
-speed up dr at 13442.8
-speed up dr at 13468.2
-speed up dr at 13488.8
-speed up dr at 13501.5
-speed up dr at 13517.3
-speed up dr at 13551.9
-speed up dr at 13585.9
-speed up dr at 13596.1
-speed up dr at 13608.7
-speed up dr at 13621.3
-speed up dr at 13666.4
-speed up dr at 13668.8
-speed up dr at 13698.6
-speed up dr at 13711.6
-speed up dr at 13732.6
-speed up dr at 13741.6
-speed up dr at 13744.4
-speed up dr at 13788.3
-speed up dr at 13828
-speed up dr at 13908.2
-speed up dr at 13918
-speed up dr at 13922.2
-speed up dr at 13933.4
-speed up dr at 13961.4
-speed up dr at 13996.8
-speed up dr at 13998.8
-speed up dr at 14011.1
-speed up dr at 14044.8
-speed up dr at 14057.7
-speed up dr at 14068.9
-speed up dr at 14105.6
-speed up dr at 14118.2
-speed up dr at 14165.4
-speed up dr at 14174.1
-speed up dr at 14196.1
-speed up dr at 14208.6
-speed up dr at 14222.4
-speed up dr at 14245.6
-speed up dr at 14291.2
-speed up dr at 14313.5
-speed up dr at 14356.8
-speed up dr at 14372.1
-speed up dr at 14387
-speed up dr at 14431
-speed up dr at 14461.3
-speed up dr at 14481
-speed up dr at 14514.1
-speed up dr at 14519
-speed up dr at 14553.4
-speed up dr at 14570.5
-speed up dr at 14590
-speed up dr at 14598.2
-speed up dr at 14605.2
-speed up dr at 14648.7
-speed up dr at 14672
-speed up dr at 14707.3
-speed up dr at 14719.1
-speed up dr at 14735.8
-speed up dr at 14738.2
-speed up dr at 14750.5
-speed up dr at 14772.9
-speed up dr at 14810.4
-speed up dr at 14817.6
-speed up dr at 14824.5
-speed up dr at 14839.1
-speed up dr at 14857
-speed up dr at 14885
-speed up dr at 14902
-speed up dr at 14916.7
-speed up dr at 14980.2
-speed up dr at 15027.8
-speed up dr at 15052.6
-speed up dr at 15061.6
-speed up dr at 15082.8
-speed up dr at 15125.1
-speed up dr at 15136.7
-speed up dr at 15154.1
-speed up dr at 15167.9
-speed up dr at 15180.4
-speed up dr at 15197.1
-speed up dr at 15198.8
-speed up dr at 15253.9
-speed up dr at 15271
-speed up dr at 15292.2
-speed up dr at 15336.4
-speed up dr at 15374.1
-speed up dr at 15381.5
-speed up dr at 15400.1
-speed up dr at 15406.2
-speed up dr at 15424.1
-speed up dr at 15449.7
-speed up dr at 15469.3
-speed up dr at 15481.5
-speed up dr at 15519.7
-speed up dr at 15531.6
-speed up dr at 15585.4
-speed up dr at 15663.2
-speed up dr at 15666.7
-speed up dr at 15753
-speed up dr at 15754.7
-speed up dr at 15768.8
-speed up dr at 15780.6
-speed up dr at 15807.7
-speed up dr at 15828.5
-speed up dr at 15830.5
-speed up dr at 15894.9
-speed up dr at 15905.1
-speed up dr at 15922.4
-speed up dr at 15952.3
-speed up dr at 16003.8
-speed up dr at 16005.5
-speed up dr at 16024.7
-speed up dr at 16050.5
-speed up dr at 16100.2
-speed up dr at 16102.4
-speed up dr at 16186.5
-speed up dr at 16188.1
-speed up dr at 16261.8
-speed up dr at 16265.8
-speed up dr at 16328.3
-speed up dr at 16335.2
-speed up dr at 16352.2
-speed up dr at 16399.3
-speed up dr at 16412.3
-speed up dr at 16429.6
-speed up dr at 16431.2
-speed up dr at 16467.9
-speed up dr at 16492.9
-speed up dr at 16496.9
-speed up dr at 16522.8
-speed up dr at 16543.6
-speed up dr at 16602.9
-speed up dr at 16607
-speed up dr at 16624.7
-speed up dr at 16686.8
-speed up dr at 16688.8
-speed up dr at 16707.9
-speed up dr at 16756.5
-speed up dr at 16829.1
-speed up dr at 16866.7
-speed up dr at 16953.6
-speed up dr at 16955.1
-speed up dr at 17008.4
-speed up dr at 17029.6
-speed up dr at 17093.6
-speed up dr at 17118.6
-speed up dr at 17204.3
-speed up dr at 17206.4
-speed up dr at 17282.2
-speed up dr at 17384.5
-speed up dr at 17463.5
-speed up dr at 17470.1
-speed up dr at 17482.2
-speed up dr at 17486.1
-speed up dr at 17556.5
-speed up dr at 17596.2
-speed up dr at 17608.5
-speed up dr at 17646.2
-speed up dr at 17657.9
-speed up dr at 17693.7
-speed up dr at 17808.1
-speed up dr at 17812.6
-speed up dr at 17828.1
-speed up dr at 17857.9
-speed up dr at 17906.9
-speed up dr at 17911.8
-speed up dr at 17933.2
-speed up dr at 17957.8
-speed up dr at 18068.1
-speed up dr at 18069.4
-speed up dr at 18156.8
-speed up dr at 18295.4
-speed up dr at 18328.5
-speed up dr at 18406
-speed up dr at 18407.6
-speed up dr at 18425.2
-speed up dr at 18508.6
-speed up dr at 18895.4
-speed up dr at 19090.3
-speed up dr at 19268.1
-speed up dr at 19957.7
-speed up dr at 22263
-speed up dr at 22520.4
-speed up dr at 22787.6
-speed up dr at 22889.8
-speed up dr at 23729.4
-speed up dr at 25292.3
-speed up dr at 25684.1
-speed up dr at 25790
-speed up dr at 25918.6
-speed up dr at 25956.9
-speed up dr at 26058
-speed up dr at 26096.7
-speed up dr at 26233.6
-speed up dr at 26557.3
-speed up dr at 26811.1
-speed up dr at 27512
-speed up dr at 27666.9
-speed up dr at 29810.8
-speed up dr at 30068.5
-speed up dr at 30154.2
-speed up dr at 30669.5
-speed up dr at 31312.6
-speed up dr at 32211.2
-speed up dr at 32469.7
-speed up dr at 33070.1
-speed up dr at 34495.9
-speed up dr at 35709.9
-speed up dr at 35728
-speed up dr at 36330.2
-speed up dr at 36782.6
-slow down dr at 37800.1
-slow down dr at 37802
-slow down dr at 37804
-slow down dr at 37804.3
-slow down dr at 37805.5
-slow down dr at 37806.5
-slow down dr at 37806.7
-slow down dr at 37807
-slow down dr at 37807.1
-slow down dr at 37807.2
-slow down dr at 37807.3
-slow down dr at 37807.5
-slow down dr at 37807.7
-slow down dr at 37808.9
-slow down dr at 37808.9
-slow down dr at 37810.3
-slow down dr at 37811.6
-slow down dr at 37814
-slow down dr at 37814.3
-slow down dr at 37814.8
-slow down dr at 37822.1
-slow down dr at 37822.1
-slow down dr at 37822.5
-slow down dr at 37822.6
-slow down dr at 37830.1
-slow down dr at 37831.8
-slow down dr at 37837.2
-slow down dr at 37841.8
-slow down dr at 37844.6
-slow down dr at 37845.8
-slow down dr at 37847.8
-slow down dr at 37849
-slow down dr at 37850.3
-slow down dr at 37850.4
-slow down dr at 37850.7
-slow down dr at 37850.9
-slow down dr at 37851.6
-slow down dr at 37852.1
-slow down dr at 37852.2
-slow down dr at 37852.4
-slow down dr at 37853.1
-slow down dr at 37853.2
-slow down dr at 37854.2
-slow down dr at 37854.6
-slow down dr at 37856
-slow down dr at 37859.2
-slow down dr at 37859.4
-slow down dr at 37859.8
-slow down dr at 37860.7
-slow down dr at 37861.6
-slow down dr at 37861.8
-slow down dr at 37864.2
-slow down dr at 37864.3
-slow down dr at 37867.4
-slow down dr at 37868
-slow down dr at 37868.6
-slow down dr at 37870.1
-slow down dr at 37870.3
-slow down dr at 37871.4
-slow down dr at 37872.8
-slow down dr at 37874.3
-slow down dr at 37877.5
-slow down dr at 37878
-slow down dr at 37878
-slow down dr at 37879.3
-slow down dr at 37879.3
-slow down dr at 37879.4
-slow down dr at 37882.2
-slow down dr at 37883.5
-slow down dr at 37883.6
-slow down dr at 37883.7
-slow down dr at 37883.7
-slow down dr at 37884.5
-slow down dr at 37884.9
-slow down dr at 37886.1
-slow down dr at 37886.2
-slow down dr at 37887.9
-slow down dr at 37888
-slow down dr at 37889.7
-slow down dr at 37891.4
-slow down dr at 37893
-slow down dr at 37893.9
-slow down dr at 37895
-slow down dr at 37897.4
-slow down dr at 37897.5
-slow down dr at 37897.9
-slow down dr at 37899.3
-slow down dr at 37899.5
-slow down dr at 37899.9
-slow down dr at 37900.2
-slow down dr at 37900.8
-slow down dr at 37900.9
-slow down dr at 37902.9
-slow down dr at 37904.5
-slow down dr at 37905.2
-slow down dr at 37908.9
-slow down dr at 37910
-slow down dr at 37910.6
-slow down dr at 37910.9
-slow down dr at 37911.1
-slow down dr at 37911.4
-slow down dr at 37911.6
-slow down dr at 37916.7
-slow down dr at 37917.2
-slow down dr at 37918.5
-slow down dr at 37918.6
-slow down dr at 37918.9
-slow down dr at 37919.4
-slow down dr at 37919.7
-slow down dr at 37920.5
-slow down dr at 37923.1
-slow down dr at 37923.3
-slow down dr at 37925.9
-slow down dr at 37926.1
-slow down dr at 37926.3
-slow down dr at 37927.4
-slow down dr at 37927.9
-slow down dr at 37933.6
-slow down dr at 37933.7
-slow down dr at 37938.9
-slow down dr at 37943.2
-slow down dr at 37944.3
-slow down dr at 37949.8
-slow down dr at 37949.9
-slow down dr at 37949.9
-slow down dr at 37950.1
-slow down dr at 37950.7
-slow down dr at 37954.8
-slow down dr at 37955.2
-slow down dr at 37959
-slow down dr at 37959.5
-slow down dr at 37961.4
-slow down dr at 37961.6
-slow down dr at 37963.2
-slow down dr at 37964.7
-slow down dr at 37965.5
-slow down dr at 37975.4
-slow down dr at 37980.8
-slow down dr at 37980.8
-slow down dr at 37980.9
-slow down dr at 37982.8
-slow down dr at 37983
-slow down dr at 37986.5
-slow down dr at 37987.6
-slow down dr at 37992.6
-slow down dr at 37998.5
-slow down dr at 37998.6
-slow down dr at 37998.8
-slow down dr at 38003.6
-slow down dr at 38004.3
-slow down dr at 38005.6
-slow down dr at 38006
-slow down dr at 38006.9
-slow down dr at 38007.7
-slow down dr at 38012.3
-slow down dr at 38013.1
-slow down dr at 38013.2
-slow down dr at 38013.3
-slow down dr at 38013.7
-slow down dr at 38014.8
-slow down dr at 38014.9
-slow down dr at 38015.1
-slow down dr at 38015.3
-slow down dr at 38015.6
-slow down dr at 38019.4
-slow down dr at 38020.9
-slow down dr at 38021.7
-slow down dr at 38023.1
-slow down dr at 38023.5
-slow down dr at 38023.9
-slow down dr at 38026.7
-slow down dr at 38026.8
-slow down dr at 38028.7
-slow down dr at 38030.5
-slow down dr at 38031.7
-slow down dr at 38034.1
-slow down dr at 38034.2
-slow down dr at 38034.8
-slow down dr at 38035.3
-slow down dr at 38035.4
-slow down dr at 38036.2
-slow down dr at 38037.1
-slow down dr at 38037.5
-slow down dr at 38040.4
-slow down dr at 38041.6
-slow down dr at 38041.7
-slow down dr at 38042.5
-slow down dr at 38044.3
-slow down dr at 38045.6
-slow down dr at 38045.9
-slow down dr at 38046.9
-slow down dr at 38050.2
-slow down dr at 38050.2
-slow down dr at 38050.3
-slow down dr at 38051.7
-slow down dr at 38052.2
-slow down dr at 38052.3
-slow down dr at 38052.4
-slow down dr at 38054.1
-slow down dr at 38055.9
-slow down dr at 38057.2
-slow down dr at 38058.4
-slow down dr at 38059.3
-slow down dr at 38063.7
-slow down dr at 38063.8
-slow down dr at 38064.1
-slow down dr at 38064.1
-slow down dr at 38068.2
-slow down dr at 38068.5
-slow down dr at 38068.8
-slow down dr at 38069.1
-slow down dr at 38069.3
-slow down dr at 38069.8
-slow down dr at 38073.3
-slow down dr at 38076.8
-slow down dr at 38081.5
-slow down dr at 38083.2
-slow down dr at 38088
-slow down dr at 38089.5
-slow down dr at 38089.6
-slow down dr at 38091.3
-slow down dr at 38092.4
-slow down dr at 38092.6
-slow down dr at 38093.3
-slow down dr at 38094
-slow down dr at 38094.2
-slow down dr at 38095.4
-slow down dr at 38097
-slow down dr at 38097.3
-slow down dr at 38099.9
-slow down dr at 38100.7
-slow down dr at 38101.1
-slow down dr at 38101.6
-slow down dr at 38108
-slow down dr at 38108.3
-slow down dr at 38108.4
-slow down dr at 38109.3
-slow down dr at 38110.2
-slow down dr at 38110.2
-slow down dr at 38110.5
-slow down dr at 38113.6
-slow down dr at 38114.8
-slow down dr at 38116.7
-slow down dr at 38118
-slow down dr at 38118.4
-slow down dr at 38119.8
-slow down dr at 38120
-slow down dr at 38125.8
-slow down dr at 38126.1
-slow down dr at 38126.9
-slow down dr at 38127.3
-slow down dr at 38127.5
-slow down dr at 38129.3
-slow down dr at 38133.5
-slow down dr at 38134.3
-slow down dr at 38136.2
-slow down dr at 38137
-slow down dr at 38137.8
-slow down dr at 38139.5
-slow down dr at 38140.5
-slow down dr at 38140.6
-slow down dr at 38141.9
-slow down dr at 38142.6
-slow down dr at 38142.6
-slow down dr at 38142.9
-slow down dr at 38144.7
-slow down dr at 38145.5
-slow down dr at 38145.6
-slow down dr at 38146
-slow down dr at 38146.7
-slow down dr at 38152.8
-slow down dr at 38153.3
-slow down dr at 38153.4
-slow down dr at 38154.4
-slow down dr at 38155.4
-slow down dr at 38156.8
-slow down dr at 38157.4
-slow down dr at 38157.6
-slow down dr at 38157.9
-slow down dr at 38158.3
-slow down dr at 38158.4
-slow down dr at 38158.5
-slow down dr at 38159.3
-slow down dr at 38159.7
-slow down dr at 38160.9
-slow down dr at 38161
-slow down dr at 38162
-slow down dr at 38165.4
-slow down dr at 38168.1
-slow down dr at 38170.5
-slow down dr at 38170.5
-slow down dr at 38172.9
-slow down dr at 38173.2
-slow down dr at 38174.3
-slow down dr at 38174.7
-slow down dr at 38175.3
-slow down dr at 38177.1
-slow down dr at 38178.5
-slow down dr at 38179.1
-slow down dr at 38182.9
-slow down dr at 38183.4
-slow down dr at 38185.1
-slow down dr at 38186.6
-slow down dr at 38187.3
-slow down dr at 38187.6
-slow down dr at 38188.5
-slow down dr at 38188.8
-slow down dr at 38190.1
-slow down dr at 38191.1
-slow down dr at 38192.7
-slow down dr at 38194.4
-slow down dr at 38197.5
-slow down dr at 38197.8
-slow down dr at 38202.4
-slow down dr at 38202.9
-slow down dr at 38203.4
-slow down dr at 38205.8
-slow down dr at 38205.9
-slow down dr at 38206.1
-slow down dr at 38206.2
-slow down dr at 38206.4
-slow down dr at 38206.4
-slow down dr at 38207.4
-slow down dr at 38207.6
-slow down dr at 38208.7
-slow down dr at 38209
-slow down dr at 38209.7
-slow down dr at 38210.2
-slow down dr at 38210.2
-slow down dr at 38210.4
-slow down dr at 38212.2
-slow down dr at 38212.8
-slow down dr at 38212.9
-slow down dr at 38215.3
-slow down dr at 38215.7
-slow down dr at 38215.8
-slow down dr at 38217.6
-slow down dr at 38218.2
-slow down dr at 38218.3
-slow down dr at 38218.4
-slow down dr at 38220.8
-slow down dr at 38221.4
-slow down dr at 38221.6
-slow down dr at 38222.5
-slow down dr at 38222.5
-slow down dr at 38223.8
-slow down dr at 38224
-slow down dr at 38224.4
-slow down dr at 38225.5
-slow down dr at 38225.9
-slow down dr at 38226.1
-slow down dr at 38226.6
-slow down dr at 38233
-slow down dr at 38233.9
-slow down dr at 38234.5
-slow down dr at 38234.9
-slow down dr at 38235.2
-slow down dr at 38237.6
-slow down dr at 38240.4
-slow down dr at 38242.2
-slow down dr at 38242.4
-slow down dr at 38243.4
-slow down dr at 38243.4
-slow down dr at 38245
-slow down dr at 38245
-slow down dr at 38245.6
-slow down dr at 38245.8
-slow down dr at 38246.3
-slow down dr at 38249
-slow down dr at 38252.6
-slow down dr at 38253.1
-slow down dr at 38254.6
-slow down dr at 38255.8
-slow down dr at 38258.5
-slow down dr at 38258.7
-slow down dr at 38259.8
-slow down dr at 38259.9
-slow down dr at 38259.9
-slow down dr at 38261.7
-slow down dr at 38263.6
-slow down dr at 38263.9
-slow down dr at 38263.9
-slow down dr at 38264.4
-slow down dr at 38265.1
-slow down dr at 38265.1
-slow down dr at 38266
-slow down dr at 38267.1
-slow down dr at 38267.4
-slow down dr at 38268.5
-slow down dr at 38268.8
-slow down dr at 38269.4
-slow down dr at 38269.4
-slow down dr at 38269.6
-slow down dr at 38270
-slow down dr at 38277.3
-slow down dr at 38278.1
-slow down dr at 38279
-slow down dr at 38279.3
-slow down dr at 38279.5
-slow down dr at 38279.6
-slow down dr at 38279.7
-slow down dr at 38279.8
-slow down dr at 38281.3
-slow down dr at 38281.8
-slow down dr at 38282.1
-slow down dr at 38282.7
-slow down dr at 38282.8
-slow down dr at 38283.8
-slow down dr at 38286.4
-slow down dr at 38286.6
-slow down dr at 38287.2
-slow down dr at 38288
-slow down dr at 38289.3
-slow down dr at 38289.4
-slow down dr at 38295.5
-slow down dr at 38297.6
-slow down dr at 38299.1
-slow down dr at 38302.8
-slow down dr at 38302.9
-slow down dr at 38304.8
-slow down dr at 38306.7
-slow down dr at 38308.3
-slow down dr at 38308.6
-slow down dr at 38309.3
-slow down dr at 38309.4
-slow down dr at 38310
-slow down dr at 38310.3
-slow down dr at 38310.3
-slow down dr at 38312.1
-slow down dr at 38312.8
-slow down dr at 38313
-slow down dr at 38313
-slow down dr at 38313.6
-slow down dr at 38319.1
-slow down dr at 38319.8
-slow down dr at 38320.5
-slow down dr at 38320.6
-slow down dr at 38321.8
-slow down dr at 38322.2
-slow down dr at 38323.5
-slow down dr at 38323.8
-slow down dr at 38323.9
-slow down dr at 38324.3
-slow down dr at 38324.3
-slow down dr at 38324.8
-slow down dr at 38325.5
-slow down dr at 38326.8
-slow down dr at 38327.2
-slow down dr at 38327.5
-slow down dr at 38329.6
-slow down dr at 38329.8
-slow down dr at 38330.7
-slow down dr at 38334.4
-slow down dr at 38334.6
-slow down dr at 38335.7
-slow down dr at 38336
-slow down dr at 38336.3
-slow down dr at 38336.7
-slow down dr at 38336.9
-slow down dr at 38337.7
-slow down dr at 38341.5
-slow down dr at 38344.3
-slow down dr at 38346.3
-slow down dr at 38346.7
-slow down dr at 38347.3
-slow down dr at 38348
-slow down dr at 38348.2
-slow down dr at 38349.3
-slow down dr at 38350
-slow down dr at 38350.6
-slow down dr at 38351.5
-slow down dr at 38351.6
-slow down dr at 38352.9
-slow down dr at 38353.3
-slow down dr at 38353.6
-slow down dr at 38353.8
-slow down dr at 38354
-slow down dr at 38354.5
-slow down dr at 38354.7
-slow down dr at 38355.2
-slow down dr at 38356.8
-slow down dr at 38359.2
-slow down dr at 38366.1
-slow down dr at 38367
-slow down dr at 38368.1
-slow down dr at 38369.3
-slow down dr at 38370.1
-slow down dr at 38371.6
-slow down dr at 38374.4
-slow down dr at 38374.4
-slow down dr at 38374.6
-slow down dr at 38375.6
-slow down dr at 38375.8
-slow down dr at 38375.9
-slow down dr at 38383.8
-slow down dr at 38386.4
-slow down dr at 38388.8
-slow down dr at 38390.1
-slow down dr at 38390.7
-slow down dr at 38391.5
-slow down dr at 38391.6
-slow down dr at 38392.6
-slow down dr at 38394.2
-slow down dr at 38394.3
-slow down dr at 38395.4
-slow down dr at 38398
-speed up dr at 38730.6
-speed up dr at 38909.3
-speed up dr at 39090.6
-speed up dr at 39115.1
-speed up dr at 39155.2
-speed up dr at 39523.6
-speed up dr at 39689.7
-speed up dr at 39731.8
-speed up dr at 39962
-speed up dr at 40013.5
-speed up dr at 40025.3
-slow down dr at 41053.1
-speed up dr at 41138.8
-speed up dr at 41162.3
-speed up dr at 41527.7
-slow down dr at 41663.9
-speed up dr at 41713.8
-slow down dr at 42088.3
-slow down dr at 42126.4
-slow down dr at 42268.4
-slow down dr at 42295
-slow down dr at 42410.6
-speed up dr at 42426.9
-speed up dr at 42688.1
-slow down dr at 42895.1
-slow down dr at 42948.8
-speed up dr at 43467.2
-slow down dr at 43483.6
-speed up dr at 43552.3
-slow down dr at 43923
-speed up dr at 43926.8
-speed up dr at 44016.8
-speed up dr at 44086.9
-speed up dr at 44098.5
-slow down dr at 44098.5
-slow down dr at 44161.3
-speed up dr at 44212
-speed up dr at 44268.4
-slow down dr at 44453.4
-speed up dr at 44487.1
-slow down dr at 44698.2
-slow down dr at 44810.7
-slow down dr at 44835.5
-speed up dr at 44953.8
-speed up dr at 45268.3
-slow down dr at 45376.9
-speed up dr at 45430.6
-speed up dr at 45457.5
-slow down dr at 45680.6
-slow down dr at 45837
-slow down dr at 46003.8
-slow down dr at 46124.6
-speed up dr at 46127
-speed up dr at 46178.9
-speed up dr at 46330.2
-slow down dr at 46865.3
-speed up dr at 46892.1
-slow down dr at 46988.6
-slow down dr at 47068.9
-speed up dr at 47101.5
-speed up dr at 47164.6
-slow down dr at 47653.9
-speed up dr at 47668.6
-speed up dr at 47695.9
-slow down dr at 47811.3
-speed up dr at 47813.1
-slow down dr at 47976.6
-slow down dr at 48128.8
-speed up dr at 48192.4
-slow down dr at 48407.6
-speed up dr at 48579.9
-slow down dr at 48961.5
-slow down dr at 49015.8
-speed up dr at 49019.6
-speed up dr at 49084.3
-speed up dr at 49292.4
-slow down dr at 49330.1
-slow down dr at 49542.5
-speed up dr at 49605.5
-speed up dr at 49726.3
-slow down dr at 49850.7
-speed up dr at 49930.6
-speed up dr at 50054.7
-speed up dr at 50180.7
-speed up dr at 50271.9
-speed up dr at 50284.1
-speed up dr at 50457.2
-slow down dr at 50695.1
-slow down dr at 50763.4
-speed up dr at 50952.7
-speed up dr at 51240.8
-slow down dr at 51469.6
-speed up dr at 51732.6
-speed up dr at 51853.8
-speed up dr at 51873.6
-speed up dr at 52012.5
-slow down dr at 52618.5
-slow down dr at 52687.4
-slow down dr at 53069.7
-slow down dr at 53206.6
-slow down dr at 53220.7
-slow down dr at 53312.9
-speed up dr at 53809.9
-speed up dr at 53821.9
-slow down dr at 53867
-speed up dr at 53954.5
-speed up dr at 54132.4
-slow down dr at 54150.6
-speed up dr at 54219.3
-slow down dr at 54420.9
-speed up dr at 54491.7
-slow down dr at 54498.9
-speed up dr at 54902
-speed up dr at 54964.8
-slow down dr at 55084.9
-speed up dr at 55116.6
-slow down dr at 55351.3
-slow down dr at 55351.3
-slow down dr at 55602.6
-speed up dr at 56057.7
-speed up dr at 56097.5
-speed up dr at 56237.8
-speed up dr at 56239.4
-slow down dr at 56616.5
-speed up dr at 56746.3
-slow down dr at 56803.8
-speed up dr at 56811.1
-slow down dr at 57317.4
-slow down dr at 57318.2
-slow down dr at 57342.5
-slow down dr at 57378.3
-speed up dr at 57464.4
-speed up dr at 57500.6
-slow down dr at 57608
-slow down dr at 57918.8
-slow down dr at 57943.7
-speed up dr at 57946
-slow down dr at 58004.3
-slow down dr at 58504.5
-slow down dr at 58520.3
-slow down dr at 58529
-speed up dr at 58614.9
-slow down dr at 58653.7
-slow down dr at 58715
-speed up dr at 58757.4
-slow down dr at 58994.7
-speed up dr at 59073.5
-speed up dr at 59121.9
-speed up dr at 59161.2
-slow down dr at 59204.4
-slow down dr at 59211.5
-slow down dr at 59392.7
-slow down dr at 59505.1
-slow down dr at 59532.3
-slow down dr at 59545.7
-slow down dr at 59583.3
-speed up dr at 59641.5
-slow down dr at 59786.8
-slow down dr at 59824
-speed up dr at 59850.3
-slow down dr at 60052.2
-slow down dr at 60253.1
-speed up dr at 60348.2
-slow down dr at 60387.4
-slow down dr at 60449
-slow down dr at 60473.1
-speed up dr at 60597.1
-slow down dr at 60711.2
-speed up dr at 60713.4
-speed up dr at 60922.7
-slow down dr at 60937.1
-slow down dr at 61011.5
-speed up dr at 61019.2
-slow down dr at 61065.3
-slow down dr at 61084
-slow down dr at 61131.6
-slow down dr at 61172.1
-slow down dr at 61319.3
-speed up dr at 61434.9
-slow down dr at 61460.8
-slow down dr at 61468.4
-slow down dr at 61495
-speed up dr at 61498.9
-speed up dr at 61540.6
-slow down dr at 61563
-slow down dr at 61664.7
-slow down dr at 61953.4
-speed up dr at 62017.7
-slow down dr at 62252.5
-slow down dr at 62266.5
-slow down dr at 62508.5
-slow down dr at 62520.4
-speed up dr at 62524.9
-speed up dr at 62857.2
-speed up dr at 63123.8
-slow down dr at 63246.6
-slow down dr at 63364.4
-slow down dr at 63466.9
-speed up dr at 63612.5
-speed up dr at 63752.3
-speed up dr at 63786.8
-speed up dr at 63820.1
-slow down dr at 63841.4
-slow down dr at 63853.1
-slow down dr at 63898.2
-slow down dr at 64131.2
-slow down dr at 64281.9
-slow down dr at 64288.8
-speed up dr at 64354.4
-slow down dr at 64441.4
-slow down dr at 64454.2
-slow down dr at 64492.9
-slow down dr at 64772.4
-speed up dr at 64854.2
-slow down dr at 64862.3
-slow down dr at 64880.6
-speed up dr at 64884.2
-slow down dr at 64889.4
-speed up dr at 64954.7
-slow down dr at 65053.9
-slow down dr at 65345.8
-slow down dr at 65461.4
-speed up dr at 65554.8
-slow down dr at 65646.6
-slow down dr at 65947.8
-slow down dr at 66065.3
-speed up dr at 66257.5
-slow down dr at 66268.9
-speed up dr at 66302.7
-slow down dr at 66339.5
-slow down dr at 66363.2
-speed up dr at 66486.6
-slow down dr at 66487.1
-slow down dr at 66753.7
-speed up dr at 66964.7
-speed up dr at 66967.4
-slow down dr at 66980.3
-speed up dr at 67007.6
-slow down dr at 67132
-slow down dr at 67182.7
-speed up dr at 67254.7
-speed up dr at 67292.9
-slow down dr at 67317.8
-slow down dr at 67468.4
-slow down dr at 67569.6
-speed up dr at 67735
-slow down dr at 67852
-slow down dr at 67886
-slow down dr at 67918
-slow down dr at 68207.3
-slow down dr at 68220.1
-slow down dr at 68362.4
-slow down dr at 68452.8
-slow down dr at 68808.7
-slow down dr at 68819.9
-speed up dr at 68890.9
-slow down dr at 68898.8
-speed up dr at 69055.3
-speed up dr at 69093.3
-slow down dr at 69134.5
-speed up dr at 69272.3
-slow down dr at 69289.6
-speed up dr at 69295.2
-slow down dr at 69486.5
-slow down dr at 69487.3
-speed up dr at 69514.2
-slow down dr at 69687.6
-speed up dr at 69689.4
-slow down dr at 69706.6
-slow down dr at 69721.9
-slow down dr at 70191.6
-slow down dr at 70251.4
-speed up dr at 70289.3
-speed up dr at 70458
-slow down dr at 70495.3
-slow down dr at 70502.3
-slow down dr at 70552.3
-slow down dr at 70607.4
-speed up dr at 70668.2
-slow down dr at 70669.6
-speed up dr at 70785
-slow down dr at 70865.9
-speed up dr at 70868.8
-slow down dr at 70922.3
-slow down dr at 71145.2
-slow down dr at 71186.9
-speed up dr at 71325.7
-slow down dr at 71492
-slow down dr at 71606.3
-slow down dr at 71795.7
-slow down dr at 71808.8
-slow down dr at 71853.1
-slow down dr at 71876.6
-slow down dr at 71887.4
-slow down dr at 71911.6
-slow down dr at 71954.1
-slow down dr at 71981.3
-slow down dr at 72420.7
-slow down dr at 72453.6
-speed up dr at 72557.5
-slow down dr at 72652.9
-slow down dr at 72656.1
-slow down dr at 72669
-speed up dr at 72709.5
-slow down dr at 72892.6
-slow down dr at 73067
-slow down dr at 73552.3
-slow down dr at 73620.9
-slow down dr at 73755.9
-slow down dr at 73911.8
-slow down dr at 73923.7
-slow down dr at 74228.6
-slow down dr at 74471.3
-slow down dr at 74483.6
-speed up dr at 74486.4
-slow down dr at 74512.4
-slow down dr at 74560.6
-speed up dr at 74695.9
-slow down dr at 74788.3
-slow down dr at 74802.6
-speed up dr at 74809.4
-speed up dr at 74823.9
-slow down dr at 74826.9
-slow down dr at 74852.6
-speed up dr at 75057.3
-slow down dr at 75127.7
-slow down dr at 75196.1
-slow down dr at 75212.4
-slow down dr at 75275.7
-slow down dr at 75402.8
-slow down dr at 75453.2
-speed up dr at 75470.4
-speed up dr at 75528
-speed up dr at 75556.1
-speed up dr at 75660.5
-slow down dr at 75717.4
-slow down dr at 75781.4
-slow down dr at 75820.4
-slow down dr at 75862.6
-speed up dr at 75893.1
-slow down dr at 76021.4
-speed up dr at 76068.8
-slow down dr at 76086
-speed up dr at 76090.8
-speed up dr at 76257.4
-speed up dr at 76269.2
-slow down dr at 76306.5
-slow down dr at 76318.9
-speed up dr at 76624.3
-speed up dr at 76656.5
-slow down dr at 76686.4
-slow down dr at 76754.5
-slow down dr at 76856.8
-slow down dr at 76881.6
-speed up dr at 76909.9
-slow down dr at 77050.1
-speed up dr at 77225.2
-speed up dr at 77230.4
-slow down dr at 77299.8
-speed up dr at 77521.9
-speed up dr at 77808.8
-speed up dr at 77825.2
-slow down dr at 78127.4
-speed up dr at 78273.4
-slow down dr at 78470
-speed up dr at 78715.7
-slow down dr at 78718.4
-slow down dr at 79004.9
-speed up dr at 80531.2
-slow down dr at 80552.7
-slow down dr at 80649.8
-speed up dr at 80698.7
-slow down dr at 80810.4
-speed up dr at 80888.3
-speed up dr at 80957.8
-slow down dr at 81110.2
-speed up dr at 81299.5
-speed up dr at 81611
-slow down dr at 81719.8
-slow down dr at 82310.9
-slow down dr at 82323
-slow down dr at 82610.6
-speed up dr at 82688.5
-slow down dr at 82883.7
-slow down dr at 83551.5
-speed up dr at 83640.7
-speed up dr at 83653.9
-slow down dr at 84153
-slow down dr at 84688.7
-speed up dr at 84726.8
-speed up dr at 84756.2
-speed up dr at 84819.4
-slow down dr at 85288.3
-speed up dr at 85312.6
-speed up dr at 85613.9
-speed up dr at 85674.4
-slow down dr at 85687
-slow down dr at 85752.8
-slow down dr at 85954.7
-slow down dr at 85955.1
-speed up dr at 85956.4
-slow down dr at 86064.1
-slow down dr at 86210.7
-slow down dr at 86396.7
-speed up dr at 86492
-speed up dr at 86812.7
-slow down dr at 86907.7
-slow down dr at 87182
-slow down dr at 87407.3
-speed up dr at 87902.1
-slow down dr at 88592.8
-speed up dr at 88607
-speed up dr at 88657.7
-slow down dr at 88686.5
-slow down dr at 88707.9
-speed up dr at 88855.9
-speed up dr at 88928.2
-slow down dr at 89205
-speed up dr at 89208.2
-speed up dr at 89520.1
-speed up dr at 89530.8
-slow down dr at 89665.4
-speed up dr at 89668.9
-slow down dr at 89792.1
-slow down dr at 89869.4
-slow down dr at 90146.4
-speed up dr at 90268.6
-slow down dr at 90269.1
-speed up dr at 90471.1
-speed up dr at 90473.2
-speed up dr at 90721.5
-slow down dr at 91005.1
-slow down dr at 91087.4
-slow down dr at 91150.2
-speed up dr at 91608.9
-slow down dr at 91853.6
-speed up dr at 92274.1
-slow down dr at 92323.1
-speed up dr at 92513.6
-slow down dr at 92598.7
-slow down dr at 92820.9
-speed up dr at 92912.1
-speed up dr at 93069.8
-slow down dr at 93267.6
-slow down dr at 93372.6
-slow down dr at 93552
-speed up dr at 94090
-speed up dr at 94154.7
-speed up dr at 94288.1
-speed up dr at 94727.6
-slow down dr at 94752.1
-slow down dr at 95300.9
-speed up dr at 95556.4
-slow down dr at 95605.6
-speed up dr at 95811.1
-slow down dr at 95886.4
-speed up dr at 95890.3
-slow down dr at 95963.1
-slow down dr at 96005.6
-slow down dr at 96057.7
-slow down dr at 96420.7
-slow down dr at 96435.4
-slow down dr at 97010.4
-speed up dr at 97014.6
-slow down dr at 97152.9
-speed up dr at 97156.4
-slow down dr at 97469.7
-speed up dr at 97472
-slow down dr at 97506.4
-speed up dr at 97624.7
-speed up dr at 97691.9
-slow down dr at 98073.9
-speed up dr at 98462.2
-speed up dr at 98673.6
-slow down dr at 98856.2
-slow down dr at 99123.1
-speed up dr at 100356
-speed up dr at 101215
-speed up dr at 101328
-speed up dr at 101492
-slow down dr at 101519
-speed up dr at 101521
-speed up dr at 101870
-slow down dr at 102121
-slow down dr at 102272
-speed up dr at 102724
-slow down dr at 103506
-slow down dr at 103924
-speed up dr at 103924
-slow down dr at 104451
-speed up dr at 104956
-speed up dr at 105490
-slow down dr at 105650
-slow down dr at 106358
-slow down dr at 106677
-slow down dr at 107054
-speed up dr at 107658
-slow down dr at 107737
-speed up dr at 108054
-speed up dr at 108857
-slow down dr at 109264
-speed up dr at 109268
-slow down dr at 109411
-slow down dr at 109538
-slow down dr at 109668
-speed up dr at 110929
-slow down dr at 111391
-speed up dr at 112008
-speed up dr at 112325
-slow down dr at 112398
-speed up dr at 112611
-speed up dr at 112672
-slow down dr at 113380
-slow down dr at 119616
-speed up dr at 119620
-slow down dr at 119927
-slow down dr at 120733
-slow down dr at 121774
-slow down dr at 122561
-slow down dr at 122650
-slow down dr at 123961
-slow down dr at 124420
-speed up dr at 124455
-slow down dr at 128749
-slow down dr at 130670
-slow down dr at 131844
-speed up dr at 133672
-slow down dr at 134693
-speed up dr at 134695
-slow down dr at 137069
-speed up dr at 137074
-slow down dr at 140613
-slow down dr at 141119
-slow down dr at 145602
 starting energy print out
 Node 0 Energy used overall: 35.0458
 Node 1 Energy used overall: 12.3596
@@ -7119,2506 +5006,2506 @@ Node 2497 Energy used overall: 12.2564
 Node 2498 Energy used overall: 12.9992
 Node 2499 Energy used overall: 34.7607
 starting destroy
-0	250
-1	250
-2	250
-3	250
-4	250
-5	250
-6	250
-7	250
-8	250
-9	250
-10	250
-11	250
-12	250
-13	250
-14	250
-15	250
-16	250
-17	250
-18	250
-19	250
-20	250
-21	250
-22	250
-23	250
-24	250
-25	250
-26	250
-27	250
-28	250
-29	250
-30	250
-31	250
-32	250
-33	250
-34	250
-35	250
-36	250
-37	250
-38	250
-39	250
-40	250
-41	250
-42	250
-43	250
-44	250
-45	250
-46	250
-47	250
-48	250
-49	250
-50	250
-51	250
-52	250
-53	250
-54	250
-55	250
-56	250
-57	250
-58	250
-59	250
-60	250
-61	250
-62	250
-63	250
-64	250
-65	250
-66	250
-67	250
-68	250
-69	250
-70	250
-71	250
-72	250
-73	250
-74	250
-75	250
-76	250
-77	250
-78	250
-79	250
-80	250
-81	250
-82	250
-83	250
-84	250
-85	250
-86	250
-87	250
-88	250
-89	250
-90	250
-91	250
-92	250
-93	250
-94	250
-95	250
-96	250
-97	250
-98	250
-99	250
-100	250
-101	250
-102	250
-103	250
-104	250
-105	250
-106	250
-107	250
-108	250
-109	250
-110	250
-111	250
-112	250
-113	250
-114	250
-115	250
-116	250
-117	250
-118	250
-119	250
-120	250
-121	250
-122	250
-123	250
-124	250
-125	250
-126	250
-127	250
-128	250
-129	250
-130	250
-131	250
-132	250
-133	250
-134	250
-135	250
-136	250
-137	250
-138	250
-139	250
-140	250
-141	250
-142	250
-143	250
-144	250
-145	250
-146	250
-147	250
-148	250
-149	250
-150	250
-151	250
-152	250
-153	250
-154	250
-155	250
-156	250
-157	250
-158	250
-159	250
-160	250
-161	250
-162	250
-163	250
-164	250
-165	250
-166	250
-167	250
-168	250
-169	250
-170	250
-171	250
-172	250
-173	250
-174	250
-175	250
-176	250
-177	250
-178	250
-179	250
-180	250
-181	250
-182	250
-183	250
-184	250
-185	250
-186	250
-187	250
-188	250
-189	250
-190	250
-191	250
-192	250
-193	250
-194	250
-195	250
-196	250
-197	250
-198	250
-199	250
-200	250
-201	250
-202	250
-203	250
-204	250
-205	250
-206	250
-207	250
-208	250
-209	250
-210	250
-211	250
-212	250
-213	250
-214	250
-215	250
-216	250
-217	250
-218	250
-219	250
-220	250
-221	250
-222	250
-223	250
-224	250
-225	250
-226	250
-227	250
-228	250
-229	250
-230	250
-231	250
-232	250
-233	250
-234	250
-235	250
-236	250
-237	250
-238	250
-239	250
-240	250
-241	250
-242	250
-243	250
-244	250
-245	250
-246	250
-247	250
-248	250
-249	250
-250	250
-251	250
-252	250
-253	250
-254	250
-255	250
-256	250
-257	250
-258	250
-259	250
-260	250
-261	250
-262	250
-263	250
-264	250
-265	250
-266	250
-267	250
-268	250
-269	250
-270	250
-271	250
-272	250
-273	250
-274	250
-275	250
-276	250
-277	250
-278	250
-279	250
-280	250
-281	250
-282	250
-283	250
-284	250
-285	250
-286	250
-287	250
-288	250
-289	250
-290	250
-291	250
-292	250
-293	250
-294	250
-295	250
-296	250
-297	250
-298	250
-299	250
-300	250
-301	250
-302	250
-303	250
-304	250
-305	250
-306	250
-307	250
-308	250
-309	250
-310	250
-311	250
-312	250
-313	250
-314	250
-315	250
-316	250
-317	250
-318	250
-319	250
-320	250
-321	250
-322	250
-323	250
-324	250
-325	250
-326	250
-327	250
-328	250
-329	250
-330	250
-331	250
-332	250
-333	250
-334	250
-335	250
-336	250
-337	250
-338	250
-339	250
-340	250
-341	250
-342	250
-343	250
-344	250
-345	250
-346	250
-347	250
-348	250
-349	250
-350	250
-351	250
-352	250
-353	250
-354	250
-355	250
-356	250
-357	250
-358	250
-359	250
-360	250
-361	250
-362	250
-363	250
-364	250
-365	250
-366	250
-367	250
-368	250
-369	250
-370	250
-371	250
-372	250
-373	250
-374	250
-375	250
-376	250
-377	250
-378	250
-379	250
-380	250
-381	250
-382	250
-383	250
-384	250
-385	250
-386	250
-387	250
-388	250
-389	250
-390	250
-391	250
-392	250
-393	250
-394	250
-395	250
-396	250
-397	250
-398	250
-399	250
-400	250
-401	250
-402	250
-403	250
-404	250
-405	250
-406	250
-407	250
-408	250
-409	250
-410	250
-411	250
-412	250
-413	250
-414	250
-415	250
-416	250
-417	250
-418	250
-419	250
-420	250
-421	250
-422	250
-423	250
-424	250
-425	250
-426	250
-427	250
-428	250
-429	250
-430	250
-431	250
-432	250
-433	250
-434	250
-435	250
-436	250
-437	250
-438	250
-439	250
-440	250
-441	250
-442	250
-443	250
-444	250
-445	250
-446	250
-447	250
-448	250
-449	250
-450	250
-451	250
-452	250
-453	250
-454	250
-455	250
-456	250
-457	250
-458	250
-459	250
-460	250
-461	250
-462	250
-463	250
-464	250
-465	250
-466	250
-467	250
-468	250
-469	250
-470	250
-471	250
-472	250
-473	250
-474	250
-475	250
-476	250
-477	250
-478	250
-479	250
-480	250
-481	250
-482	250
-483	250
-484	250
-485	250
-486	250
-487	250
-488	250
-489	250
-490	250
-491	250
-492	250
-493	250
-494	250
-495	250
-496	250
-497	250
-498	250
-499	250
-500	250
-501	250
-502	250
-503	250
-504	250
-505	250
-506	250
-507	250
-508	250
-509	250
-510	250
-511	250
-512	250
-513	250
-514	250
-515	250
-516	250
-517	250
-518	250
-519	250
-520	250
-521	250
-522	250
-523	250
-524	250
-525	250
-526	250
-527	250
-528	250
-529	250
-530	250
-531	250
-532	250
-533	250
-534	250
-535	250
-536	250
-537	250
-538	250
-539	250
-540	250
-541	250
-542	250
-543	250
-544	250
-545	250
-546	250
-547	250
-548	250
-549	250
-550	250
-551	250
-552	250
-553	250
-554	250
-555	250
-556	250
-557	250
-558	250
-559	250
-560	250
-561	250
-562	250
-563	250
-564	250
-565	250
-566	250
-567	250
-568	250
-569	250
-570	250
-571	250
-572	250
-573	250
-574	250
-575	250
-576	250
-577	250
-578	250
-579	250
-580	250
-581	250
-582	250
-583	250
-584	250
-585	250
-586	250
-587	250
-588	250
-589	250
-590	250
-591	250
-592	250
-593	250
-594	250
-595	250
-596	250
-597	250
-598	250
-599	250
-600	250
-601	250
-602	250
-603	250
-604	250
-605	250
-606	250
-607	250
-608	250
-609	250
-610	250
-611	250
-612	250
-613	250
-614	250
-615	250
-616	250
-617	250
-618	250
-619	250
-620	250
-621	250
-622	250
-623	250
-624	250
-625	250
-626	250
-627	250
-628	250
-629	250
-630	250
-631	250
-632	250
-633	250
-634	250
-635	250
-636	250
-637	250
-638	250
-639	250
-640	250
-641	250
-642	250
-643	250
-644	250
-645	250
-646	250
-647	250
-648	250
-649	250
-650	250
-651	250
-652	250
-653	250
-654	250
-655	250
-656	250
-657	250
-658	250
-659	250
-660	250
-661	250
-662	250
-663	250
-664	250
-665	250
-666	250
-667	250
-668	250
-669	250
-670	250
-671	250
-672	250
-673	250
-674	250
-675	250
-676	250
-677	250
-678	250
-679	250
-680	250
-681	250
-682	250
-683	250
-684	250
-685	250
-686	250
-687	250
-688	250
-689	250
-690	250
-691	250
-692	250
-693	250
-694	250
-695	250
-696	250
-697	250
-698	250
-699	250
-700	250
-701	250
-702	250
-703	250
-704	250
-705	250
-706	250
-707	250
-708	250
-709	250
-710	250
-711	250
-712	250
-713	250
-714	250
-715	250
-716	250
-717	250
-718	250
-719	250
-720	250
-721	250
-722	250
-723	250
-724	250
-725	250
-726	250
-727	250
-728	250
-729	250
-730	250
-731	250
-732	250
-733	250
-734	250
-735	250
-736	250
-737	250
-738	250
-739	250
-740	250
-741	250
-742	250
-743	250
-744	250
-745	250
-746	250
-747	250
-748	250
-749	250
-750	250
-751	250
-752	250
-753	250
-754	250
-755	250
-756	250
-757	250
-758	250
-759	250
-760	250
-761	250
-762	250
-763	250
-764	250
-765	250
-766	250
-767	250
-768	250
-769	250
-770	250
-771	250
-772	250
-773	250
-774	250
-775	250
-776	250
-777	250
-778	250
-779	250
-780	250
-781	250
-782	250
-783	250
-784	250
-785	250
-786	250
-787	250
-788	250
-789	250
-790	250
-791	250
-792	250
-793	250
-794	250
-795	250
-796	250
-797	250
-798	250
-799	250
-800	250
-801	250
-802	250
-803	250
-804	250
-805	250
-806	250
-807	250
-808	250
-809	250
-810	250
-811	250
-812	250
-813	250
-814	250
-815	250
-816	250
-817	250
-818	250
-819	250
-820	250
-821	250
-822	250
-823	250
-824	250
-825	250
-826	250
-827	250
-828	250
-829	250
-830	250
-831	250
-832	250
-833	250
-834	250
-835	250
-836	250
-837	250
-838	250
-839	250
-840	250
-841	250
-842	250
-843	250
-844	250
-845	250
-846	250
-847	250
-848	250
-849	250
-850	250
-851	250
-852	250
-853	250
-854	250
-855	250
-856	250
-857	250
-858	250
-859	250
-860	250
-861	250
-862	250
-863	250
-864	250
-865	250
-866	250
-867	250
-868	250
-869	250
-870	250
-871	250
-872	250
-873	250
-874	250
-875	250
-876	250
-877	250
-878	250
-879	250
-880	250
-881	250
-882	250
-883	250
-884	250
-885	250
-886	250
-887	250
-888	250
-889	250
-890	250
-891	250
-892	250
-893	250
-894	250
-895	250
-896	250
-897	250
-898	250
-899	250
-900	250
-901	250
-902	250
-903	250
-904	250
-905	250
-906	250
-907	250
-908	250
-909	250
-910	250
-911	250
-912	250
-913	250
-914	250
-915	250
-916	250
-917	250
-918	250
-919	250
-920	250
-921	250
-922	250
-923	250
-924	250
-925	250
-926	250
-927	250
-928	250
-929	250
-930	250
-931	250
-932	250
-933	250
-934	250
-935	250
-936	250
-937	250
-938	250
-939	250
-940	250
-941	250
-942	250
-943	250
-944	250
-945	250
-946	250
-947	250
-948	250
-949	250
-950	250
-951	250
-952	250
-953	250
-954	250
-955	250
-956	250
-957	250
-958	250
-959	250
-960	250
-961	250
-962	250
-963	250
-964	250
-965	250
-966	250
-967	250
-968	250
-969	250
-970	250
-971	250
-972	250
-973	250
-974	250
-975	250
-976	250
-977	250
-978	250
-979	250
-980	250
-981	250
-982	250
-983	250
-984	250
-985	250
-986	250
-987	250
-988	250
-989	250
-990	250
-991	250
-992	250
-993	250
-994	250
-995	250
-996	250
-997	250
-998	250
-999	250
-1000	250
-1001	250
-1002	250
-1003	250
-1004	250
-1005	250
-1006	250
-1007	250
-1008	250
-1009	250
-1010	250
-1011	250
-1012	250
-1013	250
-1014	250
-1015	250
-1016	250
-1017	250
-1018	250
-1019	250
-1020	250
-1021	250
-1022	250
-1023	250
-1024	250
-1025	250
-1026	250
-1027	250
-1028	250
-1029	250
-1030	250
-1031	250
-1032	250
-1033	250
-1034	250
-1035	250
-1036	250
-1037	250
-1038	250
-1039	250
-1040	250
-1041	250
-1042	250
-1043	250
-1044	250
-1045	250
-1046	250
-1047	250
-1048	250
-1049	250
-1050	250
-1051	250
-1052	250
-1053	250
-1054	250
-1055	250
-1056	250
-1057	250
-1058	250
-1059	250
-1060	250
-1061	250
-1062	250
-1063	250
-1064	250
-1065	250
-1066	250
-1067	250
-1068	250
-1069	250
-1070	250
-1071	250
-1072	250
-1073	250
-1074	250
-1075	250
-1076	250
-1077	250
-1078	250
-1079	250
-1080	250
-1081	250
-1082	250
-1083	250
-1084	250
-1085	250
-1086	250
-1087	250
-1088	250
-1089	250
-1090	250
-1091	250
-1092	250
-1093	250
-1094	250
-1095	250
-1096	250
-1097	250
-1098	250
-1099	250
-1100	250
-1101	250
-1102	250
-1103	250
-1104	250
-1105	250
-1106	250
-1107	250
-1108	250
-1109	250
-1110	250
-1111	250
-1112	250
-1113	250
-1114	250
-1115	250
-1116	250
-1117	250
-1118	250
-1119	250
-1120	250
-1121	250
-1122	250
-1123	250
-1124	250
-1125	250
-1126	250
-1127	250
-1128	250
-1129	250
-1130	250
-1131	250
-1132	250
-1133	250
-1134	250
-1135	250
-1136	250
-1137	250
-1138	250
-1139	250
-1140	250
-1141	250
-1142	250
-1143	250
-1144	250
-1145	250
-1146	250
-1147	250
-1148	250
-1149	250
-1150	250
-1151	250
-1152	250
-1153	250
-1154	250
-1155	250
-1156	250
-1157	250
-1158	250
-1159	250
-1160	250
-1161	250
-1162	250
-1163	250
-1164	250
-1165	250
-1166	250
-1167	250
-1168	250
-1169	250
-1170	250
-1171	250
-1172	250
-1173	250
-1174	250
-1175	250
-1176	250
-1177	250
-1178	250
-1179	250
-1180	250
-1181	250
-1182	250
-1183	250
-1184	250
-1185	250
-1186	250
-1187	250
-1188	250
-1189	250
-1190	250
-1191	250
-1192	250
-1193	250
-1194	250
-1195	250
-1196	250
-1197	250
-1198	250
-1199	250
-1200	250
-1201	250
-1202	250
-1203	250
-1204	250
-1205	250
-1206	250
-1207	250
-1208	250
-1209	250
-1210	250
-1211	250
-1212	250
-1213	250
-1214	250
-1215	250
-1216	250
-1217	250
-1218	250
-1219	250
-1220	250
-1221	250
-1222	250
-1223	250
-1224	250
-1225	250
-1226	250
-1227	250
-1228	250
-1229	250
-1230	250
-1231	250
-1232	250
-1233	250
-1234	250
-1235	250
-1236	250
-1237	250
-1238	250
-1239	250
-1240	250
-1241	250
-1242	250
-1243	250
-1244	250
-1245	250
-1246	250
-1247	250
-1248	250
-1249	250
-1250	250
-1251	250
-1252	250
-1253	250
-1254	250
-1255	250
-1256	250
-1257	250
-1258	250
-1259	250
-1260	250
-1261	250
-1262	250
-1263	250
-1264	250
-1265	250
-1266	250
-1267	250
-1268	250
-1269	250
-1270	250
-1271	250
-1272	250
-1273	250
-1274	250
-1275	250
-1276	250
-1277	250
-1278	250
-1279	250
-1280	250
-1281	250
-1282	250
-1283	250
-1284	250
-1285	250
-1286	250
-1287	250
-1288	250
-1289	250
-1290	250
-1291	250
-1292	250
-1293	250
-1294	250
-1295	250
-1296	250
-1297	250
-1298	250
-1299	250
-1300	250
-1301	250
-1302	250
-1303	250
-1304	250
-1305	250
-1306	250
-1307	250
-1308	250
-1309	250
-1310	250
-1311	250
-1312	250
-1313	250
-1314	250
-1315	250
-1316	250
-1317	250
-1318	250
-1319	250
-1320	250
-1321	250
-1322	250
-1323	250
-1324	250
-1325	250
-1326	250
-1327	250
-1328	250
-1329	250
-1330	250
-1331	250
-1332	250
-1333	250
-1334	250
-1335	250
-1336	250
-1337	250
-1338	250
-1339	250
-1340	250
-1341	250
-1342	250
-1343	250
-1344	250
-1345	250
-1346	250
-1347	250
-1348	250
-1349	250
-1350	250
-1351	250
-1352	250
-1353	250
-1354	250
-1355	250
-1356	250
-1357	250
-1358	250
-1359	250
-1360	250
-1361	250
-1362	250
-1363	250
-1364	250
-1365	250
-1366	250
-1367	250
-1368	250
-1369	250
-1370	250
-1371	250
-1372	250
-1373	250
-1374	250
-1375	250
-1376	250
-1377	250
-1378	250
-1379	250
-1380	250
-1381	250
-1382	250
-1383	250
-1384	250
-1385	250
-1386	250
-1387	250
-1388	250
-1389	250
-1390	250
-1391	250
-1392	250
-1393	250
-1394	250
-1395	250
-1396	250
-1397	250
-1398	250
-1399	250
-1400	250
-1401	250
-1402	250
-1403	250
-1404	250
-1405	250
-1406	250
-1407	250
-1408	250
-1409	250
-1410	250
-1411	250
-1412	250
-1413	250
-1414	250
-1415	250
-1416	250
-1417	250
-1418	250
-1419	250
-1420	250
-1421	250
-1422	250
-1423	250
-1424	250
-1425	250
-1426	250
-1427	250
-1428	250
-1429	250
-1430	250
-1431	250
-1432	250
-1433	250
-1434	250
-1435	250
-1436	250
-1437	250
-1438	250
-1439	250
-1440	250
-1441	250
-1442	250
-1443	250
-1444	250
-1445	250
-1446	250
-1447	250
-1448	250
-1449	250
-1450	250
-1451	250
-1452	250
-1453	250
-1454	250
-1455	250
-1456	250
-1457	250
-1458	250
-1459	250
-1460	250
-1461	250
-1462	250
-1463	250
-1464	250
-1465	250
-1466	250
-1467	250
-1468	250
-1469	250
-1470	250
-1471	250
-1472	250
-1473	250
-1474	250
-1475	250
-1476	250
-1477	250
-1478	250
-1479	250
-1480	250
-1481	250
-1482	250
-1483	250
-1484	250
-1485	250
-1486	250
-1487	250
-1488	250
-1489	250
-1490	250
-1491	250
-1492	250
-1493	250
-1494	250
-1495	250
-1496	250
-1497	250
-1498	250
-1499	250
-1500	250
-1501	250
-1502	250
-1503	250
-1504	250
-1505	250
-1506	250
-1507	250
-1508	250
-1509	250
-1510	250
-1511	250
-1512	250
-1513	250
-1514	250
-1515	250
-1516	250
-1517	250
-1518	250
-1519	250
-1520	250
-1521	250
-1522	250
-1523	250
-1524	250
-1525	250
-1526	250
-1527	250
-1528	250
-1529	250
-1530	250
-1531	250
-1532	250
-1533	250
-1534	250
-1535	250
-1536	250
-1537	250
-1538	250
-1539	250
-1540	250
-1541	250
-1542	250
-1543	250
-1544	250
-1545	250
-1546	250
-1547	250
-1548	250
-1549	250
-1550	250
-1551	250
-1552	250
-1553	250
-1554	250
-1555	250
-1556	250
-1557	250
-1558	250
-1559	250
-1560	250
-1561	250
-1562	250
-1563	250
-1564	250
-1565	250
-1566	250
-1567	250
-1568	250
-1569	250
-1570	250
-1571	250
-1572	250
-1573	250
-1574	250
-1575	250
-1576	250
-1577	250
-1578	250
-1579	250
-1580	250
-1581	250
-1582	250
-1583	250
-1584	250
-1585	250
-1586	250
-1587	250
-1588	250
-1589	250
-1590	250
-1591	250
-1592	250
-1593	250
-1594	250
-1595	250
-1596	250
-1597	250
-1598	250
-1599	250
-1600	250
-1601	250
-1602	250
-1603	250
-1604	250
-1605	250
-1606	250
-1607	250
-1608	250
-1609	250
-1610	250
-1611	250
-1612	250
-1613	250
-1614	250
-1615	250
-1616	250
-1617	250
-1618	250
-1619	250
-1620	250
-1621	250
-1622	250
-1623	250
-1624	250
-1625	250
-1626	250
-1627	250
-1628	250
-1629	250
-1630	250
-1631	250
-1632	250
-1633	250
-1634	250
-1635	250
-1636	250
-1637	250
-1638	250
-1639	250
-1640	250
-1641	250
-1642	250
-1643	250
-1644	250
-1645	250
-1646	250
-1647	250
-1648	250
-1649	250
-1650	250
-1651	250
-1652	250
-1653	250
-1654	250
-1655	250
-1656	250
-1657	250
-1658	250
-1659	250
-1660	250
-1661	250
-1662	250
-1663	250
-1664	250
-1665	250
-1666	250
-1667	250
-1668	250
-1669	250
-1670	250
-1671	250
-1672	250
-1673	250
-1674	250
-1675	250
-1676	250
-1677	250
-1678	250
-1679	250
-1680	250
-1681	250
-1682	250
-1683	250
-1684	250
-1685	250
-1686	250
-1687	250
-1688	250
-1689	250
-1690	250
-1691	250
-1692	250
-1693	250
-1694	250
-1695	250
-1696	250
-1697	250
-1698	250
-1699	250
-1700	250
-1701	250
-1702	250
-1703	250
-1704	250
-1705	250
-1706	250
-1707	250
-1708	250
-1709	250
-1710	250
-1711	250
-1712	250
-1713	250
-1714	250
-1715	250
-1716	250
-1717	250
-1718	250
-1719	250
-1720	250
-1721	250
-1722	250
-1723	250
-1724	250
-1725	250
-1726	250
-1727	250
-1728	250
-1729	250
-1730	250
-1731	250
-1732	250
-1733	250
-1734	250
-1735	250
-1736	250
-1737	250
-1738	250
-1739	250
-1740	250
-1741	250
-1742	250
-1743	250
-1744	250
-1745	250
-1746	250
-1747	250
-1748	250
-1749	250
-1750	250
-1751	250
-1752	250
-1753	250
-1754	250
-1755	250
-1756	250
-1757	250
-1758	250
-1759	250
-1760	250
-1761	250
-1762	250
-1763	250
-1764	250
-1765	250
-1766	250
-1767	250
-1768	250
-1769	250
-1770	250
-1771	250
-1772	250
-1773	250
-1774	250
-1775	250
-1776	250
-1777	250
-1778	250
-1779	250
-1780	250
-1781	250
-1782	250
-1783	250
-1784	250
-1785	250
-1786	250
-1787	250
-1788	250
-1789	250
-1790	250
-1791	250
-1792	250
-1793	250
-1794	250
-1795	250
-1796	250
-1797	250
-1798	250
-1799	250
-1800	250
-1801	250
-1802	250
-1803	250
-1804	250
-1805	250
-1806	250
-1807	250
-1808	250
-1809	250
-1810	250
-1811	250
-1812	250
-1813	250
-1814	250
-1815	250
-1816	250
-1817	250
-1818	250
-1819	250
-1820	250
-1821	250
-1822	250
-1823	250
-1824	250
-1825	250
-1826	250
-1827	250
-1828	250
-1829	250
-1830	250
-1831	250
-1832	250
-1833	250
-1834	250
-1835	250
-1836	250
-1837	250
-1838	250
-1839	250
-1840	250
-1841	250
-1842	250
-1843	250
-1844	250
-1845	250
-1846	250
-1847	250
-1848	250
-1849	250
-1850	250
-1851	250
-1852	250
-1853	250
-1854	250
-1855	250
-1856	250
-1857	250
-1858	250
-1859	250
-1860	250
-1861	250
-1862	250
-1863	250
-1864	250
-1865	250
-1866	250
-1867	250
-1868	250
-1869	250
-1870	250
-1871	250
-1872	250
-1873	250
-1874	250
-1875	250
-1876	250
-1877	250
-1878	250
-1879	250
-1880	250
-1881	250
-1882	250
-1883	250
-1884	250
-1885	250
-1886	250
-1887	250
-1888	250
-1889	250
-1890	250
-1891	250
-1892	250
-1893	250
-1894	250
-1895	250
-1896	250
-1897	250
-1898	250
-1899	250
-1900	250
-1901	250
-1902	250
-1903	250
-1904	250
-1905	250
-1906	250
-1907	250
-1908	250
-1909	250
-1910	250
-1911	250
-1912	250
-1913	250
-1914	250
-1915	250
-1916	250
-1917	250
-1918	250
-1919	250
-1920	250
-1921	250
-1922	250
-1923	250
-1924	250
-1925	250
-1926	250
-1927	250
-1928	250
-1929	250
-1930	250
-1931	250
-1932	250
-1933	250
-1934	250
-1935	250
-1936	250
-1937	250
-1938	250
-1939	250
-1940	250
-1941	250
-1942	250
-1943	250
-1944	250
-1945	250
-1946	250
-1947	250
-1948	250
-1949	250
-1950	250
-1951	250
-1952	250
-1953	250
-1954	250
-1955	250
-1956	250
-1957	250
-1958	250
-1959	250
-1960	250
-1961	250
-1962	250
-1963	250
-1964	250
-1965	250
-1966	250
-1967	250
-1968	250
-1969	250
-1970	250
-1971	250
-1972	250
-1973	250
-1974	250
-1975	250
-1976	250
-1977	250
-1978	250
-1979	250
-1980	250
-1981	250
-1982	250
-1983	250
-1984	250
-1985	250
-1986	250
-1987	250
-1988	250
-1989	250
-1990	250
-1991	250
-1992	250
-1993	250
-1994	250
-1995	250
-1996	250
-1997	250
-1998	250
-1999	250
-2000	250
-2001	250
-2002	250
-2003	250
-2004	250
-2005	250
-2006	250
-2007	250
-2008	250
-2009	250
-2010	250
-2011	250
-2012	250
-2013	250
-2014	250
-2015	250
-2016	250
-2017	250
-2018	250
-2019	250
-2020	250
-2021	250
-2022	250
-2023	250
-2024	250
-2025	250
-2026	250
-2027	250
-2028	250
-2029	250
-2030	250
-2031	250
-2032	250
-2033	250
-2034	250
-2035	250
-2036	250
-2037	250
-2038	250
-2039	250
-2040	250
-2041	250
-2042	250
-2043	250
-2044	250
-2045	250
-2046	250
-2047	250
-2048	250
-2049	250
-2050	250
-2051	250
-2052	250
-2053	250
-2054	250
-2055	250
-2056	250
-2057	250
-2058	250
-2059	250
-2060	250
-2061	250
-2062	250
-2063	250
-2064	250
-2065	250
-2066	250
-2067	250
-2068	250
-2069	250
-2070	250
-2071	250
-2072	250
-2073	250
-2074	250
-2075	250
-2076	250
-2077	250
-2078	250
-2079	250
-2080	250
-2081	250
-2082	250
-2083	250
-2084	250
-2085	250
-2086	250
-2087	250
-2088	250
-2089	250
-2090	250
-2091	250
-2092	250
-2093	250
-2094	250
-2095	250
-2096	250
-2097	250
-2098	250
-2099	250
-2100	250
-2101	250
-2102	250
-2103	250
-2104	250
-2105	250
-2106	250
-2107	250
-2108	250
-2109	250
-2110	250
-2111	250
-2112	250
-2113	250
-2114	250
-2115	250
-2116	250
-2117	250
-2118	250
-2119	250
-2120	250
-2121	250
-2122	250
-2123	250
-2124	250
-2125	250
-2126	250
-2127	250
-2128	250
-2129	250
-2130	250
-2131	250
-2132	250
-2133	250
-2134	250
-2135	250
-2136	250
-2137	250
-2138	250
-2139	250
-2140	250
-2141	250
-2142	250
-2143	250
-2144	250
-2145	250
-2146	250
-2147	250
-2148	250
-2149	250
-2150	250
-2151	250
-2152	250
-2153	250
-2154	250
-2155	250
-2156	250
-2157	250
-2158	250
-2159	250
-2160	250
-2161	250
-2162	250
-2163	250
-2164	250
-2165	250
-2166	250
-2167	250
-2168	250
-2169	250
-2170	250
-2171	250
-2172	250
-2173	250
-2174	250
-2175	250
-2176	250
-2177	250
-2178	250
-2179	250
-2180	250
-2181	250
-2182	250
-2183	250
-2184	250
-2185	250
-2186	250
-2187	250
-2188	250
-2189	250
-2190	250
-2191	250
-2192	250
-2193	250
-2194	250
-2195	250
-2196	250
-2197	250
-2198	250
-2199	250
-2200	250
-2201	250
-2202	250
-2203	250
-2204	250
-2205	250
-2206	250
-2207	250
-2208	250
-2209	250
-2210	250
-2211	250
-2212	250
-2213	250
-2214	250
-2215	250
-2216	250
-2217	250
-2218	250
-2219	250
-2220	250
-2221	250
-2222	250
-2223	250
-2224	250
-2225	250
-2226	250
-2227	250
-2228	250
-2229	250
-2230	250
-2231	250
-2232	250
-2233	250
-2234	250
-2235	250
-2236	250
-2237	250
-2238	250
-2239	250
-2240	250
-2241	250
-2242	250
-2243	250
-2244	250
-2245	250
-2246	250
-2247	250
-2248	250
-2249	250
-2250	250
-2251	250
-2252	250
-2253	250
-2254	250
-2255	250
-2256	250
-2257	250
-2258	250
-2259	250
-2260	250
-2261	250
-2262	250
-2263	250
-2264	250
-2265	250
-2266	250
-2267	250
-2268	250
-2269	250
-2270	250
-2271	250
-2272	250
-2273	250
-2274	250
-2275	250
-2276	250
-2277	250
-2278	250
-2279	250
-2280	250
-2281	250
-2282	250
-2283	250
-2284	250
-2285	250
-2286	250
-2287	250
-2288	250
-2289	250
-2290	250
-2291	250
-2292	250
-2293	250
-2294	250
-2295	250
-2296	250
-2297	250
-2298	250
-2299	250
-2300	250
-2301	250
-2302	250
-2303	250
-2304	250
-2305	250
-2306	250
-2307	250
-2308	250
-2309	250
-2310	250
-2311	250
-2312	250
-2313	250
-2314	250
-2315	250
-2316	250
-2317	250
-2318	250
-2319	250
-2320	250
-2321	250
-2322	250
-2323	250
-2324	250
-2325	250
-2326	250
-2327	250
-2328	250
-2329	250
-2330	250
-2331	250
-2332	250
-2333	250
-2334	250
-2335	250
-2336	250
-2337	250
-2338	250
-2339	250
-2340	250
-2341	250
-2342	250
-2343	250
-2344	250
-2345	250
-2346	250
-2347	250
-2348	250
-2349	250
-2350	250
-2351	250
-2352	250
-2353	250
-2354	250
-2355	250
-2356	250
-2357	250
-2358	250
-2359	250
-2360	250
-2361	250
-2362	250
-2363	250
-2364	250
-2365	250
-2366	250
-2367	250
-2368	250
-2369	250
-2370	250
-2371	250
-2372	250
-2373	250
-2374	250
-2375	250
-2376	250
-2377	250
-2378	250
-2379	250
-2380	250
-2381	250
-2382	250
-2383	250
-2384	250
-2385	250
-2386	250
-2387	250
-2388	250
-2389	250
-2390	250
-2391	250
-2392	250
-2393	250
-2394	250
-2395	250
-2396	250
-2397	250
-2398	250
-2399	250
-2400	250
-2401	250
-2402	250
-2403	250
-2404	250
-2405	250
-2406	250
-2407	250
-2408	250
-2409	250
-2410	250
-2411	250
-2412	250
-2413	250
-2414	250
-2415	250
-2416	250
-2417	250
-2418	250
-2419	250
-2420	250
-2421	250
-2422	250
-2423	250
-2424	250
-2425	250
-2426	250
-2427	250
-2428	250
-2429	250
-2430	250
-2431	250
-2432	250
-2433	250
-2434	250
-2435	250
-2436	250
-2437	250
-2438	250
-2439	250
-2440	250
-2441	250
-2442	250
-2443	250
-2444	250
-2445	250
-2446	250
-2447	250
-2448	250
-2449	250
-2450	250
-2451	250
-2452	250
-2453	250
-2454	250
-2455	250
-2456	250
-2457	250
-2458	250
-2459	250
-2460	250
-2461	250
-2462	250
-2463	250
-2464	250
-2465	250
-2466	250
-2467	250
-2468	250
-2469	250
-2470	250
-2471	250
-2472	250
-2473	250
-2474	250
-2475	250
-2476	250
-2477	250
-2478	250
-2479	250
-2480	250
-2481	250
-2482	250
-2483	250
-2484	250
-2485	250
-2486	250
-2487	250
-2488	250
-2489	250
-2490	250
-2491	250
-2492	250
-2493	250
-2494	250
-2495	250
-2496	250
-2497	250
-2498	250
-2499	250
+0	250	0
+1	250	69514.2
+2	250	12339.5
+3	250	12941.3
+4	250	10656.5
+5	250	38021.7
+6	250	80888.3
+7	250	38165.4
+8	250	2822.11
+9	250	46330.2
+10	250	0
+11	250	0
+12	250	101521
+13	250	0
+14	250	5894.48
+15	250	0
+16	250	15198.8
+17	250	0
+18	250	17906.9
+19	250	0
+20	250	111391
+21	250	37852.2
+22	250	6929.77
+23	250	38153.3
+24	250	112611
+25	250	0
+26	250	68898.8
+27	250	11411
+28	250	0
+29	250	0
+30	250	38235.2
+31	250	38007.7
+32	250	0
+33	250	38073.3
+34	250	71795.7
+35	250	39689.7
+36	250	11695.9
+37	250	0
+38	250	74560.6
+39	250	0
+40	250	69134.5
+41	250	5000.96
+42	250	7520.79
+43	250	0
+44	250	0
+45	250	13585.9
+46	250	3100.31
+47	250	38188.8
+48	250	0
+49	250	14165.4
+50	250	0
+51	250	38320.5
+52	250	0
+53	250	88707.9
+54	250	0
+55	250	0
+56	250	0
+57	250	38269.4
+58	250	98462.2
+59	250	16050.5
+60	250	38172.9
+61	250	6967.89
+62	250	6139.84
+63	250	0
+64	250	38031.7
+65	250	54964.8
+66	250	0
+67	250	0
+68	250	38225.5
+69	250	0
+70	250	8487.25
+71	250	9748.12
+72	250	0
+73	250	0
+74	250	38353.8
+75	250	0
+76	250	38144.7
+77	250	0
+78	250	16602.9
+79	250	0
+80	250	0
+81	250	38322.2
+82	250	0
+83	250	0
+84	250	93552
+85	250	6100.73
+86	250	48579.9
+87	250	37852.1
+88	250	12351.6
+89	250	71145.2
+90	250	10349.9
+91	250	3514.8
+92	250	8850.41
+93	250	60922.7
+94	250	38313.6
+95	250	38140.6
+96	250	38249
+97	250	0
+98	250	8330.79
+99	250	0
+100	250	10097.6
+101	250	2460.72
+102	250	0
+103	250	0
+104	250	0
+105	250	0
+106	250	6955.86
+107	250	38282.7
+108	250	37938.9
+109	250	38182.9
+110	250	5038.25
+111	250	4144.02
+112	250	0
+113	250	0
+114	250	0
+115	250	3163.54
+116	250	37850.9
+117	250	4303.99
+118	250	107658
+119	250	38013.7
+120	250	0
+121	250	38202.4
+122	250	0
+123	250	9091.34
+124	250	98856.2
+125	250	38159.3
+126	250	9547.29
+127	250	94154.7
+128	250	0
+129	250	0
+130	250	4843.74
+131	250	0
+132	250	38140.5
+133	250	10968.3
+134	250	3324.99
+135	250	0
+136	250	0
+137	250	0
+138	250	0
+139	250	37861.6
+140	250	0
+141	250	9891.7
+142	250	0
+143	250	121774
+144	250	4079.61
+145	250	7451.72
+146	250	4252.7
+147	250	0
+148	250	37854.2
+149	250	101492
+150	250	6994.86
+151	250	8361.48
+152	250	17486.1
+153	250	7453.25
+154	250	9782.9
+155	250	123961
+156	250	0
+157	250	15481.5
+158	250	0
+159	250	38202.9
+160	250	0
+161	250	0
+162	250	0
+163	250	74823.9
+164	250	0
+165	250	0
+166	250	134695
+167	250	0
+168	250	58504.5
+169	250	11264.3
+170	250	38329.8
+171	250	6261.8
+172	250	0
+173	250	69721.9
+174	250	0
+175	250	0
+176	250	75196.1
+177	250	0
+178	250	0
+179	250	2848.31
+180	250	38375.6
+181	250	0
+182	250	0
+183	250	6891.99
+184	250	74852.6
+185	250	38023.9
+186	250	3051.56
+187	250	14857
+188	250	0
+189	250	0
+190	250	76306.5
+191	250	13666.4
+192	250	37884.5
+193	250	37872.8
+194	250	0
+195	250	2615.68
+196	250	110929
+197	250	13741.6
+198	250	0
+199	250	85752.8
+200	250	6878.39
+201	250	49084.3
+202	250	12511.2
+203	250	38212.2
+204	250	4132.28
+205	250	0
+206	250	10630.9
+207	250	44086.9
+208	250	12986.1
+209	250	14885
+210	250	38133.5
+211	250	17093.6
+212	250	5174.83
+213	250	75862.6
+214	250	0
+215	250	5988.84
+216	250	37897.5
+217	250	66753.7
+218	250	14738.2
+219	250	0
+220	250	38265.1
+221	250	7542.26
+222	250	0
+223	250	38157.4
+224	250	4379.96
+225	250	2952.27
+226	250	38158.4
+227	250	61131.6
+228	250	38234.5
+229	250	8395.23
+230	250	57378.3
+231	250	0
+232	250	3362.12
+233	250	15531.6
+234	250	37911.1
+235	250	0
+236	250	98073.9
+237	250	3961.5
+238	250	5385.38
+239	250	0
+240	250	6625.73
+241	250	0
+242	250	4912.7
+243	250	38282.8
+244	250	38187.6
+245	250	10469.8
+246	250	0
+247	250	0
+248	250	38210.2
+249	250	0
+250	250	6177.69
+251	250	7876.1
+252	250	38068.5
+253	250	38353.6
+254	250	0
+255	250	0
+256	250	2792.66
+257	250	38394.3
+258	250	15424.1
+259	250	0
+260	250	37910
+261	250	0
+262	250	38308.3
+263	250	0
+264	250	8784.82
+265	250	56746.3
+266	250	0
+267	250	9757.64
+268	250	0
+269	250	16399.3
+270	250	72557.5
+271	250	0
+272	250	15082.8
+273	250	0
+274	250	38398
+275	250	56239.4
+276	250	37980.8
+277	250	54491.7
+278	250	0
+279	250	0
+280	250	3230.19
+281	250	13961.4
+282	250	78273.4
+283	250	11408.6
+284	250	26811.1
+285	250	38270
+286	250	30068.5
+287	250	38255.8
+288	250	15585.4
+289	250	0
+290	250	0
+291	250	0
+292	250	38226.6
+293	250	4630.53
+294	250	0
+295	250	4829.43
+296	250	38170.5
+297	250	7587.19
+298	250	11052.4
+299	250	0
+300	250	37830.1
+301	250	38088
+302	250	54902
+303	250	38089.5
+304	250	0
+305	250	0
+306	250	3243.32
+307	250	12065
+308	250	0
+309	250	14431
+310	250	7387.82
+311	250	0
+312	250	9232.96
+313	250	9255.93
+314	250	0
+315	250	0
+316	250	85674.4
+317	250	38356.8
+318	250	69055.3
+319	250	15754.7
+320	250	6750.76
+321	250	38044.3
+322	250	77521.9
+323	250	38020.9
+324	250	0
+325	250	0
+326	250	0
+327	250	0
+328	250	0
+329	250	2753.37
+330	250	61172.1
+331	250	0
+332	250	4660.85
+333	250	0
+334	250	0
+335	250	94090
+336	250	16328.3
+337	250	0
+338	250	4697.43
+339	250	9865.53
+340	250	4419.56
+341	250	3312.8
+342	250	10465.7
+343	250	0
+344	250	119927
+345	250	0
+346	250	38118
+347	250	5471.33
+348	250	38359.2
+349	250	0
+350	250	65646.6
+351	250	0
+352	250	0
+353	250	0
+354	250	38145.5
+355	250	38334.6
+356	250	0
+357	250	0
+358	250	38174.3
+359	250	120733
+360	250	0
+361	250	8800.97
+362	250	38347.3
+363	250	5551.19
+364	250	15271
+365	250	62252.5
+366	250	13268.4
+367	250	37883.7
+368	250	12865.4
+369	250	0
+370	250	0
+371	250	2697.35
+372	250	76856.8
+373	250	3350.96
+374	250	0
+375	250	37856
+376	250	47101.5
+377	250	9052.35
+378	250	0
+379	250	0
+380	250	0
+381	250	0
+382	250	0
+383	250	5379.03
+384	250	5484.26
+385	250	0
+386	250	12486.3
+387	250	13083.9
+388	250	0
+389	250	0
+390	250	0
+391	250	3453.15
+392	250	0
+393	250	0
+394	250	0
+395	250	0
+396	250	38026.7
+397	250	5182.83
+398	250	9651.03
+399	250	38310.3
+400	250	0
+401	250	50457.2
+402	250	64954.7
+403	250	0
+404	250	4846.21
+405	250	3746.12
+406	250	37811.6
+407	250	0
+408	250	0
+409	250	44953.8
+410	250	0
+411	250	12312
+412	250	5602.45
+413	250	97472
+414	250	49605.5
+415	250	17008.4
+416	250	37814.3
+417	250	11534.5
+418	250	37807.3
+419	250	12499.4
+420	250	91608.9
+421	250	9808.74
+422	250	0
+423	250	0
+424	250	0
+425	250	0
+426	250	0
+427	250	0
+428	250	61540.6
+429	250	0
+430	250	4579.83
+431	250	50271.9
+432	250	0
+433	250	0
+434	250	0
+435	250	0
+436	250	38015.3
+437	250	84726.8
+438	250	38909.3
+439	250	0
+440	250	0
+441	250	0
+442	250	37831.8
+443	250	0
+444	250	12186
+445	250	6490.36
+446	250	0
+447	250	0
+448	250	67007.6
+449	250	102272
+450	250	4462.2
+451	250	8977.82
+452	250	3295.85
+453	250	71808.8
+454	250	0
+455	250	13744.4
+456	250	5741.13
+457	250	5833.25
+458	250	18068.1
+459	250	11132.7
+460	250	0
+461	250	38057.2
+462	250	0
+463	250	0
+464	250	0
+465	250	0
+466	250	0
+467	250	0
+468	250	0
+469	250	46178.9
+470	250	38137.8
+471	250	0
+472	250	11332.3
+473	250	7721.59
+474	250	89520.1
+475	250	59641.5
+476	250	11190.4
+477	250	8527.22
+478	250	77299.8
+479	250	0
+480	250	37900.2
+481	250	10243.1
+482	250	0
+483	250	14772.9
+484	250	83640.7
+485	250	0
+486	250	37897.9
+487	250	37807.1
+488	250	13788.3
+489	250	38041.6
+490	250	17828.1
+491	250	4066.72
+492	250	0
+493	250	6917.18
+494	250	7621.28
+495	250	0
+496	250	62508.5
+497	250	0
+498	250	37853.1
+499	250	0
+500	250	38137
+501	250	0
+502	250	0
+503	250	66487.1
+504	250	0
+505	250	0
+506	250	8401.22
+507	250	3027.55
+508	250	0
+509	250	10730.4
+510	250	0
+511	250	17693.7
+512	250	38045.6
+513	250	38210.2
+514	250	50284.1
+515	250	11087.6
+516	250	7038.02
+517	250	5062.85
+518	250	0
+519	250	38206.2
+520	250	101328
+521	250	12586.6
+522	250	15052.6
+523	250	15027.8
+524	250	38092.6
+525	250	38054.1
+526	250	67735
+527	250	0
+528	250	82688.5
+529	250	8460.71
+530	250	38329.6
+531	250	0
+532	250	71876.6
+533	250	38324.8
+534	250	0
+535	250	84756.2
+536	250	8733.19
+537	250	80531.2
+538	250	12430.7
+539	250	0
+540	250	38185.1
+541	250	11233.8
+542	250	11216.5
+543	250	97014.6
+544	250	0
+545	250	3847.1
+546	250	0
+547	250	9189.26
+548	250	37918.6
+549	250	5565.56
+550	250	0
+551	250	0
+552	250	7008.2
+553	250	0
+554	250	12523.6
+555	250	92912.1
+556	250	70668.2
+557	250	8683.05
+558	250	0
+559	250	38045.9
+560	250	37943.2
+561	250	0
+562	250	38206.1
+563	250	6653.07
+564	250	12419
+565	250	5238.15
+566	250	0
+567	250	8746.16
+568	250	3605.21
+569	250	113380
+570	250	14372.1
+571	250	37851.6
+572	250	45430.6
+573	250	0
+574	250	13621.3
+575	250	0
+576	250	0
+577	250	8377.4
+578	250	0
+579	250	0
+580	250	61434.9
+581	250	38191.1
+582	250	0
+583	250	3002.57
+584	250	11809.3
+585	250	0
+586	250	0
+587	250	0
+588	250	0
+589	250	94727.6
+590	250	38313
+591	250	9662.98
+592	250	3630.44
+593	250	0
+594	250	81719.8
+595	250	0
+596	250	0
+597	250	0
+598	250	5539.06
+599	250	0
+600	250	0
+601	250	6759.29
+602	250	38058.4
+603	250	0
+604	250	90268.6
+605	250	15292.2
+606	250	59161.2
+607	250	96420.7
+608	250	38245
+609	250	0
+610	250	0
+611	250	0
+612	250	5858.26
+613	250	0
+614	250	9389.03
+615	250	0
+616	250	52012.5
+617	250	4617.65
+618	250	37864.2
+619	250	0
+620	250	0
+621	250	5944.6
+622	250	37916.7
+623	250	36330.2
+624	250	81611
+625	250	0
+626	250	0
+627	250	0
+628	250	41138.8
+629	250	11785.4
+630	250	7929.37
+631	250	0
+632	250	13179.9
+633	250	37802
+634	250	0
+635	250	14750.5
+636	250	38212.9
+637	250	3591.91
+638	250	37959
+639	250	0
+640	250	0
+641	250	0
+642	250	85312.6
+643	250	11246.9
+644	250	112325
+645	250	38268.5
+646	250	7377.61
+647	250	12086.3
+648	250	5352.86
+649	250	5366.67
+650	250	0
+651	250	0
+652	250	38207.6
+653	250	65554.8
+654	250	0
+655	250	56237.8
+656	250	0
+657	250	45457.5
+658	250	38197.5
+659	250	11823.2
+660	250	0
+661	250	13551.9
+662	250	67569.6
+663	250	38242.2
+664	250	106358
+665	250	4760.15
+666	250	0
+667	250	0
+668	250	0
+669	250	0
+670	250	0
+671	250	38175.3
+672	250	0
+673	250	0
+674	250	10615.7
+675	250	38222.5
+676	250	0
+677	250	37845.8
+678	250	37870.3
+679	250	37849
+680	250	37808.9
+681	250	0
+682	250	13732.6
+683	250	38097.3
+684	250	37975.4
+685	250	6378.47
+686	250	0
+687	250	0
+688	250	38161
+689	250	11938.6
+690	250	0
+691	250	37961.4
+692	250	88657.7
+693	250	0
+694	250	10397.3
+695	250	0
+696	250	0
+697	250	73552.3
+698	250	14719.1
+699	250	6604.9
+700	250	6942.85
+701	250	6084.3
+702	250	0
+703	250	0
+704	250	47164.6
+705	250	38394.2
+706	250	0
+707	250	38288
+708	250	97624.7
+709	250	8962.01
+710	250	0
+711	250	0
+712	250	9553.4
+713	250	3782.76
+714	250	3226.01
+715	250	0
+716	250	0
+717	250	10036.6
+718	250	9027.59
+719	250	92513.6
+720	250	13426.1
+721	250	8170.85
+722	250	0
+723	250	89530.8
+724	250	0
+725	250	38091.3
+726	250	11624.9
+727	250	0
+728	250	37904.5
+729	250	0
+730	250	22520.4
+731	250	6515.25
+732	250	0
+733	250	5921.59
+734	250	38346.3
+735	250	0
+736	250	38297.6
+737	250	0
+738	250	5249.45
+739	250	9453.05
+740	250	0
+741	250	0
+742	250	19268.1
+743	250	37850.7
+744	250	37982.8
+745	250	61460.8
+746	250	38245
+747	250	72453.6
+748	250	0
+749	250	0
+750	250	0
+751	250	13282.7
+752	250	6165.61
+753	250	16866.7
+754	250	83551.5
+755	250	0
+756	250	38264.4
+757	250	37911.6
+758	250	5213.66
+759	250	38336
+760	250	0
+761	250	11771.7
+762	250	4120.41
+763	250	0
+764	250	12153.3
+765	250	0
+766	250	0
+767	250	37925.9
+768	250	0
+769	250	88592.8
+770	250	3643.48
+771	250	38233.9
+772	250	0
+773	250	4858.41
+774	250	6902.12
+775	250	0
+776	250	38186.6
+777	250	0
+778	250	0
+779	250	13596.1
+780	250	65461.4
+781	250	11979.9
+782	250	0
+783	250	12572
+784	250	0
+785	250	0
+786	250	10684.7
+787	250	4168.73
+788	250	89205
+789	250	0
+790	250	15905.1
+791	250	5392.18
+792	250	14817.6
+793	250	5717.91
+794	250	38168.1
+795	250	2860.68
+796	250	37879.3
+797	250	0
+798	250	0
+799	250	7466.84
+800	250	2709.28
+801	250	37822.5
+802	250	2874.47
+803	250	0
+804	250	17482.2
+805	250	14605.2
+806	250	0
+807	250	76086
+808	250	0
+809	250	2675.28
+810	250	9613.26
+811	250	63786.8
+812	250	38023.5
+813	250	0
+814	250	60711.2
+815	250	124455
+816	250	7568.07
+817	250	6540.77
+818	250	8663.91
+819	250	0
+820	250	5187.95
+821	250	0
+822	250	5971.71
+823	250	7127.72
+824	250	92598.7
+825	250	0
+826	250	14570.5
+827	250	9332.23
+828	250	71981.3
+829	250	38224
+830	250	38146.7
+831	250	44268.4
+832	250	17204.3
+833	250	3336.76
+834	250	0
+835	250	59211.5
+836	250	0
+837	250	0
+838	250	6467.03
+839	250	4054.47
+840	250	8349.51
+841	250	5419.59
+842	250	13352.5
+843	250	38145.6
+844	250	37998.8
+845	250	6354.1
+846	250	0
+847	250	12235.4
+848	250	0
+849	250	0
+850	250	11348.3
+851	250	38120
+852	250	12417.4
+853	250	37954.8
+854	250	5340.34
+855	250	0
+856	250	0
+857	250	0
+858	250	9364.55
+859	250	13918
+860	250	85613.9
+861	250	14598.2
+862	250	53954.5
+863	250	0
+864	250	4036.15
+865	250	88855.9
+866	250	0
+867	250	0
+868	250	5513.01
+869	250	0
+870	250	0
+871	250	0
+872	250	13326.4
+873	250	0
+874	250	5431.48
+875	250	9194.27
+876	250	0
+877	250	11769.9
+878	250	19957.7
+879	250	5662.22
+880	250	11038.6
+881	250	0
+882	250	0
+883	250	8513.24
+884	250	0
+885	250	38391.5
+886	250	0
+887	250	48192.4
+888	250	37861.8
+889	250	0
+890	250	37859.4
+891	250	0
+892	250	15154.1
+893	250	12208.6
+894	250	17384.5
+895	250	17808.1
+896	250	8548.31
+897	250	0
+898	250	38259.8
+899	250	0
+900	250	6289.88
+901	250	7179.81
+902	250	0
+903	250	0
+904	250	13828
+905	250	9985.07
+906	250	0
+907	250	0
+908	250	30669.5
+909	250	35728
+910	250	2893.06
+911	250	38037.5
+912	250	0
+913	250	6865.23
+914	250	0
+915	250	10049.6
+916	250	0
+917	250	67132
+918	250	0
+919	250	0
+920	250	0
+921	250	3298.19
+922	250	4933.58
+923	250	37868.6
+924	250	11364.4
+925	250	10549.3
+926	250	38042.5
+927	250	74695.9
+928	250	12287
+929	250	8195.57
+930	250	37837.2
+931	250	37961.6
+932	250	0
+933	250	5099.13
+934	250	5652.8
+935	250	0
+936	250	0
+937	250	109538
+938	250	0
+939	250	38034.8
+940	250	58529
+941	250	13369.5
+942	250	50952.7
+943	250	0
+944	250	38282.1
+945	250	0
+946	250	0
+947	250	11691.4
+948	250	37878
+949	250	37899.3
+950	250	38005.6
+951	250	38205.8
+952	250	0
+953	250	13996.8
+954	250	5161.95
+955	250	37920.5
+956	250	38113.6
+957	250	0
+958	250	12008.1
+959	250	7633.65
+960	250	2435.11
+961	250	6252.34
+962	250	0
+963	250	3364.3
+964	250	38259.9
+965	250	38218.2
+966	250	0
+967	250	37807.2
+968	250	15780.6
+969	250	0
+970	250	13040.6
+971	250	0
+972	250	8030.89
+973	250	0
+974	250	3079.97
+975	250	66980.3
+976	250	140613
+977	250	0
+978	250	0
+979	250	76624.3
+980	250	70289.3
+981	250	10176.6
+982	250	37879.4
+983	250	0
+984	250	11307.1
+985	250	5956.8
+986	250	75556.1
+987	250	37992.6
+988	250	38295.5
+989	250	8609.23
+990	250	12445.2
+991	250	38095.4
+992	250	0
+993	250	37804.3
+994	250	0
+995	250	62524.9
+996	250	10081.7
+997	250	0
+998	250	12717.1
+999	250	38218.4
+1000	250	38055.9
+1001	250	4485.98
+1002	250	0
+1003	250	15061.6
+1004	250	61019.2
+1005	250	38040.4
+1006	250	86812.7
+1007	250	0
+1008	250	0
+1009	250	14313.5
+1010	250	0
+1011	250	38390.1
+1012	250	9537.94
+1013	250	15336.4
+1014	250	0
+1015	250	0
+1016	250	3667.97
+1017	250	0
+1018	250	6152.17
+1019	250	7960.75
+1020	250	59850.3
+1021	250	8772.5
+1022	250	0
+1023	250	37987.6
+1024	250	3159.08
+1025	250	6201.38
+1026	250	0
+1027	250	72709.5
+1028	250	7647.29
+1029	250	4236.92
+1030	250	38258.5
+1031	250	0
+1032	250	6330.6
+1033	250	3987.03
+1034	250	4186.3
+1035	250	38215.3
+1036	250	73911.8
+1037	250	0
+1038	250	0
+1039	250	13442.8
+1040	250	0
+1041	250	44098.5
+1042	250	0
+1043	250	0
+1044	250	38069.3
+1045	250	0
+1046	250	38013.2
+1047	250	38028.7
+1048	250	37998.6
+1049	250	74483.6
+1050	250	4334.82
+1051	250	3377.98
+1052	250	9964.99
+1053	250	0
+1054	250	15830.5
+1055	250	0
+1056	250	0
+1057	250	60597.1
+1058	250	11203.8
+1059	250	9796.25
+1060	250	5790.72
+1061	250	26557.3
+1062	250	0
+1063	250	0
+1064	250	0
+1065	250	38336.7
+1066	250	0
+1067	250	80698.7
+1068	250	10590.1
+1069	250	37964.7
+1070	250	11913.5
+1071	250	37877.5
+1072	250	11073.4
+1073	250	11106.3
+1074	250	38320.6
+1075	250	0
+1076	250	11708.1
+1077	250	38050.2
+1078	250	37883.5
+1079	250	6192.35
+1080	250	37882.2
+1081	250	0
+1082	250	90471.1
+1083	250	0
+1084	250	15807.7
+1085	250	99123.1
+1086	250	55116.6
+1087	250	3975.44
+1088	250	38310.3
+1089	250	0
+1090	250	14105.6
+1091	250	75212.4
+1092	250	37891.4
+1093	250	7035.69
+1094	250	10318.7
+1095	250	38279.3
+1096	250	12731.5
+1097	250	6009.23
+1098	250	37986.5
+1099	250	5931.45
+1100	250	7219.66
+1101	250	38152.8
+1102	250	15136.7
+1103	250	0
+1104	250	0
+1105	250	90146.4
+1106	250	0
+1107	250	7100.5
+1108	250	18295.4
+1109	250	8268.92
+1110	250	0
+1111	250	38281.8
+1112	250	0
+1113	250	37911.4
+1114	250	0
+1115	250	0
+1116	250	38218.3
+1117	250	15180.4
+1118	250	8200.25
+1119	250	0
+1120	250	0
+1121	250	70191.6
+1122	250	7994.43
+1123	250	0
+1124	250	10761.4
+1125	250	8091.87
+1126	250	12798
+1127	250	91005.1
+1128	250	38052.4
+1129	250	0
+1130	250	0
+1131	250	71186.9
+1132	250	0
+1133	250	0
+1134	250	0
+1135	250	0
+1136	250	38119.8
+1137	250	38052.2
+1138	250	133672
+1139	250	66363.2
+1140	250	38224.4
+1141	250	0
+1142	250	0
+1143	250	63612.5
+1144	250	64884.2
+1145	250	44016.8
+1146	250	0
+1147	250	0
+1148	250	6804.26
+1149	250	6788.7
+1150	250	7988.81
+1151	250	37867.4
+1152	250	38127.5
+1153	250	94288.1
+1154	250	37807.7
+1155	250	68890.9
+1156	250	16707.9
+1157	250	0
+1158	250	8182.72
+1159	250	6594.51
+1160	250	0
+1161	250	0
+1162	250	12197.8
+1163	250	43467.2
+1164	250	0
+1165	250	7192.18
+1166	250	0
+1167	250	14044.8
+1168	250	0
+1169	250	0
+1170	250	124420
+1171	250	37933.7
+1172	250	4280.87
+1173	250	38336.3
+1174	250	0
+1175	250	0
+1176	250	37805.5
+1177	250	0
+1178	250	59824
+1179	250	5853.41
+1180	250	95556.4
+1181	250	8062.37
+1182	250	38371.6
+1183	250	11320.2
+1184	250	38142.6
+1185	250	58004.3
+1186	250	8280.57
+1187	250	38269.4
+1188	250	38207.4
+1189	250	0
+1190	250	0
+1191	250	0
+1192	250	0
+1193	250	22787.6
+1194	250	38386.4
+1195	250	4909.53
+1196	250	0
+1197	250	37888
+1198	250	37899.5
+1199	250	65947.8
+1200	250	9999.58
+1201	250	0
+1202	250	38177.1
+1203	250	0
+1204	250	0
+1205	250	3430.67
+1206	250	8534.08
+1207	250	0
+1208	250	37806.5
+1209	250	41527.7
+1210	250	38064.1
+1211	250	8936.12
+1212	250	38367
+1213	250	38126.9
+1214	250	38266
+1215	250	4442.2
+1216	250	0
+1217	250	6265.7
+1218	250	2766.72
+1219	250	16100.2
+1220	250	6688.24
+1221	250	6390.05
+1222	250	0
+1223	250	0
+1224	250	4816.05
+1225	250	38100.7
+1226	250	66339.5
+1227	250	0
+1228	250	58994.7
+1229	250	0
+1230	250	13354.1
+1231	250	37895
+1232	250	0
+1233	250	0
+1234	250	96435.4
+1235	250	38242.4
+1236	250	2959.48
+1237	250	7653.56
+1238	250	0
+1239	250	38327.5
+1240	250	4094.09
+1241	250	0
+1242	250	8242.83
+1243	250	0
+1244	250	38243.4
+1245	250	8813.8
+1246	250	50054.7
+1247	250	0
+1248	250	0
+1249	250	37963.2
+1250	250	63246.6
+1251	250	3465.12
+1252	250	13668.8
+1253	250	38206.4
+1254	250	16265.8
+1255	250	38076.8
+1256	250	0
+1257	250	0
+1258	250	0
+1259	250	38330.7
+1260	250	5225.49
+1261	250	3680.37
+1262	250	0
+1263	250	11906.5
+1264	250	4391.71
+1265	250	13294.9
+1266	250	4709.05
+1267	250	0
+1268	250	5995.18
+1269	250	74486.4
+1270	250	75528
+1271	250	17911.8
+1272	250	9338.04
+1273	250	0
+1274	250	38383.8
+1275	250	38141.9
+1276	250	8580.66
+1277	250	16607
+1278	250	56811.1
+1279	250	11733.7
+1280	250	3125.84
+1281	250	3795.12
+1282	250	0
+1283	250	37897.4
+1284	250	0
+1285	250	15922.4
+1286	250	60449
+1287	250	11344.4
+1288	250	10918.8
+1289	250	49019.6
+1290	250	0
+1291	250	38336.9
+1292	250	10997.5
+1293	250	0
+1294	250	13922.2
+1295	250	108054
+1296	250	10453.7
+1297	250	10518
+1298	250	7850.79
+1299	250	11010.8
+1300	250	0
+1301	250	3112.31
+1302	250	0
+1303	250	0
+1304	250	7020
+1305	250	0
+1306	250	6581.04
+1307	250	6397.97
+1308	250	0
+1309	250	0
+1310	250	22889.8
+1311	250	73755.9
+1312	250	0
+1313	250	69272.3
+1314	250	6664.87
+1315	250	0
+1316	250	11797.6
+1317	250	13286.4
+1318	250	0
+1319	250	38035.3
+1320	250	3187.58
+1321	250	8407.72
+1322	250	37950.1
+1323	250	38344.3
+1324	250	38041.7
+1325	250	38326.8
+1326	250	10315.7
+1327	250	9509.14
+1328	250	0
+1329	250	0
+1330	250	5590.74
+1331	250	0
+1332	250	38190.1
+1333	250	0
+1334	250	0
+1335	250	38173.2
+1336	250	38323.8
+1337	250	0
+1338	250	17470.1
+1339	250	0
+1340	250	37893.9
+1341	250	0
+1342	250	38215.8
+1343	250	0
+1344	250	7375.23
+1345	250	0
+1346	250	0
+1347	250	85956.4
+1348	250	37902.9
+1349	250	0
+1350	250	37879.3
+1351	250	38306.7
+1352	250	4516.42
+1353	250	0
+1354	250	0
+1355	250	0
+1356	250	0
+1357	250	104956
+1358	250	37933.6
+1359	250	5649.05
+1360	250	3564.29
+1361	250	37852.4
+1362	250	39962
+1363	250	9119.89
+1364	250	4564.36
+1365	250	38068.8
+1366	250	3526.45
+1367	250	38146
+1368	250	112398
+1369	250	0
+1370	250	38281.3
+1371	250	38391.6
+1372	250	37910.9
+1373	250	63841.4
+1374	250	4026.6
+1375	250	3568.49
+1376	250	7328.3
+1377	250	0
+1378	250	14481
+1379	250	0
+1380	250	38327.2
+1381	250	0
+1382	250	38099.9
+1383	250	12661.2
+1384	250	0
+1385	250	38188.5
+1386	250	0
+1387	250	78715.7
+1388	250	109268
+1389	250	5123.18
+1390	250	9066.18
+1391	250	0
+1392	250	4433.41
+1393	250	5025.49
+1394	250	38225.9
+1395	250	5111.37
+1396	250	38278.1
+1397	250	0
+1398	250	0
+1399	250	42688.1
+1400	250	4711.85
+1401	250	13338.3
+1402	250	4646.84
+1403	250	5050.05
+1404	250	38245.6
+1405	250	0
+1406	250	38114.8
+1407	250	38395.4
+1408	250	2545.14
+1409	250	38046.9
+1410	250	7595.71
+1411	250	80649.8
+1412	250	67292.9
+1413	250	37980.9
+1414	250	0
+1415	250	0
+1416	250	2806.05
+1417	250	14735.8
+1418	250	0
+1419	250	18508.6
+1420	250	38209.7
+1421	250	11552.6
+1422	250	0
+1423	250	15449.7
+1424	250	37859.8
+1425	250	0
+1426	250	87902.1
+1427	250	0
+1428	250	38341.5
+1429	250	0
+1430	250	0
+1431	250	0
+1432	250	38142.6
+1433	250	93372.6
+1434	250	0
+1435	250	2724
+1436	250	41713.8
+1437	250	38110.2
+1438	250	38302.8
+1439	250	0
+1440	250	38154.4
+1441	250	40025.3
+1442	250	10865.8
+1443	250	13226.6
+1444	250	0
+1445	250	0
+1446	250	16496.9
+1447	250	7207.57
+1448	250	38374.6
+1449	250	2489.29
+1450	250	76881.6
+1451	250	4199.15
+1452	250	38116.7
+1453	250	38309.4
+1454	250	0
+1455	250	36782.6
+1456	250	4945.4
+1457	250	38390.7
+1458	250	105490
+1459	250	37871.4
+1460	250	71325.7
+1461	250	38110.2
+1462	250	59545.7
+1463	250	8310.37
+1464	250	8997.2
+1465	250	8104.13
+1466	250	15406.2
+1467	250	6527.88
+1468	250	7167.53
+1469	250	0
+1470	250	12867.7
+1471	250	14461.3
+1472	250	3936.97
+1473	250	38337.7
+1474	250	3948.84
+1475	250	14011.1
+1476	250	6365.79
+1477	250	6189.33
+1478	250	7303.17
+1479	250	0
+1480	250	7948.16
+1481	250	0
+1482	250	75402.8
+1483	250	38289.3
+1484	250	8561.2
+1485	250	0
+1486	250	0
+1487	250	0
+1488	250	0
+1489	250	78718.4
+1490	250	38160.9
+1491	250	5720.76
+1492	250	10125.4
+1493	250	6277.7
+1494	250	0
+1495	250	7887.8
+1496	250	57500.6
+1497	250	7757.12
+1498	250	38319.8
+1499	250	0
+1500	250	13421.9
+1501	250	3175.54
+1502	250	38203.4
+1503	250	38012.3
+1504	250	5443.7
+1505	250	0
+1506	250	0
+1507	250	0
+1508	250	38006
+1509	250	76090.8
+1510	250	38155.4
+1511	250	66967.4
+1512	250	37884.9
+1513	250	38369.3
+1514	250	3489.6
+1515	250	17118.6
+1516	250	0
+1517	250	33070.1
+1518	250	0
+1519	250	38023.1
+1520	250	0
+1521	250	0
+1522	250	38129.3
+1523	250	27666.9
+1524	250	0
+1525	250	5635.1
+1526	250	0
+1527	250	8737.4
+1528	250	0
+1529	250	31312.6
+1530	250	38346.7
+1531	250	38261.7
+1532	250	17029.6
+1533	250	38388.8
+1534	250	47695.9
+1535	250	37822.1
+1536	250	25790
+1537	250	128749
+1538	250	38348
+1539	250	9299.45
+1540	250	77825.2
+1541	250	0
+1542	250	38083.2
+1543	250	12109.1
+1544	250	0
+1545	250	38279
+1546	250	71606.3
+1547	250	10826.1
+1548	250	0
+1549	250	76068.8
+1550	250	2582.32
+1551	250	76257.4
+1552	250	0
+1553	250	64441.4
+1554	250	96005.6
+1555	250	0
+1556	250	0
+1557	250	37850.4
+1558	250	38158.3
+1559	250	93069.8
+1560	250	7231.82
+1561	250	0
+1562	250	38254.6
+1563	250	4574.68
+1564	250	87182
+1565	250	0
+1566	250	3576.91
+1567	250	4225.3
+1568	250	10409
+1569	250	9679.69
+1570	250	90721.5
+1571	250	10138.6
+1572	250	0
+1573	250	8079.38
+1574	250	13711.6
+1575	250	0
+1576	250	8948.08
+1577	250	14068.9
+1578	250	0
+1579	250	0
+1580	250	38374.4
+1581	250	0
+1582	250	0
+1583	250	7427.76
+1584	250	38392.6
+1585	250	0
+1586	250	8803.75
+1587	250	0
+1588	250	7529.91
+1589	250	37814
+1590	250	3911.93
+1591	250	37800.1
+1592	250	4309.33
+1593	250	0
+1594	250	17646.2
+1595	250	7715.37
+1596	250	0
+1597	250	0
+1598	250	68362.4
+1599	250	8426.02
+1600	250	0
+1601	250	77225.2
+1602	250	15381.5
+1603	250	4373.32
+1604	250	9940.98
+1605	250	62857.2
+1606	250	38351.5
+1607	250	46127
+1608	250	0
+1609	250	11124.4
+1610	250	6567.47
+1611	250	0
+1612	250	37900.8
+1613	250	5048.08
+1614	250	8838.55
+1615	250	0
+1616	250	16756.5
+1617	250	38309.3
+1618	250	0
+1619	250	38178.5
+1620	250	2682.07
+1621	250	0
+1622	250	75057.3
+1623	250	6903.64
+1624	250	54132.4
+1625	250	15519.7
+1626	250	38730.6
+1627	250	0
+1628	250	38034.1
+1629	250	3477.53
+1630	250	131844
+1631	250	0
+1632	250	0
+1633	250	59532.3
+1634	250	8721.37
+1635	250	75660.5
+1636	250	0
+1637	250	4774.84
+1638	250	10251
+1639	250	3808.01
+1640	250	6672.11
+1641	250	0
+1642	250	0
+1643	250	10111
+1644	250	8298.48
+1645	250	9481.81
+1646	250	0
+1647	250	38142.9
+1648	250	8866.89
+1649	250	0
+1650	250	7175.68
+1651	250	137074
+1652	250	8323.7
+1653	250	38237.6
+1654	250	0
+1655	250	13517.3
+1656	250	10063.9
+1657	250	49292.4
+1658	250	0
+1659	250	7493.96
+1660	250	37927.9
+1661	250	59786.8
+1662	250	26233.6
+1663	250	0
+1664	250	11605
+1665	250	38118.4
+1666	250	0
+1667	250	7742.75
+1668	250	0
+1669	250	60713.4
+1670	250	11666.9
+1671	250	17933.2
+1672	250	37807
+1673	250	0
+1674	250	0
+1675	250	10303.8
+1676	250	25684.1
+1677	250	11521.9
+1678	250	8054.71
+1679	250	4528.19
+1680	250	13139.7
+1681	250	0
+1682	250	14514.1
+1683	250	0
+1684	250	0
+1685	250	38223.8
+1686	250	38153.4
+1687	250	61953.4
+1688	250	0
+1689	250	0
+1690	250	0
+1691	250	5265.24
+1692	250	14245.6
+1693	250	0
+1694	250	0
+1695	250	5458.64
+1696	250	0
+1697	250	90473.2
+1698	250	38366.1
+1699	250	56097.5
+1700	250	38052.3
+1701	250	13208.5
+1702	250	0
+1703	250	11882.8
+1704	250	0
+1705	250	9012.08
+1706	250	38019.4
+1707	250	0
+1708	250	9957.13
+1709	250	0
+1710	250	0
+1711	250	0
+1712	250	5729.53
+1713	250	53809.9
+1714	250	43552.3
+1715	250	8881.31
+1716	250	0
+1717	250	0
+1718	250	8826.87
+1719	250	16492.9
+1720	250	70458
+1721	250	58715
+1722	250	0
+1723	250	7581.14
+1724	250	15828.5
+1725	250	89792.1
+1726	250	71492
+1727	250	0
+1728	250	8128.96
+1729	250	39155.2
+1730	250	0
+1731	250	9497.15
+1732	250	0
+1733	250	37893
+1734	250	3969.6
+1735	250	9116.43
+1736	250	37900.9
+1737	250	0
+1738	250	15663.2
+1739	250	0
+1740	250	3039.9
+1741	250	84819.4
+1742	250	0
+1743	250	66486.6
+1744	250	11191.7
+1745	250	0
+1746	250	0
+1747	250	0
+1748	250	8337.8
+1749	250	13014
+1750	250	141119
+1751	250	9325.43
+1752	250	93267.6
+1753	250	12757.9
+1754	250	38263.6
+1755	250	38015.1
+1756	250	6452.56
+1757	250	10530
+1758	250	37980.8
+1759	250	3501.6
+1760	250	0
+1761	250	0
+1762	250	38312.8
+1763	250	15197.1
+1764	250	5116.39
+1765	250	13130.7
+1766	250	95890.3
+1767	250	12628
+1768	250	2422.32
+1769	250	7975.85
+1770	250	37965.5
+1771	250	38335.7
+1772	250	0
+1773	250	0
+1774	250	5846.45
+1775	250	0
+1776	250	38277.3
+1777	250	0
+1778	250	0
+1779	250	89208.2
+1780	250	4979.08
+1781	250	0
+1782	250	0
+1783	250	0
+1784	250	0
+1785	250	0
+1786	250	7832.41
+1787	250	10150.6
+1788	250	37860.7
+1789	250	0
+1790	250	0
+1791	250	11484.7
+1792	250	3200.34
+1793	250	0
+1794	250	3859.41
+1795	250	37917.2
+1796	250	0
+1797	250	0
+1798	250	38003.6
+1799	250	0
+1800	250	5327.62
+1801	250	0
+1802	250	15666.7
+1803	250	0
+1804	250	0
+1805	250	15952.3
+1806	250	0
+1807	250	12134.5
+1808	250	8907
+1809	250	9824.73
+1810	250	2907.51
+1811	250	0
+1812	250	0
+1813	250	38159.7
+1814	250	108857
+1815	250	69093.3
+1816	250	12469.5
+1817	250	10603.3
+1818	250	7857.01
+1819	250	0
+1820	250	5075.15
+1821	250	6213.45
+1822	250	2779.53
+1823	250	0
+1824	250	38221.6
+1825	250	0
+1826	250	62266.5
+1827	250	8445.85
+1828	250	14980.2
+1829	250	38289.4
+1830	250	7106.5
+1831	250	0
+1832	250	0
+1833	250	0
+1834	250	4474.3
+1835	250	41162.3
+1836	250	8255.97
+1837	250	5405.51
+1838	250	4685.68
+1839	250	16003.8
+1840	250	11748.1
+1841	250	0
+1842	250	0
+1843	250	14707.3
+1844	250	0
+1845	250	0
+1846	250	4174.48
+1847	250	17282.2
+1848	250	5918.79
+1849	250	0
+1850	250	72669
+1851	250	0
+1852	250	0
+1853	250	37868
+1854	250	13311.8
+1855	250	13276.4
+1856	250	0
+1857	250	4603.54
+1858	250	80957.8
+1859	250	7247.76
+1860	250	38217.6
+1861	250	2403.4
+1862	250	38354.7
+1863	250	38302.9
+1864	250	9343.13
+1865	250	0
+1866	250	0
+1867	250	0
+1868	250	22263
+1869	250	38127.3
+1870	250	6047.09
+1871	250	0
+1872	250	9524.4
+1873	250	5251.84
+1874	250	0
+1875	250	39115.1
+1876	250	5147.32
+1877	250	0
+1878	250	70785
+1879	250	0
+1880	250	49930.6
+1881	250	0
+1882	250	38354
+1883	250	14590
+1884	250	0
+1885	250	8695.77
+1886	250	0
+1887	250	0
+1888	250	9322.46
+1889	250	4448.05
+1890	250	14902
+1891	250	38212.8
+1892	250	0
+1893	250	91853.6
+1894	250	7819.97
+1895	250	0
+1896	250	3999.99
+1897	250	0
+1898	250	37949.9
+1899	250	8870.67
+1900	250	13101.9
+1901	250	60473.1
+1902	250	17812.6
+1903	250	6122.08
+1904	250	88607
+1905	250	38158.5
+1906	250	38258.7
+1907	250	16261.8
+1908	250	60348.2
+1909	250	0
+1910	250	4746.77
+1911	250	38013.1
+1912	250	0
+1913	250	0
+1914	250	0
+1915	250	0
+1916	250	4882.34
+1917	250	0
+1918	250	0
+1919	250	5882.42
+1920	250	0
+1921	250	86396.7
+1922	250	0
+1923	250	0
+1924	250	0
+1925	250	106677
+1926	250	0
+1927	250	0
+1928	250	38299.1
+1929	250	4642.62
+1930	250	12405.9
+1931	250	75893.1
+1932	250	86492
+1933	250	0
+1934	250	0
+1935	250	0
+1936	250	0
+1937	250	10105.3
+1938	250	11982.3
+1939	250	0
+1940	250	14553.4
+1941	250	60387.4
+1942	250	38069.8
+1943	250	37944.3
+1944	250	12061.8
+1945	250	37844.6
+1946	250	18069.4
+1947	250	11926.1
+1948	250	38068.2
+1949	250	0
+1950	250	0
+1951	250	0
+1952	250	16829.1
+1953	250	5577.68
+1954	250	63752.3
+1955	250	3636.2
+1956	250	16352.2
+1957	250	8501.27
+1958	250	57946
+1959	250	2933.04
+1960	250	0
+1961	250	38035.4
+1962	250	0
+1963	250	95300.9
+1964	250	0
+1965	250	15400.1
+1966	250	2594.09
+1967	250	3551.63
+1968	250	75781.4
+1969	250	5519.87
+1970	250	3496.97
+1971	250	4155.99
+1972	250	38353.3
+1973	250	5500.32
+1974	250	38192.7
+1975	250	38101.1
+1976	250	0
+1977	250	0
+1978	250	9837.59
+1979	250	5277.7
+1980	250	6476.29
+1981	250	4107.67
+1982	250	5451.86
+1983	250	38324.3
+1984	250	10682
+1985	250	0
+1986	250	0
+1987	250	76909.9
+1988	250	0
+1989	250	0
+1990	250	10951.7
+1991	250	0
+1992	250	37847.8
+1993	250	57464.4
+1994	250	38179.1
+1995	250	37806.7
+1996	250	0
+1997	250	5675.38
+1998	250	6676.64
+1999	250	37874.3
+2000	250	0
+2001	250	0
+2002	250	6835.51
+2003	250	0
+2004	250	38233
+2005	250	65053.9
+2006	250	14057.7
+2007	250	2629.47
+2008	250	38325.5
+2009	250	0
+2010	250	0
+2011	250	38089.6
+2012	250	3885.86
+2013	250	122561
+2014	250	10538
+2015	250	0
+2016	250	0
+2017	250	38313
+2018	250	0
+2019	250	0
+2020	250	8131.12
+2021	250	4720.85
+2022	250	0
+2023	250	0
+2024	250	11395.7
+2025	250	3769.25
+2026	250	0
+2027	250	0
+2028	250	5906.98
+2029	250	0
+2030	250	16186.5
+2031	250	0
+2032	250	69689.4
+2033	250	38187.3
+2034	250	38308.6
+2035	250	0
+2036	250	13002.9
+2037	250	0
+2038	250	4349.61
+2039	250	2972.87
+2040	250	38370.1
+2041	250	39090.6
+2042	250	0
+2043	250	0
+2044	250	64862.3
+2045	250	38051.7
+2046	250	103506
+2047	250	0
+2048	250	0
+2049	250	0
+2050	250	0
+2051	250	0
+2052	250	0
+2053	250	97691.9
+2054	250	0
+2055	250	0
+2056	250	65345.8
+2057	250	6775.22
+2058	250	2947.34
+2059	250	0
+2060	250	11950.7
+2061	250	12888.7
+2062	250	37878
+2063	250	0
+2064	250	0
+2065	250	66257.5
+2066	250	3539.66
+2067	250	101215
+2068	250	0
+2069	250	6059.88
+2070	250	37919.4
+2071	250	0
+2072	250	5688.13
+2073	250	0
+2074	250	25292.3
+2075	250	3255.5
+2076	250	0
+2077	250	3702.76
+2078	250	0
+2079	250	37998.5
+2080	250	9822.55
+2081	250	0
+2082	250	61498.9
+2083	250	16412.3
+2084	250	38375.8
+2085	250	77230.4
+2086	250	0
+2087	250	0
+2088	250	15167.9
+2089	250	3138.26
+2090	250	0
+2091	250	10577.5
+2092	250	61011.5
+2093	250	76656.5
+2094	250	38240.4
+2095	250	6327.83
+2096	250	0
+2097	250	6402.72
+2098	250	0
+2099	250	7347.54
+2100	250	3427.48
+2101	250	0
+2102	250	0
+2103	250	54219.3
+2104	250	0
+2105	250	0
+2106	250	0
+2107	250	101870
+2108	250	0
+2109	250	3401.69
+2110	250	38206.4
+2111	250	3706.68
+2112	250	10809.7
+2113	250	76269.2
+2114	250	0
+2115	250	16335.2
+2116	250	0
+2117	250	23729.4
+2118	250	10162.6
+2119	250	0
+2120	250	13933.4
+2121	250	0
+2122	250	0
+2123	250	12281.7
+2124	250	16543.6
+2125	250	0
+2126	250	4042.8
+2127	250	0
+2128	250	66964.7
+2129	250	17857.9
+2130	250	0
+2131	250	16005.5
+2132	250	51732.6
+2133	250	0
+2134	250	0
+2135	250	0
+2136	250	13501.5
+2137	250	10984.4
+2138	250	38355.2
+2139	250	0
+2140	250	6746.32
+2141	250	5315.22
+2142	250	37919.7
+2143	250	0
+2144	250	38108
+2145	250	0
+2146	250	0
+2147	250	7415.2
+2148	250	14118.2
+2149	250	0
+2150	250	95963.1
+2151	250	13164.4
+2152	250	56057.7
+2153	250	0
+2154	250	7505.7
+2155	250	12349.8
+2156	250	0
+2157	250	37918.9
+2158	250	7789.03
+2159	250	0
+2160	250	38014.8
+2161	250	107737
+2162	250	0
+2163	250	0
+2164	250	6114
+2165	250	0
+2166	250	0
+2167	250	145602
+2168	250	38197.8
+2169	250	16467.9
+2170	250	58520.3
+2171	250	37918.5
+2172	250	0
+2173	250	4211.21
+2174	250	4802.46
+2175	250	103924
+2176	250	11054.1
+2177	250	37804
+2178	250	38246.3
+2179	250	0
+2180	250	0
+2181	250	7662.88
+2182	250	0
+2183	250	8156.93
+2184	250	14839.1
+2185	250	0
+2186	250	38026.8
+2187	250	8475.24
+2188	250	112672
+2189	250	0
+2190	250	0
+2191	250	9009.86
+2192	250	8650.14
+2193	250	38034.2
+2194	250	10178.6
+2195	250	11840.5
+2196	250	9675.54
+2197	250	6225.77
+2198	250	16624.7
+2199	250	10390.7
+2200	250	8263.35
+2201	250	10907
+2202	250	13698.6
+2203	250	0
+2204	250	67468.4
+2205	250	38354.5
+2206	250	0
+2207	250	10853.7
+2208	250	2570.41
+2209	250	38101.6
+2210	250	14196.1
+2211	250	8118.77
+2212	250	0
+2213	250	70922.3
+2214	250	37983
+2215	250	81299.5
+2216	250	9148.34
+2217	250	0
+2218	250	38263.9
+2219	250	3903.15
+2220	250	0
+2221	250	0
+2222	250	0
+2223	250	38059.3
+2224	250	9103.49
+2225	250	6239.38
+2226	250	3718.29
+2227	250	0
+2228	250	4894.44
+2229	250	38136.2
+2230	250	0
+2231	250	0
+2232	250	0
+2233	250	37959.5
+2234	250	0
+2235	250	0
+2236	250	30154.2
+2237	250	0
+2238	250	0
+2239	250	0
+2240	250	5585.85
+2241	250	0
+2242	250	0
+2243	250	0
+2244	250	0
+2245	250	0
+2246	250	8621.89
+2247	250	7794.85
+2248	250	97506.4
+2249	250	0
+2250	250	14519
+2251	250	0
+2252	250	4102.17
+2253	250	38183.4
+2254	250	37859.2
+2255	250	0
+2256	250	38350.6
+2257	250	0
+2258	250	37955.2
+2259	250	0
+2260	250	38286.6
+2261	250	0
+2262	250	112008
+2263	250	68808.7
+2264	250	0
+2265	250	12970.7
+2266	250	37923.1
+2267	250	0
+2268	250	13148.5
+2269	250	37822.6
+2270	250	7050.13
+2271	250	0
+2272	250	64772.4
+2273	250	3819.95
+2274	250	119620
+2275	250	8143.49
+2276	250	88928.2
+2277	250	38194.4
+2278	250	0
+2279	250	45268.3
+2280	250	11427.9
+2281	250	38108.4
+2282	250	0
+2283	250	4921.51
+2284	250	0
+2285	250	63364.4
+2286	250	38267.1
+2287	250	37853.2
+2288	250	11268.3
+2289	250	0
+2290	250	37889.7
+2291	250	83653.9
+2292	250	0
+2293	250	37949.8
+2294	250	0
+2295	250	0
+2296	250	7555.86
+2297	250	12933.6
+2298	250	37870.1
+2299	250	9439.36
+2300	250	64354.4
+2301	250	16429.6
+2302	250	0
+2303	250	12483.3
+2304	250	0
+2305	250	38139.5
+2306	250	8066.26
+2307	250	38279.5
+2308	250	8943.85
+2309	250	89668.9
+2310	250	0
+2311	250	75820.4
+2312	250	0
+2313	250	12549.1
+2314	250	39523.6
+2315	250	10711.2
+2316	250	0
+2317	250	0
+2318	250	17596.2
+2319	250	0
+2320	250	38125.8
+2321	250	9180.71
+2322	250	5983.62
+2323	250	37905.2
+2324	250	9687.37
+2325	250	10644.5
+2326	250	10035
+2327	250	0
+2328	250	0
+2329	250	4777.83
+2330	250	3151.12
+2331	250	4366.78
+2332	250	104451
+2333	250	37810.3
+2334	250	4508.66
+2335	250	9717.58
+2336	250	0
+2337	250	7155.75
+2338	250	0
+2339	250	0
+2340	250	7087.21
+2341	250	38279.7
+2342	250	5802.33
+2343	250	0
+2344	250	0
+2345	250	75275.7
+2346	250	0
+2347	250	0
+2348	250	9901.12
+2349	250	38006.9
+2350	250	0
+2351	250	5317.56
+2352	250	51240.8
+2353	250	0
+2354	250	40013.5
+2355	250	37841.8
+2356	250	0
+2357	250	38221.4
+2358	250	15768.8
+2359	250	38170.5
+2360	250	0
+2361	250	0
+2362	250	38334.4
+2363	250	37822.1
+2364	250	0
+2365	250	57918.8
+2366	250	38375.9
+2367	250	0
+2368	250	37899.9
+2369	250	0
+2370	250	3025.19
+2371	250	50180.7
+2372	250	2469.81
+2373	250	0
+2374	250	17608.5
+2375	250	0
+2376	250	38081.5
+2377	250	75470.4
+2378	250	0
+2379	250	38093.3
+2380	250	97156.4
+2381	250	7862.73
+2382	250	38174.7
+2383	250	18895.4
+2384	250	2503.53
+2385	250	7075.58
+2386	250	0
+2387	250	15374.1
+2388	250	25918.6
+2389	250	38368.1
+2390	250	0
+2391	250	53821.9
+2392	250	38162
+2393	250	0
+2394	250	109411
+2395	250	37926.3
+2396	250	0
+2397	250	5302.26
+2398	250	3618.14
+2399	250	38063.7
+2400	250	0
+2401	250	2744.49
+2402	250	37814.8
+2403	250	0
+2404	250	0
+2405	250	0
+2406	250	0
+2407	250	74471.3
+2408	250	12954.3
+2409	250	0
+2410	250	59121.9
+2411	250	70552.3
+2412	250	0
+2413	250	0
+2414	250	9050.79
+2415	250	6641.49
+2416	250	11682.5
+2417	250	6314.47
+2418	250	74788.3
+2419	250	0
+2420	250	0
+2421	250	0
+2422	250	0
+2423	250	64854.2
+2424	250	27512
+2425	250	0
+2426	250	4403.36
+2427	250	0
+2428	250	9244.68
+2429	250	37854.6
+2430	250	10982.4
+2431	250	6839.45
+2432	250	0
+2433	250	7777.23
+2434	250	0
+2435	250	5012.84
+2436	250	0
+2437	250	3390.01
+2438	250	18406
+2439	250	0
+2440	250	16431.2
+2441	250	13488.8
+2442	250	70502.3
+2443	250	38252.6
+2444	250	13440.5
+2445	250	38265.1
+2446	250	4591.82
+2447	250	0
+2448	250	0
+2449	250	0
+2450	250	0
+2451	250	38310
+2452	250	74228.6
+2453	250	6853.22
+2454	250	0
+2455	250	0
+2456	250	37808.9
+2457	250	0
+2458	250	100356
+2459	250	42426.9
+2460	250	70495.3
+2461	250	6822.55
+2462	250	4241.02
+2463	250	4265.04
+2464	250	6700.8
+2465	250	0
+2466	250	38110.5
+2467	250	2643.42
+2468	250	38208.7
+2469	250	14174.1
+2470	250	13908.2
+2471	250	0
+2472	250	16686.8
+2473	250	77808.8
+2474	250	38108.3
+2475	250	0
+2476	250	12555.9
+2477	250	38004.3
+2478	250	5786.71
+2479	250	0
+2480	250	7482.33
+2481	250	0
+2482	250	9705.9
+2483	250	0
+2484	250	95605.6
+2485	250	0
+2486	250	4988.1
+2487	250	38269.6
+2488	250	0
+2489	250	0
+2490	250	38243.4
+2491	250	0
+2492	250	35709.9
+2493	250	0
+2494	250	60052.2
+2495	250	0
+2496	250	71911.6
+2497	250	7063.91
+2498	250	12791
+2499	250	0
 2499	0	7	1	6	0	7	101
 2498	0	7	3	4	0	6	233
 2497	0	6	2	4	0	5	227
