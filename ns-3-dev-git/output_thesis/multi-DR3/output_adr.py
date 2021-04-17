@@ -1,5 +1,5 @@
 nodes = ["100", "500", "1000", "2500"]
-dr = "2"
+dr = "3"
 
 for i_ind in range(0, 4):
     for j in range(1,6):

@@ -315,6 +315,7 @@ LoRaWANNetworkServer::HandleUSPacket (Ptr<LoRaWANGatewayApplication> lastGW, Add
 
     //TODO: add a bool to define if ADR algorithm is in use
     if(it->second.m_nUniqueUSPackets % ADR_FREQUENCY == 0) {
+        NS_LOG_INFO("set ADR");
         it->second.m_setAdr = true; //send a dl packet with the result of running the ADR algorithm
     }
 
@@ -573,7 +574,7 @@ LoRaWANNetworkServer::SendDSPacket (uint32_t deviceAddr, Ptr<LoRaWANGatewayAppli
     elementToSend.m_downstreamFramePort = element->m_downstreamFramePort;
     elementToSend.m_downstreamTransmissionsRemaining = element->m_downstreamTransmissionsRemaining;
   } else {
-      /*if(it->second.m_setAdr) { //If there is no data to be sent down, but we need to send ADR data. TODO: make this a more general MAC command bool
+      if(it->second.m_setAdr) { //If there is no data to be sent down, but we need to send ADR data. TODO: make this a more general MAC command bool
         ///////////
         //TODO: double-check this. The DSTimerExpired method implies that the create<Packet>(num) used there INCLUDES the size of the LoRaWAN header (13 bytes)
         //but here the "empty" packets are of size 0, shouldn't they be 13 bytes? Maybe ask in GitHub group.
@@ -586,7 +587,7 @@ LoRaWANNetworkServer::SendDSPacket (uint32_t deviceAddr, Ptr<LoRaWANGatewayAppli
         elementToSend.m_downstreamFramePort = 0; // empty packet, so don't send frame port
         elementToSend.m_downstreamTransmissionsRemaining = 0;
         ///////////
-      } else*/ if (it->second.m_setAck) {
+      } else if (it->second.m_setAck) {
         NS_LOG_DEBUG (this << " Generating empty downstream packet to send Ack for dev addr " << deviceAddr);
         elementToSend.m_downstreamPacket = Create<Packet> (0); // create empty packet so that we can send the Ack
         elementToSend.m_downstreamMsgType = LORAWAN_UNCONFIRMED_DATA_DOWN; // should also set msg type
@@ -656,6 +657,8 @@ LoRaWANNetworkServer::SendDSPacket (uint32_t deviceAddr, Ptr<LoRaWANGatewayAppli
     
 
     
+  } else {
+  	NS_LOG_INFO("ADR not ran");
   }
 
   p->AddHeader (fhdr);

@@ -1,5 +1,5 @@
 nodes = ["100", "500", "1000", "2500"]
-dr = "2"
+dr = "0"
 
 for i_ind in range(0, 4):
     for j in range(1,6):
@@ -19,5 +19,8 @@ for i_ind in range(0, 4):
                     total_nodes += 1
                     #print(line)
                 line = f.readline()
-            total_time /= total_nodes
-            print("adr-" + nodes[i_ind] + "-" + dr + "-" + str(j) + ", " + str(total_time))
+            if(total_nodes==0):
+                print("adr-" + nodes[i_ind] + "-" + dr + "-" + str(j) + ", ")
+            else:
+                total_time /= total_nodes
+                print("adr-" + nodes[i_ind] + "-" + dr + "-" + str(j) + ", " + str(total_time))
