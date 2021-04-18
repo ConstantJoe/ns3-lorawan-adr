@@ -1,29 +1,409 @@
 Waf: Entering directory `/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/build'
 Waf: Leaving directory `/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/build'
 Build commands will be stored in build/compile_commands.json
-Traceback (most recent call last):
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 110, in waf_entry_point
-    run_commands()
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 171, in run_commands
-    ctx=run_command(cmd_name)
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 162, in run_command
-    ctx.execute()
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Scripting.py", line 383, in execute
-    return execute_method(self)
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Build.py", line 107, in execute
-    self.execute_build()
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Build.py", line 121, in execute_build
-    self.post_build()
-  File "/home/joseph/Workspace/thesis-adr-final/ns3-lorawan-adr/ns-3-dev-git/.waf-1.8.19-b1fc8f7baef51bd2db4c2971909a568d/waflib/Build.py", line 276, in post_build
-    m(self)
-  File "waf-tools/clang_compilation_database.py", line 45, in write_compilation_database
-    root = json.load(database_file)
-  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
-    **kw)
-  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
-    return _default_decoder.decode(s)
-  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
-    raise ValueError("No JSON object could be decoded")
-ValueError: No JSON object could be decoded
+'build' finished successfully (0.969s)
+LOCATIONS START
+0 1820.04 1002.63 0
+1 1898.51 -271.46 0
+2 -666.778 4642.32 0
+3 -567.505 -1259.62 0
+4 -2042.98 -1565.45 0
+5 -1385.49 2874.33 0
+6 -1072.96 -3452.64 0
+7 -2434.56 -64.2383 0
+8 2606.47 344.377 0
+9 -3500.76 506.107 0
+10 -4362.61 1978.91 0
+11 -3044.84 -2212.68 0
+12 -2526.08 837.904 0
+13 2162.76 1834.98 0
+14 -733.054 -2537.6 0
+15 -4360.63 -2176.89 0
+16 2514.8 3862.67 0
+17 1593.55 356.644 0
+18 1528.43 3404.12 0
+19 -428.724 -400.682 0
+20 2849.15 2762.71 0
+21 -1081.43 -817.185 0
+22 -3777.35 2670.43 0
+23 4188.82 -2588.41 0
+24 1404.53 -2323.71 0
+25 -4009.7 -908.508 0
+26 -1581.98 209.156 0
+27 746.775 2523.73 0
+28 -731.162 1505.22 0
+29 -674.045 986.284 0
+30 -1742.55 -4646 0
+31 -896.286 2724.65 0
+32 -2119.79 -2922.61 0
+33 92.2961 3633.63 0
+34 2801.27 4139.2 0
+35 1372.37 -2009.14 0
+36 -2597.91 3205.81 0
+37 -2365.98 3373.49 0
+38 -3991.44 -726.739 0
+39 -116.913 -4518.23 0
+40 -1226.39 -2094.18 0
+41 37.4828 4132.76 0
+42 -1172.45 3677.49 0
+43 -73.5347 3039.57 0
+44 -4092.05 2167.78 0
+45 -3062.08 562.775 0
+46 -2025.48 -4116.32 0
+47 -193.587 -2161.43 0
+48 4650.51 887.541 0
+49 -3243.62 -627.307 0
+50 -2890.3 2433.26 0
+51 -2375.36 -3084.35 0
+52 -3601.56 485.27 0
+53 -1860.41 3248.06 0
+54 1522.72 3149.5 0
+55 2012.59 -3536.25 0
+56 -4339.43 19.6346 0
+57 3829.54 -171.124 0
+58 816.107 406.291 0
+59 4061.14 -69.114 0
+60 1311.67 750.533 0
+61 -1569.41 161.408 0
+62 -185.01 1609.78 0
+63 2864.3 -2997.3 0
+64 -343.027 3818.08 0
+65 1123.84 4117.8 0
+66 4507.85 -714.492 0
+67 925.605 -2269.09 0
+68 -2794.36 2165.11 0
+69 -326.286 -2217.77 0
+70 -1872.03 900.287 0
+71 -2205.69 912.008 0
+72 -359.539 -4119.52 0
+73 -1014.61 -1619.52 0
+74 1052.87 -3806.04 0
+75 3112.74 2621.38 0
+76 -2641.77 -1483.16 0
+77 3763.31 -2355.48 0
+78 -3056.02 3863.01 0
+79 3492.15 -581.135 0
+80 -3512.47 -1805.38 0
+81 674.941 950.431 0
+82 185.632 2001.47 0
+83 -1052.53 -986.439 0
+84 1389.95 1.33915 0
+85 2129.93 -670.936 0
+86 2691.11 2111.34 0
+87 -3455.19 1317.19 0
+88 -3996.05 2888.09 0
+89 -390.907 -4385.12 0
+90 3499.76 -1476.31 0
+91 -136.174 2666.93 0
+92 939.855 341.225 0
+93 1188.53 378.593 0
+94 -4714.41 861.377 0
+95 -1447.12 -4653.23 0
+96 2415.69 1346.55 0
+97 4254.11 2250.11 0
+98 -1597.15 -3056.55 0
+99 1329.29 -895.524 0
+LOCATIONS END
+starting energy print out
+Node 0 Energy used overall: 15.9946
+Node 1 Energy used overall: 23.2086
+Node 2 Energy used overall: 23.2444
+Node 3 Energy used overall: 22.9064
+Node 4 Energy used overall: 10.7825
+Node 5 Energy used overall: 11.0979
+Node 6 Energy used overall: 12.4193
+Node 7 Energy used overall: 22.8505
+Node 8 Energy used overall: 22.8505
+Node 9 Energy used overall: 16.625
+Node 10 Energy used overall: 10.6531
+Node 11 Energy used overall: 9.85459
+Node 12 Energy used overall: 15.5857
+Node 13 Energy used overall: 10.4864
+Node 14 Energy used overall: 15.9946
+Node 15 Energy used overall: 10.4599
+Node 16 Energy used overall: 10.0208
+Node 17 Energy used overall: 22.8239
+Node 18 Energy used overall: 10.4599
+Node 19 Energy used overall: 34.3583
+Node 20 Energy used overall: 9.59331
+Node 21 Energy used overall: 22.8239
+Node 22 Energy used overall: 10.0208
+Node 23 Energy used overall: 10.1686
+Node 24 Energy used overall: 10.6853
+Node 25 Energy used overall: 15.6263
+Node 26 Energy used overall: 22.8505
+Node 27 Energy used overall: 15.6263
+Node 28 Energy used overall: 22.8239
+Node 29 Energy used overall: 22.8239
+Node 30 Energy used overall: 13.0893
+Node 31 Energy used overall: 15.5716
+Node 32 Energy used overall: 10.0208
+Node 33 Energy used overall: 23.2444
+Node 34 Energy used overall: 10.6046
+Node 35 Energy used overall: 12.7262
+Node 36 Energy used overall: 10.1186
+Node 37 Energy used overall: 10.335
+Node 38 Energy used overall: 15.5451
+Node 39 Energy used overall: 34.3291
+Node 40 Energy used overall: 12.308
+Node 41 Energy used overall: 23.2444
+Node 42 Energy used overall: 12.2814
+Node 43 Energy used overall: 22.8736
+Node 44 Energy used overall: 10.5631
+Node 45 Energy used overall: 15.9946
+Node 46 Energy used overall: 10.4599
+Node 47 Energy used overall: 23.2444
+Node 48 Energy used overall: 22.8505
+Node 49 Energy used overall: 15.5716
+Node 50 Energy used overall: 10.3472
+Node 51 Energy used overall: 10.3207
+Node 52 Energy used overall: 22.8239
+Node 53 Energy used overall: 10.6225
+Node 54 Energy used overall: 10.9403
+Node 55 Energy used overall: 10.1952
+Node 56 Energy used overall: 34.1933
+Node 57 Energy used overall: 22.8505
+Node 58 Energy used overall: 34.6796
+Node 59 Energy used overall: 23.2444
+Node 60 Energy used overall: 22.8239
+Node 61 Energy used overall: 22.8239
+Node 62 Energy used overall: 22.8505
+Node 63 Energy used overall: 9.70029
+Node 64 Energy used overall: 23.2179
+Node 65 Energy used overall: 15.5716
+Node 66 Energy used overall: 22.8239
+Node 67 Energy used overall: 15.5716
+Node 68 Energy used overall: 10.0208
+Node 69 Energy used overall: 22.9002
+Node 70 Energy used overall: 15.5451
+Node 71 Energy used overall: 15.5716
+Node 72 Energy used overall: 22.8505
+Node 73 Energy used overall: 15.9946
+Node 74 Energy used overall: 15.6263
+Node 75 Energy used overall: 10.0737
+Node 76 Energy used overall: 10.9759
+Node 77 Energy used overall: 10.0208
+Node 78 Energy used overall: 10.4747
+Node 79 Energy used overall: 15.5835
+Node 80 Energy used overall: 10.4864
+Node 81 Energy used overall: 23.2179
+Node 82 Energy used overall: 22.8863
+Node 83 Energy used overall: 22.8863
+Node 84 Energy used overall: 34.3583
+Node 85 Energy used overall: 15.5451
+Node 86 Energy used overall: 10.1605
+Node 87 Energy used overall: 12.7032
+Node 88 Energy used overall: 10.1163
+Node 89 Energy used overall: 22.8505
+Node 90 Energy used overall: 12.7742
+Node 91 Energy used overall: 22.8505
+Node 92 Energy used overall: 34.3583
+Node 93 Energy used overall: 34.3291
+Node 94 Energy used overall: 22.8239
+Node 95 Energy used overall: 15.6403
+Node 96 Energy used overall: 12.2814
+Node 97 Energy used overall: 10.4864
+Node 98 Energy used overall: 10.9403
+Node 99 Energy used overall: 22.8239
+starting destroy
+0	250	11693.7
+1	250	11729.7
+2	250	11455.2
+3	250	11700.8
+4	250	23478.5
+5	250	23947.8
+6	250	12354.1
+7	250	11625.4
+8	250	11978.9
+9	250	23862
+10	250	24527.7
+11	250	11669.7
+12	250	11874.1
+13	250	11966
+14	250	11751.1
+15	250	11923.1
+16	250	11595.5
+17	250	11875.4
+18	250	11698.2
+19	250	0
+20	250	11763.4
+21	250	11565.4
+22	250	11569
+23	250	11462
+24	250	23853.8
+25	250	12550.5
+26	250	11872.5
+27	250	12533.5
+28	250	11769.1
+29	250	11425
+30	250	23604.8
+31	250	11465.4
+32	250	11430.6
+33	250	11736.7
+34	250	12000.3
+35	250	11721.5
+36	250	11827.6
+37	250	11896.9
+38	250	11630.9
+39	250	0
+40	250	11684.6
+41	250	11932.9
+42	250	11496.4
+43	250	12170.5
+44	250	12553.7
+45	250	11472.3
+46	250	11409
+47	250	11702.5
+48	250	11906.6
+49	250	11745.2
+50	250	12275.4
+51	250	12375.7
+52	250	11918
+53	250	11562.9
+54	250	11820.6
+55	250	11973
+56	250	0
+57	250	11492.8
+58	250	0
+59	250	11817.8
+60	250	11531.2
+61	250	11838.4
+62	250	11558.8
+63	250	12421.9
+64	250	11926.9
+65	250	11571
+66	250	11655.1
+67	250	11473.1
+68	250	11547.7
+69	250	12307.7
+70	250	11737.6
+71	250	11725.3
+72	250	11599.4
+73	250	11509.2
+74	250	12289.1
+75	250	11634.8
+76	250	14531.4
+77	250	11491.9
+78	250	11786.9
+79	250	11852.8
+80	250	11944.9
+81	250	11577.2
+82	250	11805.4
+83	250	11708.4
+84	250	0
+85	250	11950.2
+86	250	12063.5
+87	250	14275.7
+88	250	12268.1
+89	250	11770.2
+90	250	35672.9
+91	250	11668.1
+92	250	0
+93	250	0
+94	250	11987.9
+95	250	12303.7
+96	250	11433.4
+97	250	11677.3
+98	250	11927.7
+99	250	11807.5
+99	0	12	12	0	0	0	269
+98	0	12	0	12	0	0	258
+97	0	12	11	1	0	0	250
+96	0	12	12	0	0	0	266
+95	0	11	11	0	0	0	241
+94	0	12	12	0	0	0	269
+93	0	12	12	0	0	0	503
+92	0	12	11	1	0	0	527
+91	0	12	11	1	0	0	500
+90	0	13	11	2	0	1	273
+89	0	12	11	1	0	0	390
+88	0	11	11	0	0	0	239
+87	0	12	11	1	0	0	264
+86	0	12	11	1	0	0	249
+85	0	12	12	0	0	0	270
+84	0	12	11	1	0	0	500
+83	0	12	10	2	0	0	273
+82	0	12	10	2	0	0	492
+81	0	12	1	11	0	0	276
+80	0	12	11	1	0	0	251
+79	0	12	11	1	0	0	270
+78	0	12	0	12	0	0	250
+35	0	12	1	11	0	0	261
+34	0	12	1	11	0	0	250
+33	0	12	0	12	0	0	499
+32	0	12	11	1	0	0	250
+31	0	12	11	1	0	0	270
+30	0	12	1	11	0	0	250
+29	0	12	12	0	0	0	280
+28	0	12	12	0	0	0	270
+27	0	12	12	0	0	0	270
+26	0	12	11	1	0	0	456
+25	0	12	12	0	0	0	268
+24	0	12	10	2	0	0	259
+23	0	12	12	0	0	0	250
+22	0	12	11	1	0	0	250
+21	0	12	12	0	0	0	280
+20	0	12	12	0	0	0	250
+19	0	12	11	1	0	0	696
+18	0	12	12	0	0	0	260
+17	0	12	12	0	0	0	413
+16	0	12	11	1	0	0	250
+5	0	12	0	12	0	0	264
+4	0	12	8	4	0	0	255
+3	0	12	11	1	0	0	272
+2	0	12	0	12	0	0	270
+0	0	12	0	12	0	0	270
+1	0	12	1	11	0	0	484
+6	0	11	10	1	0	0	259
+7	0	12	11	1	0	0	500
+8	0	12	11	1	0	0	492
+9	0	12	0	12	0	0	287
+10	0	12	11	1	0	0	249
+11	0	12	12	0	0	0	250
+12	0	11	10	1	0	0	259
+13	0	12	11	1	0	0	250
+14	0	12	0	12	0	0	270
+15	0	12	12	0	0	0	250
+36	0	12	1	11	0	0	250
+37	0	12	0	12	0	0	250
+38	0	12	12	0	0	0	270
+39	0	12	12	0	0	0	500
+40	0	12	11	1	0	0	268
+41	0	12	0	12	0	0	498
+42	0	12	12	0	0	0	268
+43	0	12	12	0	0	0	488
+44	0	12	12	0	0	0	250
+45	0	12	0	12	0	0	270
+46	0	12	12	0	0	0	250
+47	0	12	0	12	0	0	495
+48	0	12	11	1	0	0	270
+49	0	12	11	1	0	0	270
+50	0	12	0	12	0	0	250
+51	0	12	1	11	0	0	250
+52	0	12	12	0	0	0	458
+53	0	12	1	11	0	0	250
+54	0	12	0	12	0	0	262
+55	0	12	11	1	0	0	250
+56	0	12	12	0	0	0	498
+57	0	12	11	1	0	0	487
+58	0	12	0	12	0	0	594
+59	0	12	0	12	0	0	498
+60	0	12	12	0	0	0	271
+61	0	12	12	0	0	0	473
+62	0	12	11	1	0	0	476
+63	0	12	12	0	0	0	250
+64	0	12	1	11	0	0	477
+65	0	12	11	1	0	0	270
+66	0	12	12	0	0	0	271
+67	0	12	11	1	0	0	269
+68	0	12	11	1	0	0	250
+69	0	12	11	1	0	0	481
+70	0	12	12	0	0	0	260
+71	0	12	11	1	0	0	270
+72	0	12	11	1	0	0	456
+73	0	12	0	12	0	0	268
+74	0	12	12	0	0	0	271
+75	0	12	0	12	0	0	250
+76	0	12	12	0	0	0	259
+77	0	12	11	1	0	0	250
+finishing destroy
